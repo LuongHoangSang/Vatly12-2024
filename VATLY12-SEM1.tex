@@ -1,0 +1,138 @@
+
+\documentclass[11pt,a4paper,onecolumn,titlepage,twoside,openany]{book}
+%\usepackage{fouriernc}
+%%%%%%%%%%%%%%CHỌN KIỂU TÀI LIỆU
+%--- Hiện đầy đủ: bìa, mục lục, lý thuyết, dạng
+%%%% LT-1: VD-EX-BT đóng khung
+%%%% LT-2: VD-BT đóng khung; EX No khung.
+%%%% LT-3: VD đóng khung; EX-BT No khung.
+%%%% LT-4: VD-EX-BT No khung.
+%--- Ẩn lý thuyết, chỉ hiện đề bài theo từng Section
+%%%% BT-0: VD-EX-BT đóng KHUNG
+%%%% BT-1: Bỏ VD, Đề EX-BT đóng KHUNG
+%%%% BT-2: VD đóng khung; EX-BT No khung.
+%%%% BT-3: VD-EX-BT No Khung
+%%%% BT-4: Bỏ VD, Đề EX-BT No Khung
+%----------- Chọn KIỂU MÀU SỬ DỤNG
+%%%% Y: Tài liệu ĐẦY ĐỦ MÀU SẮC.
+%%%% N: Tài liệu ĐEN - TRẮNG.
+\def\loaitailieu{LT-3} % Chọn loại tài liệu tương ứng với note ở trên
+\def\mausac{Y} %Chọn kiểu màu muốn xuất
+%%%%%%%%%%%%%%% Các thông số trang tài liệu
+\def\tren{1.65}\def\duoi{1.5}\def\trai{1}\def\phai{1} %cách lề
+\def\topset{0.5} %kc giữa đáy header và vùng vb
+\def\botset{0.75} %kc giữa đỉnh footer và vùng vb
+\def\leftnote{4.5} %Độ rộng cột Note
+\input{cautruc13/mausac-\mausac}
+%%--- Icon trước VD,EX, BT khi đóng khung
+\def\iconVD{\faGg\,}
+%%%%%%%%%%%%% Khai báo cơ bản cho file Main
+\input{cautruc13/Khai-bao-cho-file-main13}
+\input{cautruc13/BosungK}
+\input{cautruc13/\loaitailieu}
+%%% Hiện/ẩn đáp án (chỉ sd cho EX - ko đóng chung)
+\renewcommand{\indapan}[2]{}
+%%% Đáp số Ẩn/hiện
+%\exitdapso
+%%%%%%%%%%%%% ĐIỀU KHIỂN LỜI GIẢI ,DÒNG CHẤM, ĐÁP SỐ
+%%%========= Thay LG bằng dòng chấm
+%\dotlinefull{vd}
+%\dotlinefull{ex}
+%\dotlinefull{bt}
+%\AnboxEX
+%%%========= Ẩn lời giải và hiện số dòng chấm cố định
+%\dotlineans{10}{vd}
+%\dotlineans{10}{ex}
+%\dotlineans{5}{bt}
+%\AnboxEX
+%%%========= Ẩn lời giải
+%\hideansEX{vd}
+\hideansEX{ex}
+%\hideansEX{bt}
+\AnboxEX
+%%%%%%%%%%%%%%% Thông tin trong Kiểu tài liệu BT
+\def\truocVD{Các dạng toán}
+\def\truocBT{Bài tập vận dụng}
+\def\truocEX{Bài tập trắc nghiệm}
+%%%%%%%%%%%%% 
+\def\chamngon{Thà để giọt mồ hôi rơi trên trang sách 
+	còn hơn để nước mắt rơi ướt cả đề thi}
+%%%%%%%%%%%%%
+\def\trenphai{www.facebook.com/luonghoangsang99}
+\def\hoten{Lương Hoàng Sang}
+\def\SDT{09.6175.0612}
+\def\duoiphai{\faFileText\, \hoten \,\,--\,\, \faPhoneSquare\ \SDT}
+%--
+%\def\trenphai{}
+%\def\duoiphai{}
+%%%%%%%%%%%%% Đn lại A.B.C.D
+\khoanhtrondapan
+%\khongkhoanhtrondapan
+%%%%%%%%%%%%% ẨN/HIỆN LOGO
+%\anLOGO
+%\hienLOGO
+%%====================================================
+%=================BẮT ĐẦU TÀI LIỆU===================
+\renewcommand{\arraystretch}{1.2}
+\begin{document}
+	\pdfmapfile{+hunglan.map}
+%	\raggedbottom
+	\renewcommand{\chaptername}{Chương} %thay đổi tiêu đề chương
+	%--Trang bìa
+	\pagenumbering{gobble}%tắt đánh số trang
+	\setcounter{page}{0}
+	\includepdf{bia13/bia9-tap1-2.pdf}%chèn bìa pdf
+%	\newpage\null\thispagestyle{empty}\newpage%tạo trang trống
+	%--Mục lục chính
+	\FULLWIDTH
+	\muclucchinh
+	%------------
+	\clearpage%đặt lại đánh số trang
+	\pagenumbering{arabic}%đánh số trang dạng 1,2,...
+%====================================================
+%==================BẮT ĐẦU TÀI LIỆU==================
+%%%%\NOTE
+%~~~~~~~~~~~~~~~~~~~~~~
+\part{HỌC KÌ I}
+%%%%%%%%%%%%%%%%%%% OKs
+\setcounter{chapter}{0}  
+\chapter{VẬT LÝ NHIỆT}
+\input{data/G12Y24B1}	
+%%%%%%%%%%%%%%%%%%%% OKs
+\setcounter{chapter}{1}
+%\chapter{BẤT ĐẲNG THỨC. BẤT~PHƯƠNG~TRÌNH~BẬC~NHẤT~MỘT~ẨN}
+%\input{CTST9-HK1/9S2-1} %BĐT và tính chất
+%\newpage\input{CTST9-HK1/9S2-2} %Bpt bậc nhất 1 ẩn
+%\newpage\input{CTST9-HK1/9S2-OTC}
+%%%%%%%%%%%%%%%%%%%%% OKs
+%\setcounter{chapter}{2}
+%\chapter{CĂN BẬC HAI VÀ CĂN BẬC BA}
+%\input{CTST9-HK1/9S3-1} %Căn bậc hai
+%\newpage\input{CTST9-HK1/9S3-2} %Căn bậc ba
+%\newpage\input{CTST9-HK1/9S3-3} %Tính chất của phép khai phương
+%\newpage\input{CTST9-HK1/9S3-3-LT} %LTC
+%\newpage\input{CTST9-HK1/9S3-4} %Biến đổi đơn giản biểu thức chứa căn thức bậc hai
+%\newpage\input{CTST9-HK1/9S3-4-LT} %LT
+%\newpage\input{CTST9-HK1/9S3-OTC1} %Ôn tập
+%\newpage\input{CTST9-HK1/9S3-OTC2} %Ôn tập 2
+%~~~~~~~~~~~~~~~~~~~~~~
+%\part{HÌNH HỌC VÀ~ĐO~LƯỜNG}
+%%%%%%%%%%%%%%%%%%%%% OKs
+%\setcounter{chapter}{3}
+%\chapter{HỆ THỨC LƯỢNG TRONG TAM GIÁC VUÔNG}
+%\input{CTST9-HK1/9S4-1} %Tỉ số lượng giác của góc nhọn
+%\newpage\input{CTST9-HK1/9S4-2} %Hệ thức giữa cạnh và góc của tam giác vuông
+%\newpage\input{CTST9-HK1/9S4-2-LT} %LT
+%\newpage\input{CTST9-HK1/9S4-OTC} %ôn tập chương
+%%%%%%%%%%%%%%%%%%%%% OK
+%\setcounter{chapter}{4}
+%\chapter{ĐƯỜNG TRÒN} 
+%\input{CTST9-HK1/9S5-1} %Đường tròn
+%\newpage\input{CTST9-HK1/9S5-2} %Tiếp tuyến của đt
+%\newpage\input{CTST9-HK1/9S5-3} %Góc ở tâm. Góc nội tiếp
+%\newpage\input{CTST9-HK1/9S5-4} %Hình quạt tròn và hình vành khuyên
+%\newpage\input{CTST9-HK1/9S5-4-LTC} %LTC
+%\newpage\input{CTST9-HK1/9S5-OTC}
+
+\end{document}
+

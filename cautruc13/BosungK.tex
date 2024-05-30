@@ -1,0 +1,66 @@
+%\usepackage{xskak}
+\usepackage{casiovn}
+%Vẽ quốc kỳ, chèn hình thực tế
+%\usepackage{worldflags}
+\usepackage{twemojis}
+%\usepackage{etoolbox}%tính toán, công cụ
+%
+%\usepackage{graphicx}
+
+%\usepackage{tabvar}
+\renewcommand{\vec}[1]{\protect\overrightarrow{#1}}
+\newenvironment{boxtb}{\begin{tomtat}}{\end{tomtat}}
+\newenvironment{makerr}{\begin{noidung}{CHÚ Ý}}{\end{noidung}}
+
+\def\viduminhhoa{\subsubsection{Ví dụ minh họa}}
+\def\baitaptl{\subsubsection{Bài tập rèn luyện}}
+\def\baitapbs{\subsubsection{Bài tập bổ sung}}
+%-----Vidu mới
+%--------------------Ví dụ mới
+\newenvironment{vidu}{\begin{boxvidu}\begin{myvidu}}{\end{myvidu}\end{boxvidu}}
+%%%%%%%%%LVD
+\def\baitoan{\faHandORight\ \textbf{Bài toán. }}
+\def\phuongphap{\faHandODown\ \textbf{Phương pháp: }}
+
+\newcommand{\boxde}[1]{%
+	\setcounter{ex}{0} % đặt bộ đếm Câu về 1
+	\setcounter{bt}{0}
+	%	\addcontentsline{toc}{subsection}{#1~\thede} % đưa MT vào mục lục
+	\begin{center}
+		\begin{tikzpicture}[baseline=(A.base),scale=1]%
+			\node[thick,scale=1,fill=teal!80,draw=teal,minimum width=2.5cm,minimum height=0.1cm,rounded corners=2mm] (A) {\bf\fontfamily{qag}\selectfont\color{white}#1};
+		\end{tikzpicture}%
+	\end{center}
+}
+%-----Đn lại lệnh lời giải
+\AtBeginEnvironment{vidu}{
+	\def\loigiaiEX{\color{\mauVD}\fontfamily{put}\selectfont Lời giải.%
+	}
+}
+\foreach \moitruong in {ex,vd,bt}{
+	\AtBeginEnvironment{\moitruong}{
+		\def\loigiaiEX{\color{\mauLG}\damEX\faCommenting\ Lời giải.%
+		}
+	}
+}
+%%%%%%%%%%%%%%%% Thêm
+\newenvironment{ltap}{\begin{bt}}{\end{bt}}
+\newenvironment{vandung}{\begin{bt}}{\end{bt}}
+\newenvironment{thuchanh}{\begin{bt}}{\end{bt}}
+%--- hỗ trợ bảng 
+\renewcommand{\theadfont}
+{
+	\normalfont\bfseries
+} % làm ô trong bảng canh giữa + in đậm 
+\newcommand{\nfhead}[1] % tên lệnh 
+{
+	\renewcommand{\theadfont}
+	{
+		\normalfont
+	}
+	\thead{#1}
+	\renewcommand{\theadfont}
+	{
+		\normalfont\bfseries
+	} 
+}

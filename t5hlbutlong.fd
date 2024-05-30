@@ -1,0 +1,17 @@
+%Filename: t5hlbutlong.fd
+%Created by: tex mkfonts
+%Created using fontinst v1.927
+
+%THIS FILE SHOULD BE PUT IN A TEX INPUTS DIRECTORY
+
+\ProvidesFile{t5hlbutlong.fd}
+   [2007/04/07 Fontinst v1.927 font definitions for T5/HLButlong.]
+
+\DeclareFontFamily{T5}{HLButlong}{}
+
+\DeclareFontShape{T5}{HLButlong}{m}{n}{
+   <-> HLButlong8v
+}{}
+
+
+\endinput

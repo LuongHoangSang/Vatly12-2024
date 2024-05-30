@@ -1,0 +1,108 @@
+\let\lesson\undefined
+\newcommand{\lesson}{\phantomlesson{Bài 4: Nhiệt dung riêng, nhiệt nóng chảy riêng, nhiệt hoá hơi riêng}}
+\chapter[Nhiệt nóng chảy riêng. Nhiệt hoá hơi riêng]{Nhiệt nóng chảy riêng. Nhiệt hoá hơi riêng}
+\section{Lý thuyết}
+\subsection{Nhiệt nóng chảy riêng}
+Nhiệt nóng chảy riêng của một chất rắn có giá trị bằng nhiệt lượng cần cung cấp cho $\SI{1}{\kilogram}$ chất đó chuyển từ thể rắn sang thể lỏng tại nhiệt độ nóng chảy:
+\begin{equation}
+	\lambda=\dfrac{Q}{m}
+\end{equation}
+với
+\begin{itemize}
+	\item $\lambda$: nhiệt nóng chảy riêng, đơn vị trong hệ SI là $\si{\joule/\kilogram}$;
+	\item $Q$: nhiệt lượng khối chất rắn thu vào để nóng chảy hoàn toàn, đơn vị trong hệ SI là $\si{\joule}$;
+	\item $m$: khối lượng của khối chất rắn, đơn vị trong hệ SI là $\si{\kilogram}$.
+\end{itemize}
+\subsection{Nhiệt hoá hơi riêng}
+Nhiệt hoá hơi riêng của một chất lỏng có giá trị bằng nhiệt lượng cần cung cấp cho $\SI{1}{\kilogram}$ chất lỏng đó hoá hơi hoàn toàn ở nhiệt độ sôi:
+\begin{equation}
+	L=\dfrac{Q}{m}
+\end{equation}
+với
+\begin{itemize}
+	\item $L$: nhiệt hoá hơi riêng, đơn vị trong hệ SI là $\si{\joule/\kilogram}$;
+	\item $Q$: nhiệt lượng khối chất lỏng thu vào để hoá hơi hoàn toàn, đơn vị trong hệ SI là $\si{\joule}$;
+	\item $m$: khối lượng của khối chất lỏng, đơn vị trong hệ SI là $\si{\kilogram}$.
+\end{itemize}
+\section{Mục tiêu bài học - Ví dụ minh hoạ}
+\begin{dang}{Vận dụng biểu thức xác định nhiệt nóng chảy riêng}
+	\viduii{2}
+	{Một nhà máy thép mỗi lần luyện được 35 tấn thép. Cho nhiệt nóng chảy riêng của thép là $\SI{2.77E5}{\joule/\kilogram}$.
+		\begin{enumerate}[label=\alph*)]
+			\item Tính nhiệt lượng cần cung cấp để làm nóng chảy thép trong mỗi lần luyện của nhà máy ở nhiệt độ nóng chảy.
+			\item Giả sử nhà máy sử dụng khí đốt để nấu chảy thép trong lò thổi (nồi nấu thép). Biết khi đốt cháy hoàn toàn $\SI{1}{\kilogram}$ khí đốt thì nhiệt lượng toả ra là $\SI{44E6}{\joule}$. Xác định khối lượng khí đốt cần sử dụng.
+		\end{enumerate}
+	
+}
+{\hide{
+	\begin{enumerate}[label=\alph*)]
+		\item Nhiệt lượng cần cung cấp để làm nóng chảy thép trong mỗi lần luyện của nhà máy ở nhiệt độ nóng chảy:
+		$$Q=m\lambda=\left(\SI{35E3}{\kilogram}\right)\cdot\left(\SI{2.77E5}{\joule/\kilogram}\right)=\SI{96.95E8}{\joule}.$$
+		\item Khối lượng khí đốt cần sử dụng để nhiệt lượng toả ra như ở câu a):
+		$$m=\dfrac{Q}{q}=\dfrac{\SI{96.95E8}{\joule}}{\SI{44E6}{\joule/\kilogram}}\approx\SI{220.34}{\kilogram}.$$
+	\end{enumerate}}
+}
+
+\viduii{3}
+{Tính thời gian cần thiết để làm nóng chảy hoàn toàn $\SI{2}{\kilogram}$ đồng có nhiệt độ ban đầu $\SI{30}{\celsius}$, trong một lò nung điện có công suất $\SI{20000}{\watt}$. Biết chỉ có $\SI{50}{\percent}$ năng lượng tiêu thụ của lò được dùng vào việc làm đồng nóng lên và nóng chảy hoàn toàn ở nhiệt độ không đổi. Biết nhiệt độ nóng chảy của đồng là $\SI{1084}{\celsius}$. Cho nhiệt dung riêng, nhiệt nóng chảy riêng của đồng lần lượt là $\SI{380}{\joule/\left(\kilogram\cdot\kelvin\right)}$ và $\SI{1.8E5}{\joule/\kilogram}$.
+
+}
+{\hide{
+	Nhiệt lượng khối đồng cần thu vào để tăng nhiệt độ từ $\SI{30}{\celsius}$ đến $\SI{1084}{\celsius}$:
+	$$Q_1=mc\Delta t=\left(\SI{2}{\kilogram}\right)\cdot\left[\SI{380}{\joule/\left(\kilogram\cdot\kelvin\right)}\right]\cdot\left(\SI{1084}{\celsius}-\SI{30}{\celsius}\right)=\SI{801.04}{\kilo\joule}.$$
+	Nhiệt lượng khối đồng cần thu vào để nóng chảy hoàn toàn ở nhiệt độ $\SI{1084}{\celsius}$:
+	$$Q_2=m\lambda=\left(\SI{2}{\kilogram}\right)\cdot\left(\SI{1.8E5}{\joule/\kilogram}\right)=\SI{360}{\kilo\joule}.$$
+	Tổng nhiệt lượng $\SI{2}{\kilogram}$ đồng cần thu vào để nóng chảy hoàn toàn từ nhiệt độ ban đầu $\SI{30}{\celsius}$:
+	$$Q=Q_1+Q_2=\SI{1161.04}{\kilo\joule}.$$
+	Thời gian cần thiết để làm nóng chảy hoàn toàn khối đồng này:
+	$$t=\dfrac{Q}{H\cdot\calP}=\dfrac{\SI{1161.04E3}{\joule}}{\left(\SI{50}{\percent}\right)\cdot\left(\SI{2E4}{\watt}\right)}\approx\SI{116}{\second}.$$
+}
+}
+
+\end{dang}
+\begin{dang}{Vận dụng biểu thức xác định nhiệt hoá hơi riêng}
+	\viduii{2}
+	{Tính nhiệt lượng cần thiết để làm cho $\SI{1}{\kilogram}$ nước ở $\SI{25}{\celsius}$ chuyển thành hơi ở $\SI{100}{\celsius}$. Cho nhiệt dung riêng của nước là $\SI{4200}{\joule/\left(\kilogram\cdot\kelvin\right)}$, nhiệt hoá hơi riêng của nước ở $\SI{100}{\celsius}$ là $\SI{2.26E6}{\joule/\kilogram}$.
+	
+}
+{\hide{
+	Nhiệt lượng nước thu vào để tăng nhiệt độ từ $\SI{25}{\celsius}$ đến $\SI{100}{\celsius}$:
+	$$Q_1=mc\Delta t=\left(\SI{10}{\kilogram}\right)\cdot\left[\SI{4200}{\joule/\left(\kilogram\cdot\kelvin\right)}\right]\cdot\left(\SI{100}{\celsius}-\SI{25}{\celsius}\right)=\SI{315E4}{\joule}.$$
+	Nhiệt lượng nước cần thu vào để hoá thành hơi hoàn toàn ở $\SI{100}{\celsius}$:
+	$$Q_2=mL=\left(\SI{10}{\kilogram}\right)\cdot\left(\SI{2.26E6}{\joule/\kilogram}\right)=\SI{2260E4}{\joule}.$$
+	Tổng nhiệt lượng nước cần thu vào để hoá hơi hoàn toàn ở $\SI{100}{\celsius}$:
+	$$Q=Q_1+Q_2=\SI{25.75}{\mega\joule}.$$
+}
+}
+
+
+\viduii{3}
+{Một ấm đun nước có công suất $\SI{500}{\watt}$ chứa $\SI{300}{\gram}$ nước ở nhiệt độ $\SI{20}{\celsius}$. Cho nhiệt dung riêng của nước là $\SI{4200}{\joule/\left(\kilogram\cdot\kelvin\right)}$, nhiệt hoá hơi riêng của nước ở $\SI{100}{\celsius}$ là $\SI{2.26E6}{\joule/\kilogram}$.
+	\begin{enumerate}[label=\alph*)]
+		\item Tính thời gian cần thiết để đun nước trong ấm để đạt đến nhiệt độ sôi.
+		\item Sau khi nước đến nhiệt độ sôi, người ta để ấm tiếp tục đun nước sôi trong 2 phút. Tính khối lượng nước còn lại trong ấm và chỉ rõ điều kiện để thực hiện các tính toán đó.
+	\end{enumerate}
+
+}
+{\hide{
+	\begin{enumerate}[label=\alph*)]
+		\item Nhiệt lượng nước trong ấm cần thu vào để tăng nhiệt độ từ $\SI{20}{\celsius}$ đến nhiệt độ sôi $\left(\SI{100}{\celsius}\right)$:
+		$$Q_1=mc\Delta t=\left(\SI{0.3}{\kilogram}\right)\cdot\left[\SI{4200}{\joule/\left(\kilogram\cdot\kelvin\right)}\right]\cdot\left(\SI{100}{\celsius}-\SI{20}{\celsius}\right)=\SI{100800}{\joule}.$$
+		Thời gian đun sôi nước:
+		$$t=\dfrac{Q_1}{\calP}=\dfrac{\SI{100800}{\joule}}{\SI{500}{\watt}}\approx\SI{201}{\second}.$$
+		\item Nhiệt lượng ấm toả ra trong 2 phút:
+		$$Q_2=\calP\cdot t'=\left(\SI{500}{\watt}\right)\cdot\left(\SI{120}{\second}\right)=\SI{60}{\kilo\joule}.$$
+		Khối lượng nước bị hoá thành hơi ở nhiệt độ $\SI{100}{\celsius}$:
+		$$m'=\dfrac{Q_2}{L}=\dfrac{\SI{60E3}{\joule}}{\SI{2.26E6}{\joule/\kilogram}}\approx\SI{26.55}{\gram}.$$
+		Khối lượng nước còn lại trong ấm:
+		$$m_\text{nước}=m-m'=\SI{273.45}{\gram}.$$
+		Các tính toán trên được thực hiện với điều kiện:
+		\begin{itemize}
+			\item Nước được đun ở áp suất $\SI{1}{atm}$, do đó nhiệt độ sôi của nước là $\SI{100}{\celsius}$.
+			\item Bỏ qua nhiệt lượng cung cấp cho vỏ ấm đun và toả ra môi trường.
+			\item Bỏ qua sự bay hơi của nước trong quá trình đun.
+		\end{itemize}
+	\end{enumerate}
+}
+}	
+\end{dang}

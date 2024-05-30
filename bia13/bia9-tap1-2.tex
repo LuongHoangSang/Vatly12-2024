@@ -1,0 +1,218 @@
+\documentclass[12pt,a4paper,oneside]{book}
+\usepackage[utf8]{vietnam}
+\usepackage{amsmath,amssymb}
+\usepackage{tikz}
+\usetikzlibrary{calc,snakes}
+\begin{document}
+	\begin{tikzpicture}[overlay,remember picture,transform shape]
+	%--------------Cây
+	\def\cay[#1](#2,#3)(#4){ % 1-tỉ lệ cây; 2,3 - tịnh tiến; 4- diểm đặt đỉnh 
+		\begin{scope}[shift={(#2,#3)},#1]
+		\begin{scope}[shift={(0,3)}]
+		\tikzset{
+			treetop/.style = {
+				decoration={random steps, segment length=0.4mm},
+				decorate
+			},
+			trunk/.style = {
+				decoration={random steps, segment length=2mm, amplitude=0.2mm},
+				decorate
+			}
+		}
+		\foreach \w/\f in {0.3/30,0.2/50,0.1/70} {
+			\fill [brown!\f!black, trunk] (0,0) ++(-\w/2,0) rectangle +(\w,-3);
+		}
+		\foreach \n/\f in {1.4/40,1.2/50,1/60,0.8/70,0.6/80,0.4/90} {
+			\fill [green!\f!black, treetop] ellipse (\n/1.4 and \n);
+		}
+		\coordinate (#4) at (0,1.4);
+		\end{scope}
+		\end{scope}
+	}
+	%------------------------ĐỒNG HỒ
+	\newcommand\clock[3]{%
+		%\begin{tikzpicture}[line cap=round,line width=3pt]
+		\pgfmathsetmacro{\R}{2}
+		\filldraw [fill=violet] (0,0) circle (1.05*\R cm);
+		\filldraw [fill=white] (0,0) circle (\R cm);
+		\foreach \angle [count=\label] in {60,30,...,-270}{
+			\draw[] (\angle:0.9*\R cm) -- (\angle:\R cm);
+			\draw (\angle:0.7*\R cm) node{\textsf{\fontfamily{qag}\fontsize{10pt}{1pt}\selectfont\bfseries\color{blue}\label}};
+		}
+		\foreach \angle [count=\label] in {84,78,...,-270}{
+			\draw[] (\angle:0.95*\R cm) -- (\angle:\R cm);
+			\draw (\angle:0.85*\R cm) node[scale=0.3]{\textsf{\label}}; % Số nhỏ
+		}
+		\foreach \angle in {0,90,180,270}
+		\draw[] (\angle:0.8*\R cm) -- (\angle:\R cm);
+		\node[draw=none,text=red] at (0,0.45*\R cm) {\fontsize{8pt}{1pt}\selectfont\bf THINH-MATH};
+		%	\draw[rotate=90,line width=3.5pt] (0,0) -- (-#1*30-#2*30/60:0.35*\R cm); % Giờ cũ
+		\draw[rotate=90, fill=black] (0,0) -- (-#1*30-#2*30/60 + 12:0.32*\R cm) -- (-#1*30-#2*30/60:0.45*\R cm) -- (-#1*30-#2*30/60 - 12:0.32*\R cm) -- cycle; % Giờ
+		%	\draw[rotate=90,line width=2.5pt] (0,0) -- (-#2*6:0.5*\R cm); % Phút cũ
+		\draw[rotate=90,fill=black] (0,0) -- (-#2*6+6:0.43*\R cm) -- (-#2*6:0.55*\R cm) -- (-#2*6-6:0.43*\R cm) -- cycle; % Phút
+		\draw[rotate=90,red,line width=1pt] (0,0) -- (-#3*6:0.6*\R cm); % Giây
+		\path [fill=red] (0,0) circle (5pt);
+		%		\end{tikzpicture}%
+	}
+	%================================
+	\coordinate (A) at (current page.north west);
+	\coordinate (B) at (current page.north east);
+	\coordinate (C) at (current page.south east);
+	\coordinate (D) at (current page.south west);
+	\coordinate (AB) at (current page.north);
+	\coordinate (CD) at (current page.south);
+	\coordinate (AD) at (current page.west);
+	\coordinate (BC) at (current page.east);
+	\coordinate (G) at (current page.center);
+	%=======================================
+	\clip (A) rectangle (C);
+	%-----------------------ĐỊNH NGHĨA MÀU
+	\def\maunen{cyan!30} %màu nền cả trang
+	\def\mauchinh{teal} %màu chủ đạo
+	\def\mauchu{red} %màu chữ chính
+	\def\mautg{violet} %màu tg
+	\def\maubang{teal} %màu nền lớp
+	%-----------------------PHỦ CẢ TRANG
+	\fill[color=\maunen] (A) rectangle (C); %phủ cả trang	
+	%-----------------------Trên phải 
+	\def\aa{7cm} %dài
+	\def\bb{3} %rộng
+	%----NỀN GIỮA - TRÊN
+	\def\hh{8} %cao giữa
+	\def\dd{2.5} %dày giữa
+	\fill[\mauchinh] (A) rectangle ([yshift=-\hh cm]B);
+	\fill[\mautg] ([xshift=0cm, yshift=-\hh cm]A)--++(15.75,0)--++(35:1.5)--++(5,0)--++(0,-\dd)--++(-9,0)--++(-155:1.5)--++(-15,0)--cycle;
+	%----TRÁI TRÊN
+	\foreach \i in {1,...,10}{
+		\draw[line width=1.5pt,\mautg] ([yshift=-\bb cm - 0.15*\i cm]B)--++(-\aa,0);
+	}
+	\fill[\mautg] (B) rectangle +(-\aa,-\bb);
+	%-----HÌNH TRÒN LỚP - dưới bảng
+	\coordinate (tam) at ([yshift=-16.5 cm, xshift=-3.75cm]B);
+	\def\R{2.75}	
+	\fill[\mautg](C)--++(-3.75-\R,0)--([xshift=-\R cm, yshift=-0.4*\R cm]tam)
+		.. controls +(-62:4.35) and +(-90:5.45) .. ([xshift=3.75 cm, yshift=\R cm]tam)
+		--cycle;
+	\draw[\maubang, line width=5pt] (tam)--++(0,-15);
+	\fill[\maubang, line width=3pt, draw=\maunen] (tam) circle (\R cm);
+	%=============================LỚP 9
+	\coordinate (GGG) at ([xshift=0cm,yshift=0cm]tam); % điểm đặt chữ
+	\def\n{0.15} %độ dày của bóng
+	\def\x{6.6}\def\y{6.75} %co-giãn chữ
+	\def\mauchu{red} %màu chữ
+	\def\maubong{\maunen}
+	\foreach \i in {0,0.05,...,\n}{
+		\foreach \j in {0,5,...,360}{
+			\node[text=\maubong,xscale=\x,yscale=\y] at ($(GGG)+(\j:\i)$){\fontfamily{qcs}\fontsize{20}{0}\selectfont\bfseries 9};
+		}
+	}
+	\node[text=\mauchu,xscale=\x,yscale=\y] (lop8) at (GGG) {\fontfamily{qcs}\fontsize{20}{0}\selectfont\bfseries 9};
+	%=============================tập 1
+	\node[text=violet,xscale=1.5,yscale=1.5,anchor=south] at ([yshift=0.25cm]lop8.north) {\fontfamily{qag}\fontsize{20}{0}\selectfont\bfseries TẬP 1};
+	%=============================TOÁN HỌC
+	\coordinate (GG) at ([xshift=-2.25cm,yshift=2cm]G); % điểm đặt chữ
+	\def\n{0.8} %độ dày của bóng
+	\def\gocnghieng{40} %nghiêng của bóng
+	\def\x{5}\def\y{5} %co-giãn chữ
+	\def\mauchu{red} %màu chữ
+	\def\maubong{black}
+	\foreach \i in {0,0.01,...,\n}{
+		\pgfmathsetmacro\rr{\n-\i}
+		\pgfmathsetmacro\domo{100*\i/\n}
+		\node[text=\maubong!\domo!white,xscale=\x,yscale=\y] at ($(GG)+(\gocnghieng:\rr)$){\fontfamily{qcs}\fontsize{20}{0}\selectfont\bfseries TOÁN};
+	}
+	\node[text=\mauchu,xscale=\x,yscale=\y] at (GG) {\fontfamily{qcs}\fontsize{20}{0}\selectfont\bfseries TOÁN};
+	%=============================
+	%------------vuông giữa
+	\fill[top color=cyan!30, bottom color=white,rounded corners=10mm, line width =1.5pt, draw=black]
+	([xshift=3cm, yshift=5cm]D) rectangle +(10.5,8.5);
+
+	%============================= TIÊU ĐỀ TRÊN
+	\coordinate (KT) at ([xshift=2.8 cm,yshift=-4.75 cm]A);
+	\draw([yshift=0cm]KT) node[\maunen, yscale=1, xscale=1, right] {\fontfamily{qag}\fontsize{35 pt}{1pt}\selectfont\bfseries PHÂN DẠNG \&};
+%	\draw([yshift=-0.3cm, xshift=0cm]KT) node[\maunen,xscale=0.85,yscale=0.85, right] {\fontfamily{qag}\fontsize{35 pt}{1pt}\selectfont\bfseries \&};
+	\draw([yshift=-1.6cm, xshift=0cm]KT) node[\maunen,xscale=1,yscale=1, right] {\fontfamily{qag}\fontsize{35 pt}{1pt}\selectfont\bfseries PHƯƠNG PHÁP GIẢI};
+	%----------------------------
+	%=============================ÔN TẬP VIỀN QUANH
+	\coordinate (GG) at ([xshift=-0.1cm,yshift=1.87cm]KT); % điểm đặt chữ
+%	\def\n{0.1} %độ dày của bóng
+%	\def\x{2.73}\def\y{2.75} %co-giãn chữ
+%	\def\mauchu{red} %màu chữ
+%	\def\maubong{\maunen}
+%	\foreach \i in {0,0.05,...,\n}{
+%		\foreach \j in {0,5,...,360}{
+%			\node[text=\maubong,xscale=\x,yscale=\y, right] at ($(GG)+(\j:\i)$){\fontfamily{qcs}\fontsize{20}{0}\selectfont\bfseries ÔN TẬP};
+%		}
+%	}
+%	\node[text=\mauchu,xscale=\x,yscale=\y, right] at (GG) {\fontfamily{qcs}\fontsize{20}{0}\selectfont\bfseries ÔN TẬP};
+	%----------------------------
+	\draw([yshift=-\hh cm -0.36*\dd cm, xshift=2.8cm]A) node[white,xscale=0.9,yscale=1, right] {\fontfamily{qag}\fontsize{20 pt}{1pt}\selectfont\bfseries TÀI LIỆU DẠY THÊM - THEO SÁCH CHÂN TRỜI SÁNG TẠO};
+	%=============================
+	%=============================
+	%-----------------------TÊN TÁC GIẢ
+	\draw ($([xshift=-1cm, yshift=-1.75 cm]B)+(1pt,1pt)$) node[left,black]{\fontfamily{pag}\selectfont\fontsize{15pt}{1pt}\bfseries ThS. TRẦN ĐỨC THỊNH};
+	\draw ($([xshift=-1cm, yshift=-1.75 cm]B)$) node[left,\maunen]{\fontfamily{pag}\selectfont\fontsize{15pt}{1pt}\bfseries ThS. TRẦN ĐỨC THỊNH};
+	%=============================NXB
+	\coordinate (NXB) at ([xshift=3 cm,yshift=1.75 cm]D); % điểm đặt chữ
+	\fill[black,rounded corners=2mm,draw=\maunen] ([yshift=0.65 cm, xshift=0cm]NXB) rectangle +(1.2,1.4);
+	\draw ($([yshift=0.65 cm, xshift=0cm]NXB)+(0.6,0.7)$) node[white,xscale=1.2,yscale=2.2]{\bfseries ĐT};
+	\node[text=red!70!black,xscale=1,yscale=1, right] at (NXB) {\fontfamily{qag}\fontsize{15}{0}\selectfont\bfseries TÀI LIỆU LƯU HÀNH NỘI BỘ};
+	%================================
+	\begin{scope}[shift={(0.5,-18.7)}]
+	\clip[rounded corners=10mm]
+	([xshift=3.1cm, yshift=5.1cm]D) rectangle +(10.35,8.4);
+	%---------------------
+	\def\nhathap{3} %so tang
+	\def\dai{1} %chieu rong 1 phòng
+	\def\cao{1.25} %chieu cao 1 khối
+	\def\n{6} %số dãy nhà
+	\def\d{.2} % kẽ hở 2 dãy
+	\pgfmathsetmacro{\kc}{\dai+\d} % kc đặt
+	\pgfmathsetmacro{\phu}{\n-1} % Gán giá trị 1
+	\coordinate (A) at (0,\cao);
+	\newcommand{\xaynha}[2]{
+		\draw[very thick,violet] (#1,#2)rectangle(#1+\dai,#2+\cao);
+		\draw[very thick,fill=orange] (#1,#2)rectangle(#1+\dai,#2+0.15*\cao);
+		\draw[very thick,fill=violet!20] (#1+0.2*\dai,#2+0.25*\cao)rectangle(#1+0.8*\dai,#2+0.9*\cao); 
+	}
+	%---------------VẼ trường
+	\foreach \j in {1,...,\nhathap}{
+		\foreach \i in {0,...,\phu}{\xaynha{\i*\kc}{\j*\cao}	
+		} 
+	}
+	%---------------Vẽ mái
+	\fill[red!80!black] (-0.3,\cao*\nhathap+\cao+0.25) rectangle (\n*\kc+0.1,\cao*\nhathap+\cao+0.6);
+	\draw[line width=5pt, blue] (-0.3,\cao*\nhathap+\cao+0.15)--(\n*\kc+0.1,\cao*\nhathap+\cao+0.15);
+	%---------------Mặt trc
+	\draw[red!70!black, fill=yellow, line width=0.15cm] ($(A)+(2*\kc,0)$)--++(0,\nhathap*\cao+0.45*\nhathap)
+	--++(0,-20pt)--++(\kc-0.5*\d,0.7*\cao)--++(\kc-0.5*\d,-0.7*\cao)
+	--++(0,20pt)--++(0,-\nhathap*\cao-0.45*\nhathap)--cycle;
+	%-----Nhãn
+	\fill[blue,rounded corners=2pt] (2*\kc+\d,2*\cao+0.9) rectangle ++(2*\kc-3*\d,1.2)
+	(3*\kc-0.5*\d,2*\cao+1.5)node[white,scale=0.55]{\bf THINH-MATH}
+	({3*\kc-0.5*\d},{2*\cao+1.75})node[white,scale=0.55]{\bf University}
+	({3*\kc-0.5*\d},{2*\cao+1.2})node[yellow,scale=0.55]{\bf 0978287121};
+	%----chóp
+	\draw[top color=green!30] (2*\kc+1.4*\d,2*\cao+2.3) --++(0,0.75*\cao) --++(\kc-1.9*\d,0.6*\cao) --++(\kc-1.9*\d,-0.58*\cao) --++(0,-0.75*\cao)--cycle;
+	%-----Của chính
+	\draw[top color=green!30] (2*\kc+1.4*\d,\cao+0.3) rectangle ++(2*\kc-4*\d,0.8*\cao+0.7); % Cửa chính
+	\draw (3*\kc-0.5*\d,\cao+0.3) --++(0,0.8*\cao+0.7);
+	%-------------Đồng hồ số
+	\begin{scope}[shift={(3*\kc-0.5*\d,4.4*\cao)},scale=0.25]
+	\clock{10}{15}{30}
+	\end{scope}
+	%-------------vẽ Đường
+	\fill[yellow!90!black] (0,\cao)--(6*\kc,\cao) --(C)--([xshift=-3cm]D)-- cycle;
+	\fill[green!65!blue] (2*\kc-\d,\cao)--(4*\kc+\d,\cao) to[bend left=10 pt] ([xshift=12.7cm]D)--++(-2*\kc-3.8,0) to[bend right=10 pt] cycle;
+	\fill[gray!50] (2*\kc,\cao)--(4*\kc,\cao) to[bend left=10 pt] ([xshift=12cm]D)--++(-2*\kc-2.5,0) to[bend right=10 pt] cycle;
+	\draw[line width=4pt] (4*\kc,\cao) to[bend left=10 pt] ([xshift=12cm]D) 
+	($([xshift=12.7cm]D)+(-2*\kc-3.8,0)$) to[bend right=10 pt] (2*\kc-\d,\cao);
+	%-------------Cây cối
+	\fill[cyan!20,draw=green!20!black,line width=1pt,shift={(1.25,-0.5)}] (0,0) ellipse (0.5cm and 0.15cm);	
+	\cay[scale=0.65](1.25,-0.5)(C1)
+	\fill[cyan!20,draw=green!20!black,line width=1pt,shift={(7.05,-0.5)}] (0,0) ellipse (0.5cm and 0.15cm);	
+	\cay[scale=0.65](7.05,-0.5)(C2)
+	%---
+	\end{scope}
+	\end{tikzpicture}
+\end{document}

@@ -1,0 +1,19 @@
+\contentsline {part}{I\hspace {1em}HỌC KÌ I}{1}{part.1}%
+\contentsline {chapter}{\numberline {1}VẬT LÝ NHIỆT}{2}{chapter.1}%
+\contentsline {section}{\numberline {1}SỰ CHUYỂN THỂ}{2}{section.1.1}%
+\contentsline {subsection}{\numberline {A}LÝ THUYẾT TRỌNG TÂM}{2}{subsection.1.1.1}%
+\contentsline {subsubsection}{\numberline {1}Mô hình động học phân tử về cấu tạo chất}{2}{subsubsection.1.1.1.1}%
+\contentsline {subsubsection}{\numberline {2}Cấu trúc của chất rắn, lỏng, khí}{2}{subsubsection.1.1.1.2}%
+\contentsline {subsubsection}{\numberline {3}Phân biệt cấu trúc của chất rắn, lỏng, khí}{2}{subsubsection.1.1.1.3}%
+\contentsline {subsubsection}{\numberline {4}Chất rắn kết tinh và chất rắn vô định hình}{2}{subsubsection.1.1.1.4}%
+\contentsline {subsubsection}{\numberline {5}Sự chuyển thể}{3}{subsubsection.1.1.1.5}%
+\contentsline {subsubsection}{\numberline {6}Sự nóng chảy}{4}{subsubsection.1.1.1.6}%
+\contentsline {subsubsection}{\numberline {7}Sự hoá hơi}{4}{subsubsection.1.1.1.7}%
+\contentsline {subsubsection}{\numberline {8}Sự bay hơi}{4}{subsubsection.1.1.1.8}%
+\contentsline {subsubsection}{\numberline {9}Sự sôi}{4}{subsubsection.1.1.1.9}%
+\contentsline {subsection}{\numberline {B}VÍ DỤ MINH HOẠ}{4}{subsection.1.1.2}%
+\contentsline {subsection}{\fontsize {11}{11}\selectfont \color {blue!80}\it \sffamily {{\FAtwo \symbol {124}}}\ Dạng\nobreakspace {}1.\nobreakspace {}Sử dụng mô hình động học phân tử, nêu được sơ lược cấu trúc của chất rắn, chất lỏng, chất khí\nobreakspace {}}{4}{subsection.1.1.2}%
+\contentsline {subsection}{\fontsize {11}{11}\selectfont \color {blue!80}\it \sffamily {{\FAtwo \symbol {124}}}\ Dạng\nobreakspace {}2.\nobreakspace {}Giải thích được sơ lược một số hiện tượng vật lí liên quan đến sự chuyển thể: sự nóng chảy, sự hoá hơi\nobreakspace {}}{6}{Item.13}%
+\contentsline {subsection}{\numberline {C}BÀI TẬP TRẮC NGHIỆM}{6}{subsection.1.1.3}%
+\contentsline {subsection}{\numberline {D}TRẮC NGHIỆM ĐÚNG/SAI}{10}{subsection.1.1.4}%
+\contentsfinish 

@@ -1,0 +1,150 @@
+\let\lesson\undefined
+\newcommand{\lesson}{\phantomlesson{Bài 7: Phương trình trạng thái của khí lí tưởng}}
+\chapter[Phương trình Clapeyron - Mendeleev]{Phương trình Clapeyron - Mendeleev}
+\section{Lý thuyết}
+\textbf{Phương trình Clapeyron - Mendeleev:}
+$$pV=n RT=\dfrac{m}{M}RT$$
+trong đó:
+\begin{itemize}
+	\item $p$: áp suất khí, đơn vị trong hệ SI là $\si{\pascal}$;
+	\item $V$: thể tích khí, đơn vị trong hệ SI là $\si{\meter^3}$;
+	\item $n$: số mole khí, đơn vị trong hệ SI là $\si{\mole}$;
+	\item $m$: khối lượng khí, đơn vị trong hệ SI là $\si{\kilo\gram}$;
+	\item $M$: khối lượng mole, đơn vị trong hệ SI là $\si{\kilo\gram/\mole}$;
+	\item $R=\SI{8.31}{\joule/\left(\mole\cdot\kelvin\right)}$: hằng số khí lí tưởng;
+	\item $T$: nhiệt độ tuyệt đối, đơn vị trong hệ SI là $\si{\kelvin}$.
+	
+\end{itemize}
+\luuy{$$\SI{1}{atm}=\SI{101325}{\pascal}.$$
+	$$\SI{1}{at}=\SI{9.81e4}{\pascal}.$$}
+\section{Mục tiêu bài học - Ví dụ minh hoạ}
+\begin{dang}{Xác định được mối liên hệ giữa các đại lượng $p$, $V$, $T$, $m$, $ M$}
+	\viduii{2}
+	{Một bình dung tích $\SI{10}{\liter}$ chứa $\SI{2}{\gram}$ khí hydrogen ở $\SI{27}{\celsius}$. Tính áp suất khí trong bình.
+		
+	
+	
+}
+{\hide{Áp dụng phương trình Clapeyron - Mendeleev:
+	$$pV=\dfrac{m}{M}RT$$
+	$$\Rightarrow p=\dfrac{mRT}{M V}=\dfrac{\left(\SI{2}{\gram}\right)\cdot\left(\SI{8.31}{\joule/\mole\cdot\kelvin}\right)\cdot\left(\SI{300}{\kelvin}\right)}{\left(\SI{2}{\gram/\mole}\right)\cdot\left(\SI{10E-3}{\meter^3}\right)}=\SI{249300}{\pascal}.$$
+
+
+}}
+\viduii{3}
+{Có $\SI{10}{\gram}$ khí oxygen ở $\SI{47}{\celsius}$, áp suất $\SI{2.1}{at}$. Sau khi đun nóng đẳng áp thì thể tích khí là $\SI{10}{\liter}$. Tìm
+	\begin{enumerate}[label=\alph*)]
+		\item thể tích khí trước khi đun.
+		\item nhiệt độ khí sau khi đun.
+		\item khối lượng riêng của khí trước và sau khi đun.
+	\end{enumerate}
+
+}
+{\hide{\begin{center}
+		\begin{tabular}{C{4cm} C{3cm} C{4cm}}
+			\colorbox{yellow}{\textcolor{red}{\textbf{Trạng thái 1}}} & $\xrightarrow[ n=\text{const}]{p_1=p_2}$ & \colorbox{yellow}{\textcolor{red}{\textbf{Trạng thái 2}}}\\
+			$p_1=\SI{2.1}{at}=\SI{2.06E5}{\pascal}$ & &$p_2=p_1$\\
+			$V_1=?$ & & $V_2=\SI{10}{\liter}$\\
+			$T_1=\SI{320}{\kelvin}$ & & $T_2=?$
+		\end{tabular}
+	\end{center}
+	\begin{enumerate}[label=\alph*)]
+		\item Áp dụng phương trình Clapeyron - Mendeleev:
+		$$p_1V_1=\dfrac{m}{M}RT_1$$
+		$$\Rightarrow V_1=\dfrac{mRT_1}{M p_1}=\dfrac{\left(\SI{10}{\gram}\right)\cdot\left(\SI{8.31}{\gram/\mole}\right)\cdot\left(\SI{320}{\kelvin}\right)}{\left(\SI{32}{\gram/\mole}\right)\cdot\left(\SI{2.06E5}{\pascal}\right)}\approx\SI{4E-3}{\meter^3}=\SI{4}{\liter}.$$
+		\item Áp dụng định luật Charles:
+		$$\dfrac{V_1}{T_1}=\dfrac{V_2}{T_2}$$
+		$$\Rightarrow T_2=\dfrac{V_2T_1}{V_1}=\dfrac{\left(\SI{10}{\liter}\right)\cdot\left(\SI{320}{\kelvin}\right)}{\SI{4}{\liter}}=\SI{800}{\kelvin}\Rightarrow t_2=\SI{527}{\celsius}.$$
+		\item Khối lượng riêng của khí trước khi đun:
+		$$\rho_1=\dfrac{m}{V_1}=\dfrac{\SI{10}{\gram}}{\SI{4}{\liter}}=\SI{2.5}{\gram/\liter}.$$
+		Khối lượng riêng của khí sau khi đun:
+		$$\rho_2=\dfrac{m}{V_2}=\dfrac{\SI{10}{\gram}}{\SI{10}{\liter}}=\SI{1}{\gram/\liter}.$$
+	\end{enumerate}
+
+}}
+
+\viduii{3}
+{Hai bình cầu có thể tích $V_1=\SI{100}{\centi\meter^3}$, $V_2=\SI{200}{\centi\meter^3}$ được nối bằng một ống nhỏ cách nhiệt. Ban đầu hệ có nhiệt độ $t_0=\SI{27}{\celsius}$ và chứa khí oxygen ở áp suất $p_0=\SI{760}{\milli\meter Hg}$. Sau đó, bình $V_1$ giảm nhiệt độ xuống đến $\SI{0}{\celsius}$ còn bình $V_2$ tăng nhiệt độ lên đến $\SI{100}{\celsius}$. Tính áp suất khí trong các bình lúc sau.
+
+}
+{\hide{\begin{center}
+		\begin{tabular}{|L{3cm}|C{3cm}|C{3cm}|C{3cm}|}
+			\hline
+			&$p$& $V$&$T$\\
+			\hline
+			\textbf{Ban đầu} & $p_0=\SI{760}{\milli\meter Hg}$ & $V_0=V_1+V_2=\SI{300}{\centi\meter^3}$ & $\SI{300}{\kelvin}$\\
+			\hline
+			\textbf{Bình 1 lúc sau} & $p=?$ & $V_1=\SI{100}{\centi\meter^3}$ & $T_1=\SI{273}{\kelvin}$\\
+			\hline
+			\textbf{Bình 2 lúc sau} & $p=?$ & $V_2=\SI{200}{\centi\meter^3}$ &  $T_2=\SI{373}{\kelvin}$\\
+			\hline
+		\end{tabular}
+	\end{center}
+	Từ phương trình Clapeyron - Mendeleev:
+$$pV=n RT\Rightarrow n=\dfrac{pV}{RT}.$$
+Mà: $n=n_1+n_2$
+\begin{eqnarray*}
+	&\Leftrightarrow& \dfrac{p_0V_0}{RT_0}=\dfrac{pV_1}{RT_1}+\dfrac{pV_2}{RT_2}\\
+	&\Rightarrow& p=\dfrac{p_0V_0}{T_0\left(\dfrac{V_1}{T_1}+\dfrac{V_2}{T_2}\right)}=\dfrac{\left(\SI{760}{\milli\meter Hg}\right)\cdot\left(\SI{300}{\centi\meter^3}\right)}{\left(\SI{300}{\kelvin}\right)\cdot\left(\dfrac{\SI{100}{\centi\meter^3}}{\SI{273}{\kelvin}}+\dfrac{\SI{200}{\centi\meter^3}}{\SI{373}{\kelvin}}\right)}\approx\SI{842.11}{\milli\meter Hg}.
+\end{eqnarray*}
+}}
+
+\end{dang}
+\begin{dang}{Giải được bài toán thay đổi thông số trạng thái khi khối lượng khí thay đổi}
+	\viduii{3}
+	{Bình chứa khí nén ở nhiệt độ $\SI{27}{\celsius}$, $\SI{40}{at}$. Một nửa lượng khí trong bình thoát ra và nhiệt độ hạ xuống đến $\SI{12}{\celsius}$. Tìm áp suất của khí còn lại trong bình.
+	
+}
+{\hide{\begin{center}
+		\begin{tabular}{C{4cm} C{3cm} C{4cm}}
+			\colorbox{yellow}{\textcolor{red}{\textbf{Trạng thái 1}}} & $\xrightarrow[ n_1\neq n_2]{V=\text{const}}$ & \colorbox{yellow}{\textcolor{red}{\textbf{Trạng thái 2}}}\\
+			$p_1=\SI{40}{at}$ & &$p_2=?$\\
+			$V_1=V$ & & $V_2=V$\\
+			$T_1=\SI{300}{\kelvin}$ & & $T_2=\SI{285}{\kelvin}$\\
+			$n_1=n$&&$n_2=\dfrac{n }{2}$
+		\end{tabular}
+	\end{center}
+Áp dụng phương trình Clapeyron - Mendeleev:
+\begin{equation}
+	\label{eq:13P-1}
+	p_1V=n RT_1
+\end{equation}
+\begin{equation}
+	\label{eq:13P-2}
+	p_2V=\dfrac{n}{2} RT_2
+\end{equation}
+Từ phương trình (\ref{eq:13P-1}) và (\ref{eq:13P-2}):
+$$\dfrac{p_2}{p_1}=\dfrac{1}{2}\cdot\dfrac{T_2}{T_1}\Rightarrow p_2=\dfrac{T_2p_1}{2T_1}=\dfrac{\left(\SI{285}{\kelvin}\right)\cdot\left(\SI{40}{at}\right)}{2\cdot\left(\SI{300}{\kelvin}\right)}=\SI{19}{at}.$$
+}}
+	
+\viduii{3}
+{Một bình kín có thể tích $\SI{0.4}{\meter^3}$, chứa khí ở nhiệt độ $\SI{27}{\celsius}$ và áp suất $\SI{1.5}{atm}$. Khi mở nắp, áp suất khí còn $\SI{1}{atm}$ và nhiệt độ $\SI{0}{\celsius}$.
+	\begin{enumerate}[label=\alph*)]
+		\item Tìm thể tích khí thoát ra khỏi bình ở nhiệt độ $\SI{0}{\celsius}$ và áp suất $\SI{1}{atm}$.
+		\item Tìm khối lượng khí còn lại trong bình và khối lượng khí thoát ra khỏi bình, biết khối lượng riêng của khí ở điều kiện tiêu chuẩn là $\rho_0=\SI{1.2}{\kilogram/\meter^3}$.
+	\end{enumerate}
+
+}
+{\hide{\begin{enumerate}[label=\alph*)]
+		\item Quá trình biến đổi trạng thái của khí trong bình:
+		\begin{center}
+			\begin{tabular}{C{4cm} C{3cm} C{4cm}}
+				\colorbox{yellow}{\textcolor{red}{\textbf{Trạng thái 1}}} & $\xrightarrow[ ]{ n=\text{const}}$ & \colorbox{yellow}{\textcolor{red}{\textbf{Trạng thái 2}}}\\
+				$p_1=\SI{1.5}{atm}$ & &$p_2=\SI{1}{atm}$\\
+				$V_1=\SI{0.4}{\meter^3}$ & & $V_2=?$\\
+				$T_1=\SI{300}{\kelvin}$ & & $T_2=\SI{273}{\kelvin}$
+			\end{tabular}
+		\end{center}
+	Áp dụng phương trình trạng thái khí lí tưởng:
+	$$\dfrac{p_1V_1}{T_1}=\dfrac{p_2V_2}{T_2}$$
+	$$\Rightarrow V_2=\dfrac{p_1V_1}{T_1}\cdot\dfrac{T_2}{p_2}=\dfrac{\left(\SI{1.5}{atm}\right)\cdot\left(\SI{0.4}{\meter^3}\right)}{\SI{300}{\kelvin}}\cdot\dfrac{\left(\SI{273}{\kelvin}\right)}{\SI{1}{atm}}=\SI{0.546}{\meter^3}.$$
+	Thể tích khí thoát ra khỏi bình ở nhiệt độ $\SI{0}{\celsius}$ và áp suất $\SI{1}{atm}$:
+	$$\Delta V=V_2-V_1=\SI{0.146}{\meter^3}.$$
+	\item Khối lượng khí còn lại trong bình:
+	$$m=\rho_0V_1=\left(\SI{1.2}{\kilogram/\meter^3}\right)\cdot\left(\SI{0.4}{\meter^3}\right)=\SI{0.48}{\kilogram}.$$
+	Khối lượng khí thoát ra khỏi bình:
+	$$\Delta m=\rho_0\Delta V=\left(\SI{1.2}{\kilogram/\meter^3}\right)\cdot\left(\SI{0.146}{\meter^3}\right)=\SI{0.1752}{\kilogram}.$$
+	\end{enumerate}
+
+}}
+\end{dang}

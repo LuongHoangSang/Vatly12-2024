@@ -1,0 +1,17 @@
+%Filename: t5hlbrush1bk.fd
+%Created by: tex mkfonts
+%Created using fontinst v1.927
+
+%THIS FILE SHOULD BE PUT IN A TEX INPUTS DIRECTORY
+
+\ProvidesFile{t5hlbrush1bk.fd}
+   [2007/04/07 Fontinst v1.927 font definitions for T5/HLBrush1BK.]
+
+\DeclareFontFamily{T5}{HLBrush1BK}{}
+
+\DeclareFontShape{T5}{HLBrush1BK}{m}{n}{
+   <-> HLBrush1BK8v
+}{}
+
+
+\endinput

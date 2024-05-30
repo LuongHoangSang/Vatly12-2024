@@ -1,0 +1,84 @@
+\let\lesson\undefined
+\newcommand{\lesson}{\phantomlesson{Bài 4: Nhiệt dung riêng, nhiệt nóng chảy riêng, nhiệt hoá hơi riêng}}
+\chapter[Nhiệt dung riêng]{Nhiệt dung riêng}
+\section{Lý thuyết}
+\subsection{Nhiệt dung riêng}
+Nhiệt dung riêng của một chất là nhiệt lượng cần cung cấp để nhiệt độ của $\SI{1}{\kilogram}$ chất đó tăng thêm $\SI{1}{\kelvin}$.\\
+Đơn vị đo của nhiệt dung riêng trong hệ SI là $\si{\joule/\left(\kilogram\cdot\kelvin\right)}$, nhiệt dung riêng kí hiệu là $c$.
+\subsection{Nhiệt lượng trao đổi để khối chất thay đổi nhiệt độ}
+Nhiệt lượng trao đổi (toả ra hay nhận vào) để khối chất thay đổi nhiệt độ từ $T_1$ đến nhiệt độ $T_2$:
+$$Q=mc\Delta T$$
+với:
+\begin{itemize}
+	\item $Q$: nhiệt lượng trao đổi, đơn vị trong hệ SI là $\si{\joule}$;
+	\item $m$: khối lượng, đơn vị trong hệ SI là $\si{\kilogram}$;
+	\item $c$: nhiệt dung riêng của chất tạo nên vật, đơn vị trong hệ SI là $\si{\joule/\left(\kilogram\cdot\kelvin\right)}$;
+	\item $\Delta T=T_2-T_1$: độ biến thiên nhiệt độ, đơn vị trong hệ SI là $\si{\kelvin}$.
+\end{itemize}
+\subsection{Trạng thái cân bằng nhiệt của hệ nhiệt động}
+Hệ nhiệt động đạt trạng thái cân bằng nhiệt khi tổng nhiệt lượng trao đổi trong hệ bằng 0:
+$$\sum Q=Q_1+Q_2+\dots+Q_n=0.$$
+\section{Mục tiêu bài học - Ví dụ minh hoạ}
+\begin{dang}{Xác định nhiệt lượng trao đổi để khối chất thay đổi nhiệt độ}
+	\viduii{2}
+	{Hãy giải thích tại sao ban ngày có gió mát thổi từ biển vào đất liền? Biết rằng nhiệt dung riêng của đất và nước vào khoảng $\SI{800}{\joule/\left(\kilogram\cdot\kelvin\right)}$ và $\SI{4200}{\joule/\left(\kilogram\cdot\kelvin\right)}$.
+	
+}
+{\hide{
+	Vào ban ngày, vì nhiệt dung riêng của nước cao hơn nhiệt dung riêng của đất nên với cùng nhiệt lượng nhận từ Mặt Trời thì nước biển có độ tăng nhiệt độ thấp hơn đất liền. Do hiện tượng đối lưu, luồng không khí từ biển sẽ thổi vào đất liền. Lúc này có sự trao đổi nhiệt lượng giữa không khí trong đất liền và không khí từ biển thổi vào làm giảm nhiệt độ không khí ở đất liền. Do đó, chúng ta sẽ cảm thấy mát hơn.}
+}
+
+\viduii{3}
+{Một thùng đựng $\SI{20}{\ell}$ nước ở nhiệt độ $\SI{20}{\celsius}$. Cho khối lượng riêng của nước là $\SI{1000}{\kilogram\cdot\meter^{-3}}$, nhiệt dung riêng của nước $c=\SI{4200}{\joule/\left(\kilogram\cdot\kelvin\right)}$.
+	\begin{enumerate}[label=\alph*)]
+		\item Tính nhiệt lượng cần truyền cho nước trong thùng để nhiệt độ của nó tăng lên tới $\SI{70}{\celsius}$.
+		\item Tính thời gian truyền nhiệt lượng cần thiết nếu dùng một thiết bị điện có công suất $\SI{2.5}{\kilo\watt}$ để đun lượng nước trên. Biết chỉ có $\SI{80}{\percent}$ điện năng tiêu thụ được dùng để làm nóng nước.
+	\end{enumerate}
+
+}
+{\hide{
+	\begin{enumerate}[label=\alph*)]
+		\item Khối lượng của $\SI{20}{\ell}$ nước:
+		$$m=\rho V=\left(\SI{1000}{\kilogram\cdot\meter^{-3}}\right)\cdot\left(\SI{20E-3}{\meter^{3}}\right)=\SI{20}{\kilogram}.$$
+		Nhiệt lượng cần truyền cho nước trong thùng để nhiệt độ của nó tăng lên tới $\SI{70}{\celsius}$:
+		$$Q=mc\Delta t=\left(\SI{20}{\kilogram}\right)\cdot\left[\SI{4200}{\joule/\left(\kilogram\cdot\kelvin\right)}\right]\cdot\left(\SI{50}{\kelvin}\right)=\SI{42E5}{\joule}.$$
+		\item Năng lượng thiết bị điện tiêu thụ để truyền được nhiệt lượng cần thiết đun nóng nước đến $\SI{70}{\celsius}$:
+		$$W=\dfrac{Q}{H}=\SI{52.5E5}{\joule}.$$
+		Thời gian đun nước:
+		$$t=\dfrac{W}{\calP}=\dfrac{\SI{52.5E5}{\joule}}{\SI{2.5E3}{\watt}}=\SI{2100}{\second}=\SI{35}{\minute}.$$
+	\end{enumerate}
+}
+}
+	
+\end{dang}
+\begin{dang}{Vận dụng phương trình cân bằng nhiệt}
+	\viduii{3}
+	{Một bác thợ rèn nhúng một con dao rựa bằng thép có khối lượng $\SI{1.1}{\kilogram}$ ở nhiệt độ $\SI{850}{\celsius}$ vào trong bể nước lạnh để làm tăng độ cứng của lưỡi dao. Nước trong bể có thể tích $\SI{200}{\ell}$ và có nhiệt độ bằng nhiệt độ ngoài trời là $\SI{27}{\celsius}$. Xác định nhiệt độ của nước khi có sự cân bằng nhiệt. Bỏ qua sự truyền nhiệt cho thành bể, môi trường bên ngoài và bỏ qua quá trình nước hoá hơi khi vừa tiếp xúc với rựa. Biết nhiệt dung riêng của thép là $\SI{460}{\joule/\left(\kilogram\cdot\kelvin\right)}$; của nước là $\SI{4180}{\joule/\left(\kilogram\cdot\kelvin\right)}$.
+	
+}
+{\hide{
+	Gọi $t_\text{cb}$ là nhiệt độ của nước khi có sự cân bằng nhiệt.\\
+	Hệ đạt trạng thái cân bằng nhiệt khi tổng nhiệt lượng trao đổi trong hệ bằng 0:
+	\begin{eqnarray*}
+	&&	Q_\text{rựa}+Q_\text{nước}=0\\
+	&\Leftrightarrow&	m_\text{t}c_\text{t}\left(t_\text{cb}-t_\text{t}\right)+m_\text{n}c_\text{n}\left(t_\text{cb}-t_\text{n}\right)=0\\
+	&\Rightarrow& t_\text{cb}=\dfrac{m_\text{n}c_\text{n}t_\text{n}+m_\text{t}c_\text{t}t_\text{t}}{m_\text{n}c_\text{n}+m_\text{t}c_\text{t}}\approx\SI{27.5}{\celsius}.
+	\end{eqnarray*}
+}
+}
+
+\viduii{3}
+{Một bình nhiệt lượng kế bằng nhôm có khối lượng $m_1=\SI{200}{\gram}$ chứa $m_2=\SI{400}{\gram}$ nước ở nhiệt độ $t_1=\SI{20}{\celsius}$. Đổ thêm vào bình một khối lượng nước $m$ ở nhiệt độ $t_2=\SI{5}{\celsius}$. Khi cân bằng nhiệt thì nhiệt độ của nước trong bình là $t=\SI{10}{\celsius}$. Cho biết nhiệt dung riêng của nhôm là $c_1=\SI{880}{\joule/\left(\kilogram\cdot\kelvin\right)}$, của nước là $c_2=\SI{4200}{\joule/\left(\kilogram\cdot\kelvin\right)}$. Bỏ qua sự trao đổi nhiệt với môi trường. Xác định giá trị của $m$.
+
+}
+{\hide{
+	Khi hệ đạt trạng thái cân bằng nhiệt thì tổng nhiệt lượng trao đổi của hệ bằng 0:
+	$$mc_2\left(t-t_2\right)+m_1c_1\left(t-t_1\right)+m_2c_2\left(t-t_1\right)=0$$
+	\begin{eqnarray*}
+		\Rightarrow m&=&\dfrac{m_1c_1\left(t-t_1\right)+m_2c_2\left(t-t_1\right)}{c_2\left(t_2-t\right)}\\
+		&=&\dfrac{\left\{\left(\SI{0.2}{\kilogram}\right)\cdot\left[\SI{880}{\joule/\left(\kilogram\cdot\kelvin\right)}\right]+\left(\SI{0.4}{\kilogram}\right)\cdot\left[\SI{4200}{\joule/\left(\kilogram\cdot\kelvin\right)}\right]\right\}\cdot\left(\SI{10}{\celsius}-\SI{20}{\celsius}\right)}{\left[\SI{4200}{\joule/\left(\kilogram\cdot\kelvin\right)}\right]\cdot\left(\SI{5}{\celsius}-\SI{10}{\celsius}\right)}\\
+		&\approx&\SI{0.88}{\kilogram}.
+	\end{eqnarray*}
+}
+}
+\end{dang}
