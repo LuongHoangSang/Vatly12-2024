@@ -15,6 +15,7 @@
 }
 \usepackage[utf8]{vietnam}
 \pgfplotsset{compat=1.13}
+\usepackage[version=3]{mhchem}
 %---
 \usepackage{extarrows,amsmath,amssymb,mathrsfs,maybemath,xlop,polynom,slashbox}
 %\usepackage{mathptmx}
@@ -339,7 +340,7 @@
 \newenvironment{dang}[1]{
 	\begin{dangg}{#1}
 	}
-	{
+	{\setcounter{vd}{0}
 	\end{dangg}
 }
 
@@ -1066,3 +1067,16 @@
 % ====================================================
 % lệnh siunit 
 \newcommand{\xsi}[2]{\SI[parse-numbers=false]{#1}{#2}}
+%====================================================
+% --- ký hiệu suất điện động và công suất như sgk
+% ký hiệu từ font Boondox 
+\DeclareFontFamily{U}{BOONDOX-cal}{\skewchar\font=45 }
+\DeclareFontShape{U}{BOONDOX-cal}{m}{n}{
+	<-> s*[1.05] BOONDOX-r-cal}{}
+\DeclareFontShape{U}{BOONDOX-cal}{b}{n}{
+	<-> s*[1.05] BOONDOX-b-cal}{}
+\DeclareMathAlphabet{\bdx}{U}{BOONDOX-cal}{m}{n}
+\SetMathAlphabet{\bdx}{bold}{U}{BOONDOX-cal}{b}{n}
+\DeclareMathAlphabet{\bbdx}{U}{BOONDOX-cal}{b}{n}
+\newcommand{\calE}{\bdx{E}}
+\newcommand{\calP}{\bdx{P}}

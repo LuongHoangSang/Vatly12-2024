@@ -33,7 +33,7 @@
 %%% Hiện/ẩn đáp án (chỉ sd cho EX - ko đóng chung)
 \renewcommand{\indapan}[2]{}
 %%% Đáp số Ẩn/hiện
-%\exitdapso
+\exitdapso
 %%%%%%%%%%%%% ĐIỀU KHIỂN LỜI GIẢI ,DÒNG CHẤM, ĐÁP SỐ
 %%%========= Thay LG bằng dòng chấm
 %\dotlinefull{vd}
@@ -47,9 +47,9 @@
 %\AnboxEX
 %%%========= Ẩn lời giải
 %\hideansEX{vd}
-\hideansEX{ex}
+%\hideansEX{ex}
 %\hideansEX{bt}
-\AnboxEX
+%\AnboxEX
 %%%%%%%%%%%%%%% Thông tin trong Kiểu tài liệu BT
 \def\truocVD{Các dạng toán}
 \def\truocBT{Bài tập vận dụng}
@@ -58,10 +58,11 @@
 \def\chamngon{Thà để giọt mồ hôi rơi trên trang sách 
 	còn hơn để nước mắt rơi ướt cả đề thi}
 %%%%%%%%%%%%%
-\def\trenphai{www.facebook.com/luonghoangsang99}
+\def\trenphai{Vật lý Cô Thảo - Thầy Sang}
 \def\hoten{Lương Hoàng Sang}
-\def\SDT{09.6175.0612}
-\def\duoiphai{\faFileText\, \hoten \,\,--\,\, \faPhoneSquare\ \SDT}
+\def\SDTi{09.0354.0608}
+\def\SDTii{09.6175.0612}
+\def\duoiphai{\faPhoneSquare\, \SDTi \,\,--\,\, \faPhoneSquare\ \SDTii}
 %--
 %\def\trenphai{}
 %\def\duoiphai{}
@@ -81,7 +82,7 @@
 	%--Trang bìa
 	\pagenumbering{gobble}%tắt đánh số trang
 	\setcounter{page}{0}
-	\includepdf{bia13/bia9-tap1-2.pdf}%chèn bìa pdf
+%	\includepdf{bia13/bia9-tap1-2.pdf}%chèn bìa pdf
 %	\newpage\null\thispagestyle{empty}\newpage%tạo trang trống
 	%--Mục lục chính
 	\FULLWIDTH
@@ -97,7 +98,10 @@
 %%%%%%%%%%%%%%%%%%% OKs
 \setcounter{chapter}{0}  
 \chapter{VẬT LÝ NHIỆT}
-\input{data/G12Y24B1}	
+%\input{data/G12Y24B1}	
+%\newpage\input{data/G12Y24B2}	
+\newpage\input{data/G12Y24B3}	
+\newpage\input{data/G12Y24B4}	
 %%%%%%%%%%%%%%%%%%%% OKs
 \setcounter{chapter}{1}
 %\chapter{BẤT ĐẲNG THỨC. BẤT~PHƯƠNG~TRÌNH~BẬC~NHẤT~MỘT~ẨN}
