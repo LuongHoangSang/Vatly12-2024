@@ -1,29 +1,14 @@
 \contentsline {part}{I\hspace {1em}HỌC KÌ I}{1}{part.1}%
 \contentsline {chapter}{\numberline {1}VẬT LÝ NHIỆT}{2}{chapter.1}%
-\contentsline {section}{\numberline {1}NỘI NĂNG - ĐỊNH LUẬT I NHIỆT ĐỘNG LỰC HỌC}{3}{section.1.1}%
-\contentsline {subsection}{\numberline {A}LÝ THUYẾT TRỌNG TÂM}{3}{subsection.1.1.1}%
-\contentsline {subsubsection}{\numberline {1}Nội năng}{3}{subsubsection.1.1.1.1}%
-\contentsline {paragraph}{\numberline {1.1}Khái niệm nội năng}{3}{paragraph.1.1.1.1.1}%
-\contentsline {paragraph}{\numberline {1.2}Mối liên hệ giữa nội năng và năng lượng của các phân tử cấu tạo nên vật}{3}{paragraph.1.1.1.1.2}%
-\contentsline {subsubsection}{\numberline {2}Các cách làm thay đổi nội năng}{3}{subsubsection.1.1.1.2}%
-\contentsline {paragraph}{\numberline {2.1}Thực hiện công}{3}{paragraph.1.1.1.2.1}%
-\contentsline {paragraph}{\numberline {2.2}Truyền nhiệt}{3}{paragraph.1.1.1.2.2}%
-\contentsline {subsubsection}{\numberline {3}Định luật I nhiệt động lực học}{4}{subsubsection.1.1.1.3}%
-\contentsline {subsection}{\numberline {B}VÍ DỤ MINH HOẠ}{4}{subsection.1.1.2}%
-\contentsline {subsection}{\fontsize {11}{11}\selectfont \color {blue!80}\it \sffamily {{\FAtwo \symbol {124}}}\ Dạng\nobreakspace {}1.\nobreakspace {}Trình bày được các cách làm thay đổi nội năng\nobreakspace {}}{4}{subsection.1.1.2}%
-\contentsline {subsection}{\fontsize {11}{11}\selectfont \color {blue!80}\it \sffamily {{\FAtwo \symbol {124}}}\ Dạng\nobreakspace {}2.\nobreakspace {}Vận dụng định luật I nhiệt động lực học\nobreakspace {}}{5}{vd.2}%
-\contentsline {subsection}{\numberline {C}BÀI TẬP TRẮC NGHIỆM}{6}{subsection.1.1.3}%
-\contentsline {subsection}{\numberline {D}TRẮC NGHIỆM ĐÚNG/SAI}{8}{subsection.1.1.4}%
-\contentsline {subsection}{\numberline {E}BÀI TẬP TỰ LUẬN}{11}{subsection.1.1.5}%
-\contentsline {section}{\numberline {2}NHIỆT DUNG RIÊNG}{13}{section.1.2}%
-\contentsline {subsection}{\numberline {A}LÝ THUYẾT TRỌNG TÂM}{13}{subsection.1.2.1}%
-\contentsline {subsubsection}{\numberline {1}Nhiệt dung riêng}{13}{subsubsection.1.2.1.1}%
-\contentsline {subsubsection}{\numberline {2}Nhiệt lượng trao đổi để khối chất thay đổi nhiệt độ}{13}{subsubsection.1.2.1.2}%
-\contentsline {subsubsection}{\numberline {3}Trạng thái cân bằng nhiệt của hệ nhiệt động}{13}{subsubsection.1.2.1.3}%
-\contentsline {subsection}{\numberline {B}VÍ DỤ MINH HOẠ}{13}{subsection.1.2.2}%
-\contentsline {subsection}{\fontsize {11}{11}\selectfont \color {blue!80}\it \sffamily {{\FAtwo \symbol {124}}}\ Dạng\nobreakspace {}1.\nobreakspace {}Xác định nhiệt lượng trao đổi để khối chất thay đổi nhiệt độ\nobreakspace {}}{13}{subsection.1.2.2}%
-\contentsline {subsection}{\fontsize {11}{11}\selectfont \color {blue!80}\it \sffamily {{\FAtwo \symbol {124}}}\ Dạng\nobreakspace {}2.\nobreakspace {}Vận dụng phương trình cân bằng nhiệt\nobreakspace {}}{14}{Item.56}%
-\contentsline {subsection}{\numberline {C}BÀI TẬP TRẮC NGHIỆM}{15}{subsection.1.2.3}%
-\contentsline {subsection}{\numberline {D}TRẮC NGHIỆM ĐÚNG/SAI}{18}{subsection.1.2.4}%
-\contentsline {subsection}{\numberline {E}BÀI TẬP TỰ LUẬN}{18}{subsection.1.2.5}%
+\contentsline {section}{\numberline {1}BÀI TẬP VẬT LÝ NHIỆT}{3}{section.1.1}%
+\contentsline {subsection}{\numberline {A}ÔN TẬP LÝ THUYẾT}{3}{subsection.1.1.1}%
+\contentsline {subsubsection}{\numberline {1}Khi nội năng của vật biến đổi chỉ bằng cách truyền nhiệt}{3}{subsubsection.1.1.1.1}%
+\contentsline {subsubsection}{\numberline {2}Khi nội năng của vật biến đổi bằng cả hai cách truyền nhiệt và thực hiện công}{3}{subsubsection.1.1.1.2}%
+\contentsline {subsection}{\numberline {B}VÍ DỤ MINH HOẠ}{3}{subsection.1.1.2}%
+\contentsline {subsection}{\fontsize {11}{11}\selectfont \color {blue!80}\it \sffamily {{\FAtwo \symbol {124}}}\ Dạng\nobreakspace {}1.\nobreakspace {}Vận dụng định luật I nhiệt động lực học\nobreakspace {}}{3}{subsection.1.1.2}%
+\contentsline {subsection}{\fontsize {11}{11}\selectfont \color {blue!80}\it \sffamily {{\FAtwo \symbol {124}}}\ Dạng\nobreakspace {}2.\nobreakspace {}Bài toán về hiệu suất truyền nhiệt\nobreakspace {}}{4}{Item.6}%
+\contentsline {subsection}{\fontsize {11}{11}\selectfont \color {blue!80}\it \sffamily {{\FAtwo \symbol {124}}}\ Dạng\nobreakspace {}3.\nobreakspace {}Bài tập về động cơ nhiệt\nobreakspace {}}{5}{Item.10}%
+\contentsline {subsection}{\numberline {C}BÀI TẬP TRẮC NGHIỆM}{7}{subsection.1.1.3}%
+\contentsline {subsection}{\numberline {D}TRẮC NGHIỆM ĐÚNG/SAI}{10}{subsection.1.1.4}%
+\contentsline {subsection}{\numberline {E}BÀI TẬP TỰ LUẬN}{10}{subsection.1.1.5}%
 \contentsfinish 
