@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.8)  6 JUN 2024 22:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.8)  7 JUN 2024 22:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -436,118 +436,7 @@ LaTeX Info: Redefining \addtolength on input line 81.
 (c:/texlive/2022/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
 )
-(c:/texlive/2022/texmf-dist/tex/latex/pgfplots/pgfplots.sty
-(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
-Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
-
-(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/pgfplots.code.tex
-(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/pgfplotscore.code.tex
-\t@pgfplots@toka=\toks34
-\t@pgfplots@tokb=\toks35
-\t@pgfplots@tokc=\toks36
-\pgfplots@tmpa=\dimen271
-\c@pgfplots@coordindex=\count295
-\c@pgfplots@scanlineindex=\count296
-
-(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgeneric.code.te
-x))
-(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/libs/pgfplotslibrary.code.tex)
-
-(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfs
-upp_loader.code.tex
-(c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex)
-Package pgfplots: loading complementary utilities for your pgf version...
-\t@pgf@toka=\toks37
-\t@pgf@tokb=\toks38
-\t@pgf@tokc=\toks39
-
-(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfs
-upp_pgfutil-common-lists.tex))
-(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.code.tex
-(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsliststru
-cture.code.tex)
-(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsliststru
-ctureext.code.tex)
-(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsarray.co
-de.tex
-\c@pgfplotsarray@tmp=\count297
-)
-(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsmatrix.c
-ode.tex)
-(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstableshared.c
-ode.tex
-\c@pgfplotstable@counta=\count298
-\t@pgfplotstable@a=\toks40
-)
-(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsdeque.co
-de.tex)
-(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.code.tex
-(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.data.code.
-tex))
-(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.verb.code.te
-x)
-(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplots.surfsh
-ading.code.tex
-\c@pgfplotslibrarysurf@no=\count299
-
-(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots.surfsha
-ding.pgfsys-pdftex.def)))
-(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/util/pgfplotscolormap.code.tex
-(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/util/pgfplotscolor.code.tex))
-(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/pgfplotsstackedplots.code.tex)
-(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/pgfplotsplothandlers.code.tex
-(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplothandler.code.t
-ex
-(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplotimage.code.tex
-))) (c:/texlive/2022/texmf-dist/tex/generic/pgfplots/pgfplots.scaling.code.tex)
-
-(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/pgfplotscoordprocessing.code.t
-ex)
-(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/pgfplots.errorbars.code.tex)
-(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/pgfplots.markers.code.tex)
-(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/pgfplotsticks.code.tex)
-(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/pgfplots.paths.code.tex)
-(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
-brarydecorations.code.tex
-(c:/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.code.t
-ex
-\pgfdecoratedcompleteddistance=\dimen272
-\pgfdecoratedremainingdistance=\dimen273
-\pgfdecoratedinputsegmentcompleteddistance=\dimen274
-\pgfdecoratedinputsegmentremainingdistance=\dimen275
-\pgf@decorate@distancetomove=\dimen276
-\pgf@decorate@repeatstate=\count300
-\pgfdecorationsegmentamplitude=\dimen277
-\pgfdecorationsegmentlength=\dimen278
-)
-\tikz@lib@dec@box=\box72
-)
-(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
-brarydecorations.pathmorphing.code.tex
-(c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydec
-orations.pathmorphing.code.tex))
-(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
-brarydecorations.pathreplacing.code.tex
-(c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydec
-orations.pathreplacing.code.tex))
-(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplots.conto
-urlua.code.tex)
-\pgfplots@numplots=\count301
-\pgfplots@xmin@reg=\dimen279
-\pgfplots@xmax@reg=\dimen280
-\pgfplots@ymin@reg=\dimen281
-\pgfplots@ymax@reg=\dimen282
-\pgfplots@zmin@reg=\dimen283
-\pgfplots@zmax@reg=\dimen284
-)
-(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
-braryplotmarks.code.tex
-File: tikzlibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
-
-(c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmarks.code.
-tex
-File: pgflibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))) (c:/texlive/2022/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+(c:/texlive/2022/texmf-dist/tex/latex/ragged2e/ragged2e.sty
 Package: ragged2e 2022/11/13 v3.2 ragged2e Package
 \CenteringLeftskip=\skip62
 \RaggedLeftLeftskip=\skip63
@@ -564,22 +453,6 @@ Package: ragged2e 2022/11/13 v3.2 ragged2e Package
 \RaggedRightParindent=\skip74
 \JustifyingParindent=\skip75
 )
-(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplots.fillb
-etween.code.tex
-(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/pgfcontrib/tikzlibraryfillbetw
-een.code.tex
-(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
-braryintersections.code.tex
-(c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/pgflibraryintersections.c
-ode.tex
-\pgf@intersect@solutions=\count302
-))
-(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/pgfcontrib/tikzlibrarydecorati
-ons.softclip.code.tex
-(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/pgfcontrib/pgflibraryfillbetwe
-en.code.tex)))
-(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplots.decor
-ations.softclip.code.tex))
 (c:/texlive/2022/texmf-dist/tex/latex/vntex/vietnam.sty
 Package: vietnam 2009/07/12 v1.3 support for Vietnamese
 
@@ -756,8 +629,8 @@ File: t5cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 ))
 (c:/texlive/2022/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
-\inpenc@prehook=\toks41
-\inpenc@posthook=\toks42
+\inpenc@prehook=\toks34
+\inpenc@posthook=\toks35
 )
 (c:/texlive/2022/texmf-dist/tex/latex/vntex/vncaps.tex
 File: vncaps.tex 2006/06/07 v1.1 Captions in Vietnamese
@@ -770,8 +643,8 @@ Package: expl3 2023-02-02 L3 programming layer (loader)
 
 (c:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count303
-\l__pdf_internal_box=\box73
+\l__color_backend_stack_int=\count295
+\l__pdf_internal_box=\box72
 ))
 (c:/texlive/2022/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 Package: l3keys2e 2023-02-02 LaTeX2e option processing using LaTeX3 keys
@@ -786,61 +659,61 @@ Package: amstext 2021/08/26 v2.01 AMS text
 
 (c:/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks43
-\ex@=\dimen285
+\@emptytoks=\toks36
+\ex@=\dimen271
 ))
 (c:/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen286
+\pmbraise@=\dimen272
 )
 (c:/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count304
+\inf@bad=\count296
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count305
-\leftroot@=\count306
+\uproot@=\count297
+\leftroot@=\count298
 LaTeX Info: Redefining \overline on input line 399.
 LaTeX Info: Redefining \colon on input line 410.
-\classnum@=\count307
-\DOTSCASE@=\count308
+\classnum@=\count299
+\DOTSCASE@=\count300
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
-\Mathstrutbox@=\box74
-\strutbox@=\box75
+\Mathstrutbox@=\box73
+\strutbox@=\box74
 LaTeX Info: Redefining \big on input line 722.
 LaTeX Info: Redefining \Big on input line 723.
 LaTeX Info: Redefining \bigg on input line 724.
 LaTeX Info: Redefining \Bigg on input line 725.
-\big@size=\dimen287
+\big@size=\dimen273
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count309
+\macc@depth=\count301
 LaTeX Info: Redefining \bmod on input line 905.
 LaTeX Info: Redefining \pmod on input line 910.
 LaTeX Info: Redefining \smash on input line 940.
 LaTeX Info: Redefining \relbar on input line 970.
 LaTeX Info: Redefining \Relbar on input line 971.
-\c@MaxMatrixCols=\count310
+\c@MaxMatrixCols=\count302
 \dotsspace@=\muskip16
-\c@parentequation=\count311
-\dspbrk@lvl=\count312
-\tag@help=\toks44
-\row@=\count313
-\column@=\count314
-\maxfields@=\count315
-\andhelp@=\toks45
-\eqnshift@=\dimen288
-\alignsep@=\dimen289
-\tagshift@=\dimen290
-\tagwidth@=\dimen291
-\totwidth@=\dimen292
-\lineht@=\dimen293
-\@envbody=\toks46
+\c@parentequation=\count303
+\dspbrk@lvl=\count304
+\tag@help=\toks37
+\row@=\count305
+\column@=\count306
+\maxfields@=\count307
+\andhelp@=\toks38
+\eqnshift@=\dimen274
+\alignsep@=\dimen275
+\tagshift@=\dimen276
+\tagwidth@=\dimen277
+\totwidth@=\dimen278
+\lineht@=\dimen279
+\@envbody=\toks39
 \multlinegap=\skip77
 \multlinetaggap=\skip78
-\mathdisplay@stack=\toks47
+\mathdisplay@stack=\toks40
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 )
@@ -850,10 +723,10 @@ Package: xparse 2023-02-02 L3 Experimental document command parser
 )
 Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use
  in chemistry (CN)
-\l__chemgreek_tmpa_int=\count316
-\g__chemgreek_tmpa_int=\count317
+\l__chemgreek_tmpa_int=\count308
+\g__chemgreek_tmpa_int=\count309
 )
-\l__mhchem_ce_distanceFromLastComma_int=\count318
+\l__mhchem_ce_distanceFromLastComma_int=\count310
 \__mhchem_arrow_extPgfLength_skip=\skip79
 \mhchem@minispace@tmp=\skip80
 \mhchem@minibackspace@tmp=\skip81
@@ -864,11 +737,11 @@ Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use
 \mhchem@smallbondwidth=\skip86
 \mhchem@bondtmp@minussidebearingleft=\skip87
 \mhchem@bondtmp@minussidebearingright=\skip88
-\l__mhchem_option_version_int=\count319
-\mhchem@option@minusmathsidebearingleft=\dimen294
-\mhchem@option@minusmathsidebearingright=\dimen295
-\mhchem@option@minustextsidebearingleft=\dimen296
-\mhchem@option@minustextsidebearingright=\dimen297
+\l__mhchem_option_version_int=\count311
+\mhchem@option@minusmathsidebearingleft=\dimen280
+\mhchem@option@minusmathsidebearingright=\dimen281
+\mhchem@option@minustextsidebearingleft=\dimen282
+\mhchem@option@minustextsidebearingright=\dimen283
 )
 (c:/texlive/2022/texmf-dist/tex/latex/extarrows/extarrows.sty
 Package: extarrows 2020/03/12 v1.2.0 Some extensible arrows
@@ -906,31 +779,31 @@ LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
 Package: xlop 2020/04/26 package wrapper for xlop.tex
 
 (c:/texlive/2022/texmf-dist/tex/generic/xlop/xlop.tex
-\op@count@z=\count320
-\op@count@i=\count321
-\op@count@ii=\count322
-\op@count@iii=\count323
-\op@count@iv=\count324
-\op@count@v=\count325
-\op@count@vi=\count326
-\op@nbop=\count327
-\op@currentstyle=\toks48
+\op@count@z=\count312
+\op@count@i=\count313
+\op@count@ii=\count314
+\op@count@iii=\count315
+\op@count@iv=\count316
+\op@count@v=\count317
+\op@count@vi=\count318
+\op@nbop=\count319
+\op@currentstyle=\toks41
 
 `xlop' v0.28  <2020/11/11> (jcc)
-\opcolumnwidth=\dimen298
-\oplineheight=\dimen299
-\op@strutbox=\box76
-\op@decimalsepwidth=\dimen300
-\op@decimalsepoffset=\dimen301
-\op@hrulewidth=\dimen302
-\op@vrulewidth=\dimen303
-\op@parenthesis=\count328
-\op@token=\count329
-\op@stack=\count330
-\op@stackb=\count331
+\opcolumnwidth=\dimen284
+\oplineheight=\dimen285
+\op@strutbox=\box75
+\op@decimalsepwidth=\dimen286
+\op@decimalsepoffset=\dimen287
+\op@hrulewidth=\dimen288
+\op@vrulewidth=\dimen289
+\op@parenthesis=\count320
+\op@token=\count321
+\op@stack=\count322
+\op@stackb=\count323
 )) (c:/texlive/2022/texmf-dist/tex/latex/polynom/polynom.sty
 Package: polynom 2017/07/17 0.19 (CH,HA)
-\pld@currstage=\count332
+\pld@currstage=\count324
 )
 (c:/texlive/2022/texmf-dist/tex/latex/yhmath/yhmath.sty
 Package: yhmath 2020/03/17 v1.6
@@ -968,16 +841,16 @@ LaTeX Font Info:    Redeclaring math delimiter \bracevert on input line 101.
 )
 (c:/texlive/2022/texmf-dist/tex/latex/tools/enumerate.sty
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
-\@enLab=\toks49
+\@enLab=\toks42
 )
 (c:/texlive/2022/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip89
-\enit@outerparindent=\dimen304
-\enit@toks=\toks50
-\enit@inbox=\box77
-\enit@count@id=\count333
-\enitdp@description=\count334
+\enit@outerparindent=\dimen290
+\enit@toks=\toks43
+\enit@inbox=\box76
+\enit@count@id=\count325
+\enitdp@description=\count326
 )
 (c:/texlive/2022/texmf-dist/tex/latex/tkz-euclide/tkz-euclide.sty
 2023/02/03 5.02c tkz-euclide.sty
@@ -993,30 +866,49 @@ File: tikzlibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 
 (c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
 File: pgflibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\arrowsize=\dimen305
+\arrowsize=\dimen291
 ))
 (c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.cod
 e.tex
 File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfarrowinset=\dimen306
-\pgfarrowlength=\dimen307
-\pgfarrowwidth=\dimen308
-\pgfarrowlinewidth=\dimen309
+\pgfarrowinset=\dimen292
+\pgfarrowlength=\dimen293
+\pgfarrowwidth=\dimen294
+\pgfarrowlinewidth=\dimen295
 )
 (c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
 brarybackgrounds.code.tex
 File: tikzlibrarybackgrounds.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@layerbox@background=\box78
-\pgf@layerboxsaved@background=\box79
+\pgf@layerbox@background=\box77
+\pgf@layerboxsaved@background=\box78
 )
 (c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
 brarycalc.code.tex
 File: tikzlibrarycalc.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
 (c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarydecorations.code.tex
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.code.t
+ex
+\pgfdecoratedcompleteddistance=\dimen296
+\pgfdecoratedremainingdistance=\dimen297
+\pgfdecoratedinputsegmentcompleteddistance=\dimen298
+\pgfdecoratedinputsegmentremainingdistance=\dimen299
+\pgf@decorate@distancetomove=\dimen300
+\pgf@decorate@repeatstate=\count327
+\pgfdecorationsegmentamplitude=\dimen301
+\pgfdecorationsegmentlength=\dimen302
+)
+\tikz@lib@dec@box=\box79
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
 brarydecorations.markings.code.tex
 (c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydec
 orations.markings.code.tex))
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarydecorations.pathreplacing.code.tex
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydec
+orations.pathreplacing.code.tex))
 (c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
 brarydecorations.shapes.code.tex
 (c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydec
@@ -1030,13 +922,32 @@ orations.text.code.tex
 \tikz@lib@dec@te@box=\box81
 )
 (c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarydecorations.pathmorphing.code.tex
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydec
+orations.pathmorphing.code.tex))
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+braryintersections.code.tex
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/pgflibraryintersections.c
+ode.tex
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex)
+\pgf@intersect@solutions=\count328
+))
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
 brarymath.code.tex
 (c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
 braryfpu.code.tex)
-\tikz@math@for@depth=\count335
-\tikz@math@dimen=\dimen310
-\tikz@math@toks=\toks51
+\tikz@math@for@depth=\count329
+\tikz@math@dimen=\dimen303
+\tikz@math@toks=\toks44
 )
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+braryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmarks.code.
+tex
+File: pgflibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
 (c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
 brarypositioning.code.tex
 File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
@@ -1065,20 +976,20 @@ Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
 
 (c:/texlive/2022/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count336
+\etb@tempcnta=\count330
 ))
-\tkzRadius=\dimen311
-\tkzLength=\dimen312
-\tkz@radi=\dimen313
-\tkz@ax=\dimen314
-\tkz@ay=\dimen315
-\tkz@bx=\dimen316
-\tkz@by=\dimen317
-\tkz@cx=\dimen318
-\tkz@cy=\dimen319
-\tkz@dx=\dimen320
-\tkz@dy=\dimen321
-\tkz@cntmk=\count337
+\tkzRadius=\dimen304
+\tkzLength=\dimen305
+\tkz@radi=\dimen306
+\tkz@ax=\dimen307
+\tkz@ay=\dimen308
+\tkz@bx=\dimen309
+\tkz@by=\dimen310
+\tkz@cx=\dimen311
+\tkz@cy=\dimen312
+\tkz@dx=\dimen313
+\tkz@dy=\dimen314
+\tkz@cntmk=\count331
 
 Local configuration file tkz-euclide.cfg found and used
 (c:/texlive/2022/texmf-dist/tex/latex/tkz-euclide/tkz-euclide.cfg
@@ -1161,10 +1072,10 @@ Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 
 (c:/texlive/2022/texmf-dist/tex/generic/xkeyval/xkeyval.tex
 (c:/texlive/2022/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks52
-\XKV@tempa@toks=\toks53
+\XKV@toks=\toks45
+\XKV@tempa@toks=\toks46
 )
-\XKV@depth=\count338
+\XKV@depth=\count332
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
@@ -1175,20 +1086,20 @@ File: tikzlibrarypatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ex
 File: pgflibrarypatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))
-\tkz@XF=\dimen322
-\tkz@YF=\dimen323
-\c@tkz@cnt@line=\count339
-\c@tkz@cnt@lg=\count340
-\c@tkz@cnt@cl=\count341
-\c@tkz@cnt@pred=\count342
-\c@tkz@cnt@temp=\count343
-\c@tkz@cnt@arrow=\count344
-\c@tkz@cnt@zone=\count345
-\c@tkz@cnt@lgnext=\count346
-\c@tkz@cnt@clnext=\count347
-\c@tkz@cnt@pair=\count348
-\c@tkz@cnt@impair=\count349
-\c@tkz@cnt@aw=\count350
+\tkz@XF=\dimen315
+\tkz@YF=\dimen316
+\c@tkz@cnt@line=\count333
+\c@tkz@cnt@lg=\count334
+\c@tkz@cnt@cl=\count335
+\c@tkz@cnt@pred=\count336
+\c@tkz@cnt@temp=\count337
+\c@tkz@cnt@arrow=\count338
+\c@tkz@cnt@zone=\count339
+\c@tkz@cnt@lgnext=\count340
+\c@tkz@cnt@clnext=\count341
+\c@tkz@cnt@pair=\count342
+\c@tkz@cnt@impair=\count343
+\c@tkz@cnt@aw=\count344
 ) (c:/texlive/2022/texmf-dist/tex/latex/psnfss/pifont.sty
 Package: pifont 2020/03/25 PSNFSS-v9.3 Pi font support (SPQR) 
 LaTeX Font Info:    Trying to load font information for U+pzd on input line 63.
@@ -1212,13 +1123,13 @@ ways
 
 (c:/texlive/2022/texmf-dist/tex/generic/listofitems/listofitems.sty
 (c:/texlive/2022/texmf-dist/tex/generic/listofitems/listofitems.tex
-\loi_cnt_foreach_nest=\count351
-\loi_nestcnt=\count352
+\loi_cnt_foreach_nest=\count345
+\loi_nestcnt=\count346
 )
 Package: listofitems 2019/08/21 v1.63 Grab items in lists using user-specified 
 sep char (CT)
 )
-\c@@stackindex=\count353
+\c@@stackindex=\count347
 \@boxshift=\skip90
 \stack@tmplength=\skip91
 \temp@stkl=\skip92
@@ -1229,7 +1140,7 @@ sep char (CT)
 \se@backgroundbox=\box85
 \stackedbox=\box86
 \@centerbox=\box87
-\c@ROWcellindex@=\count354
+\c@ROWcellindex@=\count348
 )
 (c:/texlive/2022/texmf-dist/tex/latex/scalerel/scalerel.sty
 Package: scalerel 2016/12/29 v1.8 Routines for constrained scaling and stretchi
@@ -1245,39 +1156,39 @@ ng of objects, relative to a reference object or in absolute terms
 (c:/texlive/2022/texmf-dist/tex/latex/tasks/tasks.sty
 (c:/texlive/2022/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
 Package: xtemplate 2023-02-02 L3 Experimental prototype document functions
-\l__xtemplate_tmp_dim=\dimen324
-\l__xtemplate_tmp_int=\count355
+\l__xtemplate_tmp_dim=\dimen317
+\l__xtemplate_tmp_int=\count349
 \l__xtemplate_tmp_muskip=\muskip17
 \l__xtemplate_tmp_skip=\skip101
 )
 Package: tasks 2022/01/08 v1.4a lists with columns filled horizontally
-\g__tasks_total_items_int=\count356
-\l__tasks_columns_int=\count357
-\g__tasks_rows_int=\count358
-\g__tasks_current_col_num_int=\count359
-\g__tasks_current_row_num_int=\count360
-\l__tasks_item_columns_int=\count361
-\g__tasks_env_int=\count362
-\l__tasks_start_int=\count363
-\l__tasks_item_indent_dim=\dimen325
-\l__tasks_item_default_indent_dim=\dimen326
-\l__tasks_item_width_dim=\dimen327
-\l__tasks_label_width_dim=\dimen328
-\l__tasks_label_default_width_dim=\dimen329
-\l__tasks_label_offset_dim=\dimen330
-\l__tasks_label_default_offset_dim=\dimen331
-\l__tasks_column_sep_dim=\dimen332
-\l__tasks_correction_dim=\dimen333
-\l__tasks_full_width_dim=\dimen334
+\g__tasks_total_items_int=\count350
+\l__tasks_columns_int=\count351
+\g__tasks_rows_int=\count352
+\g__tasks_current_col_num_int=\count353
+\g__tasks_current_row_num_int=\count354
+\l__tasks_item_columns_int=\count355
+\g__tasks_env_int=\count356
+\l__tasks_start_int=\count357
+\l__tasks_item_indent_dim=\dimen318
+\l__tasks_item_default_indent_dim=\dimen319
+\l__tasks_item_width_dim=\dimen320
+\l__tasks_label_width_dim=\dimen321
+\l__tasks_label_default_width_dim=\dimen322
+\l__tasks_label_offset_dim=\dimen323
+\l__tasks_label_default_offset_dim=\dimen324
+\l__tasks_column_sep_dim=\dimen325
+\l__tasks_correction_dim=\dimen326
+\l__tasks_full_width_dim=\dimen327
 \l__tasks_after_item_skip=\skip102
 \l__tasks_custom_after_item_skip=\skip103
 \l__tasks_before_list_skip=\skip104
 \l__tasks_after_list_skip=\skip105
 \l__tasks_item_coffin=\box88
 \l__tasks_label_coffin=\box89
-\c@task=\count364
-\l__tasks_tmpa_int=\count365
-\l__tasks_tmpb_int=\count366
+\c@task=\count358
+\l__tasks_tmpa_int=\count359
+\l__tasks_tmpb_int=\count360
 \l__tasks_tmpa_coffin=\box90
 \l__tasks_tmpa_box=\box91
 
@@ -1386,7 +1297,87 @@ File: tikzlibraryshadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/pgflibraryshadings.code.t
 ex
 File: pgflibraryshadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)) (c:/texlive/2022/texmf-dist/tex/latex/pgfornament/pgfornament.sty
+)) (c:/texlive/2022/texmf-dist/tex/latex/pgfplots/pgfplots.sty
+(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
+Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
+
+(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/pgfplots.code.tex
+(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/pgfplotscore.code.tex
+\t@pgfplots@toka=\toks47
+\t@pgfplots@tokb=\toks48
+\t@pgfplots@tokc=\toks49
+\pgfplots@tmpa=\dimen328
+\c@pgfplots@coordindex=\count361
+\c@pgfplots@scanlineindex=\count362
+
+(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgeneric.code.te
+x))
+(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/libs/pgfplotslibrary.code.tex)
+
+(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfs
+upp_loader.code.tex
+Package pgfplots: loading complementary utilities for your pgf version...
+\t@pgf@toka=\toks50
+\t@pgf@tokb=\toks51
+\t@pgf@tokc=\toks52
+
+(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfs
+upp_pgfutil-common-lists.tex))
+(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.code.tex
+(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsliststru
+cture.code.tex)
+(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsliststru
+ctureext.code.tex)
+(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsarray.co
+de.tex
+\c@pgfplotsarray@tmp=\count363
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsmatrix.c
+ode.tex)
+(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstableshared.c
+ode.tex
+\c@pgfplotstable@counta=\count364
+\t@pgfplotstable@a=\toks53
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsdeque.co
+de.tex)
+(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.code.tex
+(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.data.code.
+tex))
+(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.verb.code.te
+x)
+(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplots.surfsh
+ading.code.tex
+\c@pgfplotslibrarysurf@no=\count365
+
+(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots.surfsha
+ding.pgfsys-pdftex.def)))
+(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/util/pgfplotscolormap.code.tex
+(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/util/pgfplotscolor.code.tex))
+(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/pgfplotsstackedplots.code.tex)
+(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/pgfplotsplothandlers.code.tex
+(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplothandler.code.t
+ex
+(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplotimage.code.tex
+))) (c:/texlive/2022/texmf-dist/tex/generic/pgfplots/pgfplots.scaling.code.tex)
+
+(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/pgfplotscoordprocessing.code.t
+ex)
+(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/pgfplots.errorbars.code.tex)
+(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/pgfplots.markers.code.tex)
+(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/pgfplotsticks.code.tex)
+(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/pgfplots.paths.code.tex)
+(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplots.conto
+urlua.code.tex)
+\pgfplots@numplots=\count366
+\pgfplots@xmin@reg=\dimen329
+\pgfplots@xmax@reg=\dimen330
+\pgfplots@ymin@reg=\dimen331
+\pgfplots@ymax@reg=\dimen332
+\pgfplots@zmin@reg=\dimen333
+\pgfplots@zmax@reg=\dimen334
+))
+(c:/texlive/2022/texmf-dist/tex/latex/pgfornament/pgfornament.sty
 (c:/texlive/2022/texmf-dist/tex/latex/pgfopts/pgfopts.sty
 Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
 \pgfopts@list@add@a@toks=\toks54
@@ -1398,7 +1389,16 @@ Package: pgfornament 2020/05/26 v1.2 vector ornaments
 2020/04/06 1.1 pgflibraryvectorian.code.tex
 ))
 (c:/texlive/2022/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplots.fillb
-etween.code.tex) (c:/texlive/2022/texmf-dist/tex/latex/hyperref/hyperref.sty
+etween.code.tex
+(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/pgfcontrib/tikzlibraryfillbetw
+een.code.tex
+(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/pgfcontrib/tikzlibrarydecorati
+ons.softclip.code.tex
+(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/pgfcontrib/pgflibraryfillbetwe
+en.code.tex)))
+(c:/texlive/2022/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplots.decor
+ations.softclip.code.tex))
+(c:/texlive/2022/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2022-11-13 v7.00u Hypertext links for LaTeX
 
 (c:/texlive/2022/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
@@ -1966,7 +1966,7 @@ Package: esvect
 \symesvector=\mathgroup11
 )
 \symsymbolsC=\mathgroup12
-LaTeX Font Info:    Redeclaring math symbol \parallel on input line 105.
+LaTeX Font Info:    Redeclaring math symbol \parallel on input line 100.
 
 (c:/texlive/2022/texmf-dist/tex/latex/changepage/changepage.sty
 Package: changepage 2009/10/20 v1.0c check page and change page layout
@@ -2134,7 +2134,7 @@ File: pppdftex.def 2022/12/19 v0.5x Pdfpages driver for pdfTeX (AM)
 )
 LaTeX Font Info:    Overwriting math alphabet `\bdx' in version `bold'
 (Font)                  U/BOONDOX-cal/m/n --> U/BOONDOX-cal/b/n on input line 1
-079.
+074.
 )
 (./cautruc13/BosungK.tex (./casiovn.sty
 Package: casiovn 2018/07/17 version 1.01 Le Dinh Man
@@ -2199,11 +2199,12 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package pgfplots notification 'compat/show suggested version=true': you might b
-enefit from \pgfplotsset{compat=1.18} (current compat level: 1.9).
-
 
 Package chemgreek Info: Activating mapping `default' on line 78.
+
+
+Package pgfplots notification 'compat/show suggested version=true': you might b
+enefit from \pgfplotsset{compat=1.18} (current compat level: 1.13).
 
 Package hyperref Info: Link coloring OFF on input line 78.
 (./VATLY12-SEM1.out) (./VATLY12-SEM1.out)
@@ -2451,7 +2452,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [3
 
-] (./data/G12Y24B11.tex
+] (./data/G12Y24B14.tex
 LaTeX Font Info:    Calculating math sizes for size <16> on input line 1.
 
 
@@ -2491,14 +2492,33 @@ Overfull \hbox (0.5095pt too wide) in paragraph at lines 1--1
 |[][]| 
  []
 
+LaTeX Font Info:    Trying to load font information for U+fontawesomethree on i
+nput line 20.
+(c:/texlive/2022/texmf-dist/tex/latex/fontawesome/ufontawesomethree.fd
+File: ufontawesomethree.fd 2016/05/22 Font definitions for U/fontawesomethree.
+)
+
+LaTeX Font Warning: Font shape `U/fontawesomethree/bx/n' undefined
+(Font)              using `U/fontawesomethree/m/n' instead on input line 20.
+
+
+LaTeX Font Warning: Font shape `U/fontawesometwo/bx/n' undefined
+(Font)              using `U/fontawesometwo/m/n' instead on input line 39.
+
 
 LaTeX Font Warning: Font shape `U/fontawesometwo/b/n' undefined
-(Font)              using `U/fontawesometwo/m/n' instead on input line 46.
+(Font)              using `U/fontawesometwo/m/n' instead on input line 41.
 
 Package hyperref Info: bookmark level for unknown vd defaults to 0 on input lin
-e 49.
+e 44.
+<figs/VN12-Y24-PH-SYL-014-1.jpg, id=109, 170.43675pt x 121.6545pt>
+File: figs/VN12-Y24-PH-SYL-014-1.jpg Graphic file (type jpg)
+<use figs/VN12-Y24-PH-SYL-014-1.jpg>
+Package pdftex.def Info: figs/VN12-Y24-PH-SYL-014-1.jpg  used on input line 49.
 
-Underfull \vbox (badness 4254) has occurred while \output is active []
+(pdftex.def)             Requested size: 146.78105pt x 104.77675pt.
+
+Underfull \vbox (badness 2027) has occurred while \output is active []
 
 
 
@@ -2511,13 +2531,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [4]
 LaTeX Font Info:    Trying to load font information for U+fontawesomeone on inp
-ut line 128.
+ut line 78.
  (c:/texlive/2022/texmf-dist/tex/latex/fontawesome/ufontawesomeone.fd
 File: ufontawesomeone.fd 2016/05/22 Font definitions for U/fontawesomeone.
 )
 
 LaTeX Font Warning: Font shape `U/fontawesomeone/bx/n' undefined
-(Font)              using `U/fontawesomeone/m/n' instead on input line 128.
+(Font)              using `U/fontawesomeone/m/n' instead on input line 78.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2527,39 +2547,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[5]
+[5 <./figs/VN12-Y24-PH-SYL-014-1.jpg>]
 pdfTeX warning (ext4): destination with the same identifier (name{vd.1}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.133 \begin{vd}
-                
-<figs/VN12-Y24-PH-SYL-012-1.jpg, id=151, 153.2124pt x 281.3712pt>
-File: figs/VN12-Y24-PH-SYL-012-1.jpg Graphic file (type jpg)
-<use figs/VN12-Y24-PH-SYL-012-1.jpg>
-Package pdftex.def Info: figs/VN12-Y24-PH-SYL-012-1.jpg  used on input line 178
-.
-(pdftex.def)             Requested size: 53.62512pt x 98.48138pt.
-File: figs/VN12-Y24-PH-SYL-012-1.jpg Graphic file (type jpg)
-<use figs/VN12-Y24-PH-SYL-012-1.jpg>
-Package pdftex.def Info: figs/VN12-Y24-PH-SYL-012-1.jpg  used on input line 178
-.
-(pdftex.def)             Requested size: 53.62512pt x 98.48138pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-[6]
-pdfTeX warning (ext4): destination with the same identifier (name{vd.1}) has be
-en already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.205 \begin{vd}
+l.110 \begin{vd}
                 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2569,25 +2562,102 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[7 <./figs/VN12-Y24-PH-SYL-012-1.jpg>]
-Output from handle ans going to ans/G12Y24B11TN.tex
+[6
+pdfTeX warning (ext4): destination with the same identifier (name{vd.2}) has be
+en already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.126 	}
+        ]
+Missing character: There is no . in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Package pgfplots info on input line 207: fill between: activating layered graph
+ics
+\pgf@layerbox@axis background=\box260
+\pgf@layerboxsaved@axis background=\box261
+\pgf@layerbox@axis grid=\box262
+\pgf@layerboxsaved@axis grid=\box263
+\pgf@layerbox@axis ticks=\box264
+\pgf@layerboxsaved@axis ticks=\box265
+\pgf@layerbox@axis lines=\box266
+\pgf@layerboxsaved@axis lines=\box267
+\pgf@layerbox@axis tick labels=\box268
+\pgf@layerboxsaved@axis tick labels=\box269
+\pgf@layerbox@pre main=\box270
+\pgf@layerboxsaved@pre main=\box271
+\pgf@layerbox@axis descriptions=\box272
+\pgf@layerboxsaved@axis descriptions=\box273
+\pgf@layerbox@axis foreground=\box274
+\pgf@layerboxsaved@axis foreground=\box275
+Package pgfplots info on input line 207: Setting layers 'axis background,axis g
+rid,axis ticks,axis lines,axis tick labels,pre main,main,axis descriptions,axis
+ foreground'...
+
+Overfull \hbox (24.53215pt too wide) in paragraph at lines 209--210
+ [] 
+ []
+
+
+Overfull \hbox (4.86545pt too wide) in paragraph at lines 139--214
+[]$ $[]$ $[]$ 
+ []
+
+Missing character: There is no . in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Package pgfplots info on input line 244: fill between: activating layered graph
+ics
+Package pgfplots info on input line 244: Setting layers 'axis background,axis g
+rid,axis ticks,axis lines,axis tick labels,pre main,main,axis descriptions,axis
+ foreground'...
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[7]
+pdfTeX warning (ext4): destination with the same identifier (name{vd.1}) has be
+en already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.260 \begin{vd}
+                
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[8]
+pdfTeX warning (ext4): destination with the same identifier (name{vd.2}) has be
+en already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.268 \begin{vd}
+                
+Output from handle ans going to ans/G12Y24B14TN.tex
 \ans@file=\write9
-\openout9 = `ans/G12Y24B11TN.tex'.
+\openout9 = `ans/G12Y24B14TN.tex'.
 
 Package hyperref Info: bookmark level for unknown ex defaults to 0 on input lin
-e 238.
-<figs/VN12-Y24-PH-SYL-012P-1.jpg, id=169, 104.18925pt x 98.16675pt>
-File: figs/VN12-Y24-PH-SYL-012P-1.jpg Graphic file (type jpg)
-<use figs/VN12-Y24-PH-SYL-012P-1.jpg>
-Package pdftex.def Info: figs/VN12-Y24-PH-SYL-012P-1.jpg  used on input line 25
-7.
-(pdftex.def)             Requested size: 106.98074pt x 100.79831pt.
-<figs/VN12-Y24-PH-SYL-012P-2.jpg, id=170, 118.64325pt x 91.542pt>
-File: figs/VN12-Y24-PH-SYL-012P-2.jpg Graphic file (type jpg)
-<use figs/VN12-Y24-PH-SYL-012P-2.jpg>
-Package pdftex.def Info: figs/VN12-Y24-PH-SYL-012P-2.jpg  used on input line 27
-0.
-(pdftex.def)             Requested size: 106.98074pt x 82.54488pt.
+e 307.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -2596,16 +2666,46 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[8 <./figs/VN12-Y24-PH-SYL-012P-1.jpg>]
+[9]
+Overfull \hbox (1.29822pt too wide) in paragraph at lines 378--378
+   [] [] 
+ []
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+Overfull \hbox (1.29822pt too wide) in paragraph at lines 378--378
+   [] [] 
+ []
 
-[9 <./figs/VN12-Y24-PH-SYL-012P-2.jpg>]
+
+Overfull \hbox (1.29822pt too wide) in paragraph at lines 378--378
+   [] [] 
+ []
+
+
+Overfull \hbox (1.29822pt too wide) in paragraph at lines 378--378
+   [] [] 
+ []
+
+
+Overfull \hbox (1.29822pt too wide) in paragraph at lines 411--411
+   [] [] 
+ []
+
+
+Overfull \hbox (1.29822pt too wide) in paragraph at lines 411--411
+   [] [] 
+ []
+
+
+Overfull \hbox (1.29822pt too wide) in paragraph at lines 411--411
+   [] [] 
+ []
+
+
+Overfull \hbox (1.29822pt too wide) in paragraph at lines 411--411
+   [] [] 
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -2615,6 +2715,25 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [10]
+Overfull \hbox (1.29822pt too wide) in paragraph at lines 433--433
+   [] [] 
+ []
+
+
+Overfull \hbox (1.29822pt too wide) in paragraph at lines 433--433
+   [] [] 
+ []
+
+
+Overfull \hbox (1.29822pt too wide) in paragraph at lines 433--433
+   [] [] 
+ []
+
+
+Overfull \hbox (1.29822pt too wide) in paragraph at lines 433--433
+   [] [] 
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -2624,188 +2743,172 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [11]
-<figs/VN12-Y24-PH-SYL-012P-5.jpg, id=215, 104.18925pt x 128.27925pt>
-File: figs/VN12-Y24-PH-SYL-012P-5.jpg Graphic file (type jpg)
-<use figs/VN12-Y24-PH-SYL-012P-5.jpg>
-Package pdftex.def Info: figs/VN12-Y24-PH-SYL-012P-5.jpg  used on input line 53
-4.
-(pdftex.def)             Requested size: 80.23352pt x 98.78511pt.
+Overfull \hbox (1.29822pt too wide) in paragraph at lines 540--540
+   [] [] 
+ []
 
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
+Overfull \hbox (1.29822pt too wide) in paragraph at lines 540--540
+   [] [] 
+ []
 
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[12 <./figs/VN12-Y24-PH-SYL-012P-5.jpg>]
-<figs/VN12-Y24-PH-SYL-012P-4.jpg, id=226, 161.403pt x 42.75975pt>
-File: figs/VN12-Y24-PH-SYL-012P-4.jpg Graphic file (type jpg)
-<use figs/VN12-Y24-PH-SYL-012P-4.jpg>
-Package pdftex.def Info: figs/VN12-Y24-PH-SYL-012P-4.jpg  used on input line 55
+Overfull \hbox (1.29822pt too wide) in paragraph at lines 540--540
+   [] [] 
+ []
+
+
+Overfull \hbox (1.29822pt too wide) in paragraph at lines 540--540
+   [] [] 
+ []
+
+<figs/VN12-Y24-PH-SYL-015P-3.jpg, id=229, 155.3805pt x 118.041pt>
+File: figs/VN12-Y24-PH-SYL-015P-3.jpg Graphic file (type jpg)
+<use figs/VN12-Y24-PH-SYL-015P-3.jpg>
+Package pdftex.def Info: figs/VN12-Y24-PH-SYL-015P-3.jpg  used on input line 54
 7.
-(pdftex.def)             Requested size: 187.22243pt x 49.60327pt.
-File: figs/VN12-Y24-PH-SYL-012P-4.jpg Graphic file (type jpg)
-<use figs/VN12-Y24-PH-SYL-012P-4.jpg>
-Package pdftex.def Info: figs/VN12-Y24-PH-SYL-012P-4.jpg  used on input line 57
-8.
-(pdftex.def)             Requested size: 187.22243pt x 49.60327pt.
+(pdftex.def)             Requested size: 187.22243pt x 142.23564pt.
 
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[12 <./figs/VN12-Y24-PH-SYL-015P-3.jpg>]
+<figs/VN12-Y24-PH-SYL-015P-5.jpg, id=243, 123.46124pt x 112.0185pt>
+File: figs/VN12-Y24-PH-SYL-015P-5.jpg Graphic file (type jpg)
+<use figs/VN12-Y24-PH-SYL-015P-5.jpg>
+Package pdftex.def Info: figs/VN12-Y24-PH-SYL-015P-5.jpg  used on input line 60
+3.
+(pdftex.def)             Requested size: 160.4752pt x 145.61032pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[13 <./figs/VN12-Y24-PH-SYL-015P-5.jpg>]
 pdfTeX warning (ext4): destination with the same identifier (name{ex.1}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.599 \begin{ex}
+l.639 \begin{ex}
                 
-<figs/VN12-Y24-PH-SYL-011P-1.jpg, id=227, 722.7pt x 722.7pt>
-File: figs/VN12-Y24-PH-SYL-011P-1.jpg Graphic file (type jpg)
-<use figs/VN12-Y24-PH-SYL-011P-1.jpg>
-Package pdftex.def Info: figs/VN12-Y24-PH-SYL-011P-1.jpg  used on input line 60
-2.
-(pdftex.def)             Requested size: 106.98074pt x 106.97777pt.
+Underfull \hbox (badness 10000) in paragraph at lines 655--655
+
+ []
 
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-[13 <./figs/VN12-Y24-PH-SYL-012P-4.jpg>]
 pdfTeX warning (ext4): destination with the same identifier (name{ex.2}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.619 \begin{ex}
-                
-<figs/VN12-Y24-PH-SYL-012P-6.jpg, id=237, 752.8125pt x 501.875pt>
-File: figs/VN12-Y24-PH-SYL-012P-6.jpg Graphic file (type jpg)
-<use figs/VN12-Y24-PH-SYL-012P-6.jpg>
-Package pdftex.def Info: figs/VN12-Y24-PH-SYL-012P-6.jpg  used on input line 63
-3.
-(pdftex.def)             Requested size: 112.91699pt x 75.278pt.
-File: figs/VN12-Y24-PH-SYL-012P-6.jpg Graphic file (type jpg)
-<use figs/VN12-Y24-PH-SYL-012P-6.jpg>
-Package pdftex.def Info: figs/VN12-Y24-PH-SYL-012P-6.jpg  used on input line 63
-3.
-(pdftex.def)             Requested size: 112.91699pt x 75.278pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 644--644
-
- []
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{ex.3}) has be
-en already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.647 \begin{ex}
-                
-<figs/VN12-Y24-PH-SYL-012P-8.jpg, id=238, 301.125pt x 168.63pt>
-File: figs/VN12-Y24-PH-SYL-012P-8.jpg Graphic file (type jpg)
-<use figs/VN12-Y24-PH-SYL-012P-8.jpg>
-Package pdftex.def Info: figs/VN12-Y24-PH-SYL-012P-8.jpg  used on input line 65
-4.
-(pdftex.def)             Requested size: 150.56212pt x 84.31479pt.
-File: figs/VN12-Y24-PH-SYL-012P-8.jpg Graphic file (type jpg)
-<use figs/VN12-Y24-PH-SYL-012P-8.jpg>
-Package pdftex.def Info: figs/VN12-Y24-PH-SYL-012P-8.jpg  used on input line 65
-4.
-(pdftex.def)             Requested size: 150.56212pt x 84.31479pt.
-
-Underfull \vbox (badness 2591) has occurred while \output is active []
-
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-[14 <./figs/VN12-Y24-PH-SYL-011P-1.jpg> <./figs/VN12-Y24-PH-SYL-012P-6.jpg>]
-pdfTeX warning (ext4): destination with the same identifier (name{ex.4}) has be
-en already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.673 \begin{ex}
-                
-<figs/VN12-Y24-PH-SYL-012P-7.jpg, id=261, 903.375pt x 903.375pt>
-File: figs/VN12-Y24-PH-SYL-012P-7.jpg Graphic file (type jpg)
-<use figs/VN12-Y24-PH-SYL-012P-7.jpg>
-Package pdftex.def Info: figs/VN12-Y24-PH-SYL-012P-7.jpg  used on input line 68
-0.
-(pdftex.def)             Requested size: 90.34279pt x 90.34279pt.
-File: figs/VN12-Y24-PH-SYL-012P-7.jpg Graphic file (type jpg)
-<use figs/VN12-Y24-PH-SYL-012P-7.jpg>
-Package pdftex.def Info: figs/VN12-Y24-PH-SYL-012P-7.jpg  used on input line 68
-0.
-(pdftex.def)             Requested size: 90.34279pt x 90.34279pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 712--712
-
- []
-
-
-Overfull \hbox (3.44104pt too wide) in paragraph at lines 712--712
- []|[][][][][][]| 
- []
-
-
-Overfull \hbox (13.97781pt too wide) in paragraph at lines 712--712
- []|[][][][][][]| 
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-[15 <./figs/VN12-Y24-PH-SYL-012P-8.jpg> <./figs/VN12-Y24-PH-SYL-012P-7.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 712--712
-
- []
-
-
-Overfull \hbox (3.44104pt too wide) in paragraph at lines 712--712
- []|[][][][][][]| 
- []
-
-
-Overfull \hbox (10.88272pt too wide) in paragraph at lines 712--712
- []|[][][][][][]| 
- []
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{ex.1}) has be
-en already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.717 \begin{ex}
-                
-pdfTeX warning (ext4): destination with the same identifier (name{ex.2}) has be
-en already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.730 \begin{ex}
+l.658 \begin{ex}
                 
 pdfTeX warning (ext4): destination with the same identifier (name{ex.3}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.743 \begin{ex}
+l.679 \begin{ex}
                 
+<figs/VN12-Y24-PH-SYL-015P-2.jpg, id=252, 578.16pt x 407.27156pt>
+File: figs/VN12-Y24-PH-SYL-015P-2.jpg Graphic file (type jpg)
+<use figs/VN12-Y24-PH-SYL-015P-2.jpg>
+Package pdftex.def Info: figs/VN12-Y24-PH-SYL-015P-2.jpg  used on input line 68
+6.
+(pdftex.def)             Requested size: 115.62994pt x 81.45287pt.
+File: figs/VN12-Y24-PH-SYL-015P-2.jpg Graphic file (type jpg)
+<use figs/VN12-Y24-PH-SYL-015P-2.jpg>
+Package pdftex.def Info: figs/VN12-Y24-PH-SYL-015P-2.jpg  used on input line 68
+6.
+(pdftex.def)             Requested size: 115.62994pt x 81.45287pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[14 <./figs/VN12-Y24-PH-SYL-015P-2.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 704--704
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 704--704
+
+ []
+
+
 pdfTeX warning (ext4): destination with the same identifier (name{ex.4}) has be
+en already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.707 \begin{ex}
+                
+pdfTeX warning (ext4): destination with the same identifier (name{ex.5}) has be
+en already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.728 \begin{ex}
+                
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[15]
+pdfTeX warning (ext4): destination with the same identifier (name{ex.1}) has be
+en already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.752 \begin{ex}
+                
+pdfTeX warning (ext4): destination with the same identifier (name{ex.2}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.757 \begin{ex}
+                
+pdfTeX warning (ext4): destination with the same identifier (name{ex.3}) has be
+en already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.764 \begin{ex}
+                
+pdfTeX warning (ext4): destination with the same identifier (name{ex.4}) has be
+en already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.771 \begin{ex}
+                
+pdfTeX warning (ext4): destination with the same identifier (name{ex.5}) has be
+en already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.778 \begin{ex}
+                
+pdfTeX warning (ext4): destination with the same identifier (name{ex.6}) has be
+en already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.784 \begin{ex}
+                
+pdfTeX warning (ext4): destination with the same identifier (name{ex.7}) has be
+en already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.793 \begin{ex}
                 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2816,45 +2919,30 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [16]
-pdfTeX warning (ext4): destination with the same identifier (name{ex.5}) has be
+pdfTeX warning (ext4): destination with the same identifier (name{ex.8}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.772 \begin{ex}
+l.801 \begin{ex}
                 
-pdfTeX warning (ext4): destination with the same identifier (name{ex.6}) has be
+pdfTeX warning (ext4): destination with the same identifier (name{ex.9}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.786 \begin{ex}
+l.814 \begin{ex}
                 
-Overfull \hbox (25.23642pt too wide) detected at line 805
-\OML/cmm/m/it/10.95 F \OT1/cmr/m/n/10.95 + \OML/cmm/m/it/10.95 p[]S \OT1/cmr/m/
-n/10.95 = \OML/cmm/m/it/10.95 mg \OT1/cmr/m/n/10.95 + \OML/cmm/m/it/10.95 p[]S 
-\OMS/cmsy/m/n/10.95 ) \OML/cmm/m/it/10.95 F \OT1/cmr/m/n/10.95 = \OML/cmm/m/it/
-10.95 mg \OT1/cmr/m/n/10.95 + [] \OMS/cmsy/m/n/10.95 ^^A [] \OT1/cmr/m/n/10.95 
-= [] \OMS/cmsy/m/n/10.95 ^^A [] \OT1/cmr/m/n/10.95 + [] \OMS/cmsy/m/n/10.95 ^^A
- [] ^^Y \OT1/cmr/m/n/10.95 692 N\OML/cmm/m/it/10.95 :
- []
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{ex.7}) has be
-en already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{ex.10}) has b
+een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.808 \begin{ex}
+l.826 \begin{ex}
                 
-<figs/VN12-Y24-PH-SYL-012P-3.jpg, id=291, 62.03175pt x 117.43875pt>
-File: figs/VN12-Y24-PH-SYL-012P-3.jpg Graphic file (type jpg)
-<use figs/VN12-Y24-PH-SYL-012P-3.jpg>
-Package pdftex.def Info: figs/VN12-Y24-PH-SYL-012P-3.jpg  used on input line 81
-4.
-(pdftex.def)             Requested size: 27.91402pt x 52.84694pt.
-File: figs/VN12-Y24-PH-SYL-012P-3.jpg Graphic file (type jpg)
-<use figs/VN12-Y24-PH-SYL-012P-3.jpg>
-Package pdftex.def Info: figs/VN12-Y24-PH-SYL-012P-3.jpg  used on input line 81
-4.
-(pdftex.def)             Requested size: 27.91402pt x 52.84694pt.
+<figs/VN12-Y24-PH-SYL-015P-1.jpg, id=314, 86.12175pt x 113.223pt>
+File: figs/VN12-Y24-PH-SYL-015P-1.jpg Graphic file (type jpg)
+<use figs/VN12-Y24-PH-SYL-015P-1.jpg>
+Package pdftex.def Info: figs/VN12-Y24-PH-SYL-015P-1.jpg  used on input line 83
+6.
+(pdftex.def)             Requested size: 106.98074pt x 140.65248pt.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2864,19 +2952,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[17]
-pdfTeX warning (ext4): destination with the same identifier (name{ex.8}) has be
-en already used, duplicate ignored
+[17 <./figs/VN12-Y24-PH-SYL-015P-1.jpg>]
+pdfTeX warning (ext4): destination with the same identifier (name{ex.11}) has b
+een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.828 \begin{ex}
+l.839 \begin{ex}
                 
-pdfTeX warning (ext4): destination with the same identifier (name{ex.9}) has be
-en already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.838 \begin{ex}
-                )
+<figs/VN12-Y24-PH-SYL-015P-4.jpg, id=321, 233.07076pt x 163.20975pt>
+File: figs/VN12-Y24-PH-SYL-015P-4.jpg Graphic file (type jpg)
+<use figs/VN12-Y24-PH-SYL-015P-4.jpg>
+Package pdftex.def Info: figs/VN12-Y24-PH-SYL-015P-4.jpg  used on input line 84
+2.
+(pdftex.def)             Requested size: 187.22243pt x 131.10837pt.
+)
 \tf@thm=\write10
 \openout10 = `VATLY12-SEM1.thm'.
 
@@ -2890,7 +2979,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[18 <./figs/VN12-Y24-PH-SYL-012P-3.jpg>] (./VATLY12-SEM1.aux)
+[18 <./figs/VN12-Y24-PH-SYL-015P-4.jpg>] (./VATLY12-SEM1.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.28pt have occurred.
@@ -2899,41 +2988,45 @@ LaTeX Font Warning: Size substitutions with differences
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `VATLY12-SEM1.out' has not changed.
-(rerunfilecheck)             Checksum: B8A3951E9B2E3B6CF67DD11C6764734A;636.
+(rerunfilecheck)             Checksum: B80BF388ACCD2DF0858CD21D951CC026;541.
  ) 
 Here is how much of TeX's memory you used:
- 70319 strings out of 476064
- 1670854 string characters out of 5794900
- 2813227 words of memory out of 5000000
- 89339 multiletter control sequences out of 15000+600000
- 603891 words of font info for 168 fonts, out of 8000000 for 9000
+ 70414 strings out of 476064
+ 1671742 string characters out of 5794900
+ 2732717 words of memory out of 5000000
+ 89414 multiletter control sequences out of 15000+600000
+ 612457 words of font info for 175 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 122i,21n,121p,1226b,2702s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 122i,21n,379p,1226b,3021s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/texlive/2022/texmf-dist/fonts/enc/dvips/tex-gyre/q-t5.enc}{c:/texlive/202
-2/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc}{bkhcm2.enc}<hlblon
-g.ttf>{c:/texlive/2022/texmf-dist/fonts/enc/dvips/vntex/t5.enc}{c:/texlive/2022
-/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}<c:/texlive/2022/tex
-mf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/texlive/2022/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2022/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmmi8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
-8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:
-/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2
-022/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><c:/texlive/2022/
-texmf-dist/fonts/type1/vntex/vntopia/putb8v.pfb><c:/texlive/2022/texmf-dist/fon
-ts/type1/public/tex-gyre/qagb.pfb><c:/texlive/2022/texmf-dist/fonts/type1/publi
-c/tex-gyre/qagbi.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qa
-gr.pfb><c:/texlive/2022/texmf-dist/fonts/type1/vntex/grotesqvn/ugqb8v.pfb><c:/t
-exlive/2022/texmf-dist/fonts/type1/vntex/vnr/vnbx10.pfb><c:/texlive/2022/texmf-
-dist/fonts/type1/vntex/vnr/vnbx8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/vn
-tex/vnr/vnr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/vntex/vnr/vnr8.pfb><c
-:/texlive/2022/texmf-dist/fonts/type1/vntex/vnr/vnssbx10.pfb><c:/texlive/2022/t
-exmf-dist/fonts/type1/public/yhmath/yhcmex.pfb>
-Output written on VATLY12-SEM1.pdf (19 pages, 815436 bytes).
+2/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc}{c:/texlive/2022/te
+xmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc}{bkhcm2.enc}<hlblong.
+ttf>{c:/texlive/2022/texmf-dist/fonts/enc/dvips/vntex/t5.enc}{c:/texlive/2022/t
+exmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}<c:/texlive/2022/texmf
+-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/texlive/2022/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2022/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmmi8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.
+pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/tex
+live/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2022
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2022/texmf-dis
+t/fonts/type1/public/amsfonts/symbols/msam10.pfb><c:/texlive/2022/texmf-dist/fo
+nts/type1/vntex/vntopia/putb8v.pfb><c:/texlive/2022/texmf-dist/fonts/type1/publ
+ic/tex-gyre/qagb.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qa
+gbi.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/tex-gyre/qagr.pfb><c:/te
+xlive/2022/texmf-dist/fonts/type1/vntex/grotesqvn/ugqb8v.pfb><c:/texlive/2022/t
+exmf-dist/fonts/type1/public/esvect/vect10.pfb><c:/texlive/2022/texmf-dist/font
+s/type1/vntex/vnr/vnbx10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/vntex/vnr/
+vnbx8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/vntex/vnr/vnr10.pfb><c:/texli
+ve/2022/texmf-dist/fonts/type1/vntex/vnr/vnr8.pfb><c:/texlive/2022/texmf-dist/f
+onts/type1/vntex/vnr/vnssbx10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/vntex
+/vnr/vnti10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/yhmath/yhcmex.pf
+b>
+Output written on VATLY12-SEM1.pdf (19 pages, 601055 bytes).
 PDF statistics:
- 427 PDF objects out of 1000 (max. 8388607)
- 317 compressed objects within 4 object streams
- 105 named destinations out of 1000 (max. 500000)
- 263 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 465 PDF objects out of 1000 (max. 8388607)
+ 352 compressed objects within 4 object streams
+ 125 named destinations out of 1000 (max. 500000)
+ 243 words of extra memory for PDF output out of 10000 (max. 10000000)
 
