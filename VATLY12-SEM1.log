@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.8)  7 JUN 2024 22:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.8)  11 JUN 2024 16:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2518,10 +2518,6 @@ Package pdftex.def Info: figs/VN12-Y24-PH-SYL-014-1.jpg  used on input line 49.
 
 (pdftex.def)             Requested size: 146.78105pt x 104.77675pt.
 
-Underfull \vbox (badness 2027) has occurred while \output is active []
-
-
-
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
 (fancyhdr)                \setlength{\headheight}{13.59999pt}.
@@ -2548,12 +2544,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [5 <./figs/VN12-Y24-PH-SYL-014-1.jpg>]
-pdfTeX warning (ext4): destination with the same identifier (name{vd.1}) has be
-en already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.110 \begin{vd}
-                
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -2562,19 +2552,25 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[6
+[6]
+pdfTeX warning (ext4): destination with the same identifier (name{vd.1}) has be
+en already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.110 \begin{vd}
+                
 pdfTeX warning (ext4): destination with the same identifier (name{vd.2}) has be
 en already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.126 	}
-        ]
+<to be read again> 
+                   \relax 
+l.118 \begin{vd}
+                
 Missing character: There is no . in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no p in font nullfont!
 Missing character: There is no t in font nullfont!
-Package pgfplots info on input line 207: fill between: activating layered graph
+Package pgfplots info on input line 208: fill between: activating layered graph
 ics
 \pgf@layerbox@axis background=\box260
 \pgf@layerboxsaved@axis background=\box261
@@ -2592,17 +2588,18 @@ ics
 \pgf@layerboxsaved@axis descriptions=\box273
 \pgf@layerbox@axis foreground=\box274
 \pgf@layerboxsaved@axis foreground=\box275
-Package pgfplots info on input line 207: Setting layers 'axis background,axis g
+Package pgfplots info on input line 208: Setting layers 'axis background,axis g
 rid,axis ticks,axis lines,axis tick labels,pre main,main,axis descriptions,axis
  foreground'...
 
-Overfull \hbox (24.53215pt too wide) in paragraph at lines 209--210
+Overfull \hbox (24.53215pt too wide) in paragraph at lines 210--211
  [] 
  []
 
 
-Overfull \hbox (4.86545pt too wide) in paragraph at lines 139--214
-[]$ $[]$ $[]$ 
+Underfull \hbox (badness 1478) in paragraph at lines 140--215
+\T5/cmr/m/n/10.95 Nh÷ vªy, ^^_ë lîn cæng cõa khèi kh½ thüc hi»n b¬ng di»n t½ch 
+h¼nh giîi h¤n bði ^^_ç thà $\OML/cmm/m/it/10.95 p []$
  []
 
 Missing character: There is no . in font nullfont!
@@ -2610,13 +2607,13 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no p in font nullfont!
 Missing character: There is no t in font nullfont!
-Package pgfplots info on input line 244: fill between: activating layered graph
+Package pgfplots info on input line 245: fill between: activating layered graph
 ics
-Package pgfplots info on input line 244: Setting layers 'axis background,axis g
+Package pgfplots info on input line 245: Setting layers 'axis background,axis g
 rid,axis ticks,axis lines,axis tick labels,pre main,main,axis descriptions,axis
  foreground'...
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1270) has occurred while \output is active []
 
 
 
@@ -2628,15 +2625,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [7]
-pdfTeX warning (ext4): destination with the same identifier (name{vd.1}) has be
-en already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.260 \begin{vd}
-                
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -2646,18 +2634,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [8]
+pdfTeX warning (ext4): destination with the same identifier (name{vd.1}) has be
+en already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.261 \begin{vd}
+                
 pdfTeX warning (ext4): destination with the same identifier (name{vd.2}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.268 \begin{vd}
+l.269 \begin{vd}
                 
-Output from handle ans going to ans/G12Y24B14TN.tex
-\ans@file=\write9
-\openout9 = `ans/G12Y24B14TN.tex'.
-
-Package hyperref Info: bookmark level for unknown ex defaults to 0 on input lin
-e 307.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -2667,42 +2655,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [9]
-Overfull \hbox (1.29822pt too wide) in paragraph at lines 378--378
+Output from handle ans going to ans/G12Y24B14TN.tex
+\ans@file=\write9
+\openout9 = `ans/G12Y24B14TN.tex'.
+
+Package hyperref Info: bookmark level for unknown ex defaults to 0 on input lin
+e 308.
+
+Overfull \hbox (1.29822pt too wide) in paragraph at lines 379--379
    [] [] 
  []
 
 
-Overfull \hbox (1.29822pt too wide) in paragraph at lines 378--378
-   [] [] 
- []
-
-
-Overfull \hbox (1.29822pt too wide) in paragraph at lines 378--378
-   [] [] 
- []
-
-
-Overfull \hbox (1.29822pt too wide) in paragraph at lines 378--378
-   [] [] 
- []
-
-
-Overfull \hbox (1.29822pt too wide) in paragraph at lines 411--411
-   [] [] 
- []
-
-
-Overfull \hbox (1.29822pt too wide) in paragraph at lines 411--411
-   [] [] 
- []
-
-
-Overfull \hbox (1.29822pt too wide) in paragraph at lines 411--411
-   [] [] 
- []
-
-
-Overfull \hbox (1.29822pt too wide) in paragraph at lines 411--411
+Overfull \hbox (1.29822pt too wide) in paragraph at lines 379--379
    [] [] 
  []
 
@@ -2715,22 +2680,52 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [10]
-Overfull \hbox (1.29822pt too wide) in paragraph at lines 433--433
+Overfull \hbox (1.29822pt too wide) in paragraph at lines 379--379
    [] [] 
  []
 
 
-Overfull \hbox (1.29822pt too wide) in paragraph at lines 433--433
+Overfull \hbox (1.29822pt too wide) in paragraph at lines 379--379
    [] [] 
  []
 
 
-Overfull \hbox (1.29822pt too wide) in paragraph at lines 433--433
+Overfull \hbox (1.29822pt too wide) in paragraph at lines 412--412
    [] [] 
  []
 
 
-Overfull \hbox (1.29822pt too wide) in paragraph at lines 433--433
+Overfull \hbox (1.29822pt too wide) in paragraph at lines 412--412
+   [] [] 
+ []
+
+
+Overfull \hbox (1.29822pt too wide) in paragraph at lines 412--412
+   [] [] 
+ []
+
+
+Overfull \hbox (1.29822pt too wide) in paragraph at lines 412--412
+   [] [] 
+ []
+
+
+Overfull \hbox (1.29822pt too wide) in paragraph at lines 434--434
+   [] [] 
+ []
+
+
+Overfull \hbox (1.29822pt too wide) in paragraph at lines 434--434
+   [] [] 
+ []
+
+
+Overfull \hbox (1.29822pt too wide) in paragraph at lines 434--434
+   [] [] 
+ []
+
+
+Overfull \hbox (1.29822pt too wide) in paragraph at lines 434--434
    [] [] 
  []
 
@@ -2743,31 +2738,41 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [11]
-Overfull \hbox (1.29822pt too wide) in paragraph at lines 540--540
+Overfull \hbox (1.29822pt too wide) in paragraph at lines 541--541
    [] [] 
  []
 
 
-Overfull \hbox (1.29822pt too wide) in paragraph at lines 540--540
+Overfull \hbox (1.29822pt too wide) in paragraph at lines 541--541
    [] [] 
  []
 
 
-Overfull \hbox (1.29822pt too wide) in paragraph at lines 540--540
+Overfull \hbox (1.29822pt too wide) in paragraph at lines 541--541
    [] [] 
  []
 
 
-Overfull \hbox (1.29822pt too wide) in paragraph at lines 540--540
+Overfull \hbox (1.29822pt too wide) in paragraph at lines 541--541
    [] [] 
  []
 
-<figs/VN12-Y24-PH-SYL-015P-3.jpg, id=229, 155.3805pt x 118.041pt>
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[12]
+<figs/VN12-Y24-PH-SYL-015P-3.jpg, id=238, 155.3805pt x 118.041pt>
 File: figs/VN12-Y24-PH-SYL-015P-3.jpg Graphic file (type jpg)
 <use figs/VN12-Y24-PH-SYL-015P-3.jpg>
 Package pdftex.def Info: figs/VN12-Y24-PH-SYL-015P-3.jpg  used on input line 54
-7.
+8.
 (pdftex.def)             Requested size: 187.22243pt x 142.23564pt.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -2776,30 +2781,21 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[12 <./figs/VN12-Y24-PH-SYL-015P-3.jpg>]
-<figs/VN12-Y24-PH-SYL-015P-5.jpg, id=243, 123.46124pt x 112.0185pt>
+[13 <./figs/VN12-Y24-PH-SYL-015P-3.jpg>]
+<figs/VN12-Y24-PH-SYL-015P-5.jpg, id=251, 123.46124pt x 112.0185pt>
 File: figs/VN12-Y24-PH-SYL-015P-5.jpg Graphic file (type jpg)
 <use figs/VN12-Y24-PH-SYL-015P-5.jpg>
 Package pdftex.def Info: figs/VN12-Y24-PH-SYL-015P-5.jpg  used on input line 60
-3.
+4.
 (pdftex.def)             Requested size: 160.4752pt x 145.61032pt.
 
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-[13 <./figs/VN12-Y24-PH-SYL-015P-5.jpg>]
 pdfTeX warning (ext4): destination with the same identifier (name{ex.1}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.639 \begin{ex}
+l.640 \begin{ex}
                 
-Underfull \hbox (badness 10000) in paragraph at lines 655--655
+Underfull \hbox (badness 10000) in paragraph at lines 656--656
 
  []
 
@@ -2808,26 +2804,8 @@ pdfTeX warning (ext4): destination with the same identifier (name{ex.2}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.658 \begin{ex}
+l.659 \begin{ex}
                 
-pdfTeX warning (ext4): destination with the same identifier (name{ex.3}) has be
-en already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.679 \begin{ex}
-                
-<figs/VN12-Y24-PH-SYL-015P-2.jpg, id=252, 578.16pt x 407.27156pt>
-File: figs/VN12-Y24-PH-SYL-015P-2.jpg Graphic file (type jpg)
-<use figs/VN12-Y24-PH-SYL-015P-2.jpg>
-Package pdftex.def Info: figs/VN12-Y24-PH-SYL-015P-2.jpg  used on input line 68
-6.
-(pdftex.def)             Requested size: 115.62994pt x 81.45287pt.
-File: figs/VN12-Y24-PH-SYL-015P-2.jpg Graphic file (type jpg)
-<use figs/VN12-Y24-PH-SYL-015P-2.jpg>
-Package pdftex.def Info: figs/VN12-Y24-PH-SYL-015P-2.jpg  used on input line 68
-6.
-(pdftex.def)             Requested size: 115.62994pt x 81.45287pt.
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -2836,13 +2814,31 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[14 <./figs/VN12-Y24-PH-SYL-015P-2.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 704--704
+[14 <./figs/VN12-Y24-PH-SYL-015P-5.jpg>]
+pdfTeX warning (ext4): destination with the same identifier (name{ex.3}) has be
+en already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.680 \begin{ex}
+                
+<figs/VN12-Y24-PH-SYL-015P-2.jpg, id=267, 578.16pt x 407.27156pt>
+File: figs/VN12-Y24-PH-SYL-015P-2.jpg Graphic file (type jpg)
+<use figs/VN12-Y24-PH-SYL-015P-2.jpg>
+Package pdftex.def Info: figs/VN12-Y24-PH-SYL-015P-2.jpg  used on input line 68
+7.
+(pdftex.def)             Requested size: 115.62994pt x 81.45287pt.
+File: figs/VN12-Y24-PH-SYL-015P-2.jpg Graphic file (type jpg)
+<use figs/VN12-Y24-PH-SYL-015P-2.jpg>
+Package pdftex.def Info: figs/VN12-Y24-PH-SYL-015P-2.jpg  used on input line 68
+7.
+(pdftex.def)             Requested size: 115.62994pt x 81.45287pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 705--705
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 704--704
+Underfull \hbox (badness 10000) in paragraph at lines 705--705
 
  []
 
@@ -2851,13 +2847,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{ex.4}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.707 \begin{ex}
-                
-pdfTeX warning (ext4): destination with the same identifier (name{ex.5}) has be
-en already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.728 \begin{ex}
+l.708 \begin{ex}
                 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2867,48 +2857,36 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[15]
+[15 <./figs/VN12-Y24-PH-SYL-015P-2.jpg>]
+pdfTeX warning (ext4): destination with the same identifier (name{ex.5}) has be
+en already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.729 \begin{ex}
+                
 pdfTeX warning (ext4): destination with the same identifier (name{ex.1}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.752 \begin{ex}
+l.753 \begin{ex}
                 
 pdfTeX warning (ext4): destination with the same identifier (name{ex.2}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.757 \begin{ex}
+l.758 \begin{ex}
                 
 pdfTeX warning (ext4): destination with the same identifier (name{ex.3}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.764 \begin{ex}
+l.765 \begin{ex}
                 
 pdfTeX warning (ext4): destination with the same identifier (name{ex.4}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.771 \begin{ex}
-                
-pdfTeX warning (ext4): destination with the same identifier (name{ex.5}) has be
-en already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.778 \begin{ex}
-                
-pdfTeX warning (ext4): destination with the same identifier (name{ex.6}) has be
-en already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.784 \begin{ex}
-                
-pdfTeX warning (ext4): destination with the same identifier (name{ex.7}) has be
-en already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.793 \begin{ex}
+l.772 \begin{ex}
                 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2919,30 +2897,70 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [16]
+pdfTeX warning (ext4): destination with the same identifier (name{ex.5}) has be
+en already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.779 \begin{ex}
+                
+pdfTeX warning (ext4): destination with the same identifier (name{ex.6}) has be
+en already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.785 \begin{ex}
+                
+pdfTeX warning (ext4): destination with the same identifier (name{ex.7}) has be
+en already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.794 \begin{ex}
+                
 pdfTeX warning (ext4): destination with the same identifier (name{ex.8}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.801 \begin{ex}
+l.802 \begin{ex}
                 
 pdfTeX warning (ext4): destination with the same identifier (name{ex.9}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.814 \begin{ex}
+l.815 \begin{ex}
                 
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[17]
 pdfTeX warning (ext4): destination with the same identifier (name{ex.10}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.826 \begin{ex}
+l.827 \begin{ex}
                 
-<figs/VN12-Y24-PH-SYL-015P-1.jpg, id=314, 86.12175pt x 113.223pt>
+<figs/VN12-Y24-PH-SYL-015P-1.jpg, id=320, 86.12175pt x 113.223pt>
 File: figs/VN12-Y24-PH-SYL-015P-1.jpg Graphic file (type jpg)
 <use figs/VN12-Y24-PH-SYL-015P-1.jpg>
 Package pdftex.def Info: figs/VN12-Y24-PH-SYL-015P-1.jpg  used on input line 83
-6.
+7.
 (pdftex.def)             Requested size: 106.98074pt x 140.65248pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{ex.11}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.840 \begin{ex}
+                
+<figs/VN12-Y24-PH-SYL-015P-4.jpg, id=321, 233.07076pt x 163.20975pt>
+File: figs/VN12-Y24-PH-SYL-015P-4.jpg Graphic file (type jpg)
+<use figs/VN12-Y24-PH-SYL-015P-4.jpg>
+Package pdftex.def Info: figs/VN12-Y24-PH-SYL-015P-4.jpg  used on input line 84
+3.
+(pdftex.def)             Requested size: 187.22243pt x 131.10837pt.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2952,24 +2970,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[17 <./figs/VN12-Y24-PH-SYL-015P-1.jpg>]
-pdfTeX warning (ext4): destination with the same identifier (name{ex.11}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.839 \begin{ex}
-                
-<figs/VN12-Y24-PH-SYL-015P-4.jpg, id=321, 233.07076pt x 163.20975pt>
-File: figs/VN12-Y24-PH-SYL-015P-4.jpg Graphic file (type jpg)
-<use figs/VN12-Y24-PH-SYL-015P-4.jpg>
-Package pdftex.def Info: figs/VN12-Y24-PH-SYL-015P-4.jpg  used on input line 84
-2.
-(pdftex.def)             Requested size: 187.22243pt x 131.10837pt.
-)
+[18 <./figs/VN12-Y24-PH-SYL-015P-1.jpg> <./figs/VN12-Y24-PH-SYL-015P-4.jpg>])
 \tf@thm=\write10
 \openout10 = `VATLY12-SEM1.thm'.
 
- 
+
+
 AED: lastpage setting LastPage
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2979,7 +2985,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[18 <./figs/VN12-Y24-PH-SYL-015P-4.jpg>] (./VATLY12-SEM1.aux)
+[19] (./VATLY12-SEM1.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.28pt have occurred.
@@ -2988,13 +2994,13 @@ LaTeX Font Warning: Size substitutions with differences
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `VATLY12-SEM1.out' has not changed.
-(rerunfilecheck)             Checksum: B80BF388ACCD2DF0858CD21D951CC026;541.
+(rerunfilecheck)             Checksum: 849FCEEFDDED2F8D5F9F7C3CEF3B00D2;808.
  ) 
 Here is how much of TeX's memory you used:
- 70414 strings out of 476064
- 1671742 string characters out of 5794900
- 2732717 words of memory out of 5000000
- 89414 multiletter control sequences out of 15000+600000
+ 70423 strings out of 476064
+ 1671882 string characters out of 5794900
+ 2745940 words of memory out of 5000000
+ 89422 multiletter control sequences out of 15000+600000
  612457 words of font info for 175 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  122i,21n,379p,1226b,3021s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -3023,10 +3029,10 @@ ve/2022/texmf-dist/fonts/type1/vntex/vnr/vnr8.pfb><c:/texlive/2022/texmf-dist/f
 onts/type1/vntex/vnr/vnssbx10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/vntex
 /vnr/vnti10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/yhmath/yhcmex.pf
 b>
-Output written on VATLY12-SEM1.pdf (19 pages, 601055 bytes).
+Output written on VATLY12-SEM1.pdf (20 pages, 609089 bytes).
 PDF statistics:
- 465 PDF objects out of 1000 (max. 8388607)
- 352 compressed objects within 4 object streams
- 125 named destinations out of 1000 (max. 500000)
+ 471 PDF objects out of 1000 (max. 8388607)
+ 357 compressed objects within 4 object streams
+ 126 named destinations out of 1000 (max. 500000)
  243 words of extra memory for PDF output out of 10000 (max. 10000000)
 

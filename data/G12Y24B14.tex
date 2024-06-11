@@ -1,4 +1,4 @@
-\section{BÀI TẬP KHÍ LÍ TƯỞNG}
+\section{ÁP SUẤT - ĐỘNG NĂNG CỦA CHẤT KHÍ THEO MÔ HÌNH ĐỘNG HỌC PHÂN TỬ}
 \subsection{LÝ THUYẾT TRỌNG TÂM}
 \subsubsection{Áp suất chất khí theo mô hình động học phân tử}
 \begin{boxdl}
@@ -104,7 +104,7 @@ Trong đó:
 		
 	}
 \end{vd}
-
+\newpage
 \begin{dang}{Vận dụng được biểu thức tính động năng tịnh tiến trung bình của phân tử khí}
 \end{dang}
 \begin{vd}
@@ -120,9 +120,10 @@ Trong đó:
 \loigiai{Mật độ động năng phân tử:
 			$$\varepsilon=\dfrac{NW_\text{đ}}{V}=\mu W_\text{đ}=\SI{E-4}{\joule/\meter^3}.$$
 			Áp suất của khí trong bình:
-			$$p=\dfrac{NRT}{VN_A}=\mu kT$$
-			$$\Rightarrow p=\dfrac{2}{3}\mu W_\text{đ}=\dfrac{2}{3}\varepsilon=\dfrac{2}{3}\cdot\left(\SI{E-4}{\joule/\meter^3}\right)=\SI{6.67E-5}{\pascal}.$$
-			
+			\begin{align*}
+				&p=\dfrac{NRT}{VN_A}=\mu kT\\
+				\Rightarrow &p=\dfrac{2}{3}\mu W_\text{đ}=\dfrac{2}{3}\varepsilon=\dfrac{2}{3}\cdot\left(\SI{E-4}{\joule/\meter^3}\right)=\SI{6.67E-5}{\pascal}.
+			\end{align*}
 	}
 \end{vd}
 \begin{dang}{Nội năng khí lí tưởng \textit{(Đọc thêm)}}
@@ -137,7 +138,7 @@ Trong đó:
 	Giả sử có $\xsi{n}{\mole}$ khí được chứa trong 1 cylanh cách nhiệt và được ngăn cách với bên ngoài bằng piston (tiết diện $S$) rất nhẹ, có thể trượt không ma sát trong cylanh. Khối khí dãn nở từ thể tích $V_1$ đến thể tích $V_2$. Xét trong từng quá trình thay đổi thể tích $dV$ rất bé, khối khí tác dụng lực $F=pS$ lên piston và đẩy nó trượt đoạn $dx$.\\
 	Công do khối khí thực hiện trong cả quá trình này:
 	$$A'=\int_{x_1}^{x_2} Fdx=\int_{x_1}^{x_2} pSdx=\int_{V_1}^{V_2}pdV.$$
-	Như vậy, độ lớn công của khối khí thực hiện bằng diện tích hình giới hạn bởi đồ thị $p\left(V\right)$ với trục hoành $OV$ trong khoảng $\left[V_1; V_2\right]$.\\
+	Như vậy, độ lớn công của khối khí thực hiện bằng diện tích hình giới hạn bởi đồ thị $p\left(V\right)$ với trục hoành $OV$ trong khoảng $\left[V_1; V_2\right]$.
 	\begin{minipage}{0.45\textwidth}
 		\paragraph{Quá trình đẳng tích}
 		\begin{center}
@@ -408,7 +409,7 @@ Trong quá trình đẳng tích, toàn bộ nhiệt lượng mà khí nhận đ�
 	{chuyển hết thành công mà khí sinh ra}
 	{\True chuyển hết thành nội năng của khí}
 	{một phần làm tăng nội năng và phần còn lại biến thành công mà khí sinh ra}
-	{truyền nhiệt hết cho ngoại vi}
+	{truyền nhiệt hết cho bên ngoài}
 	\loigiai{}
 \end{ex}
 % ===================================================================
@@ -430,7 +431,7 @@ Hệ thức nào sau đây phù hợp với quá trình làm lạnh đẳng tíc
 	{chuyển hết thành công mà khí sinh ra}
 	{chuyển hết thành nội năng của khí}
 	{\True một phần làm tăng nội năng và phần còn lại biến thành công mà khí sinh ra}
-	{truyền nhiệt hết cho ngoại vi}
+	{truyền nhiệt hết cho bên ngoài}
 	\loigiai{}
 \end{ex}
 % ===================================================================
@@ -642,7 +643,7 @@ Cho $\SI{1}{\mole}$ khí lí tưởng, khí thực hiện chu trình biến đ�
 		\item Đồ thị biểu diễn quá trình nén khí trong hệ toạ độ $OpV$ là đoạn thẳng song song trục $OV$.
 		\item Thể tích của khí sau khi nén bằng $\SI{3.8}{\liter}$.
 		\item Nhiệt độ của khối khí sau khi nén bằng $\SI{313.5}{\celsius}$.
-		\item Trong quá trình nén khí, khí toả nhiệt cho ngoại vi.
+		\item Trong quá trình nén khí, khí toả nhiệt cho bên ngoài.
 	\end{enumerate}
 	\loigiai{\begin{enumerate}[label=\alph*)]
 			\item Đúng.
@@ -678,7 +679,7 @@ Cho $\SI{1}{\mole}$ khí lí tưởng, khí thực hiện chu trình biến đ�
 % ===================================================================
 \begin{ex}
 \immini{
-Một chiếc xe vượt qua sa mạc Sahara. Chuyến đi bắt đầu vào sáng sớm khi nhiệt độ là $\SI{3.0}{\celsius}$. Thể tích khí chứa trong mỗi lốp xe là $\SI{1.5}{\meter^3}$ và áp suất trong các lốp xe là $\SI{3.42E5}{\pascal}$. Coi khí trong lớp xe có nhiệt độ bằng nhiệt độ ngoài trời, không thoát ra ngoài và thể tích lốp không thay đổi. Đến giữa trưa, nhiệt độ tăng lên đến $\SI{42}{\celsius}$.
+Một chiếc xe vượt qua sa mạc Sahara. Chuyến đi bắt đầu vào sáng sớm khi nhiệt độ là $\SI{3.0}{\celsius}$. Thể tích khí chứa trong mỗi lốp xe là $\SI{1.5}{\meter^3}$ và áp suất trong các lốp xe là $\SI{3.42E5}{\pascal}$. Coi khí trong lốp xe có nhiệt độ bằng nhiệt độ ngoài trời, không thoát ra ngoài và thể tích lốp không thay đổi. Đến giữa trưa, nhiệt độ tăng lên đến $\SI{42}{\celsius}$.
 
 }	
 {

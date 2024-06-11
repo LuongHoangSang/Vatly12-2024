@@ -1,21 +1,21 @@
 \contentsline {part}{I\hspace {1em}HỌC KÌ I}{1}{part.1}%
 \contentsline {chapter}{\numberline {1}VẬT LÝ NHIỆT}{2}{chapter.1}%
 \contentsline {chapter}{\numberline {2}KHÍ LÝ TƯỞNG}{3}{chapter.2}%
-\contentsline {section}{\numberline {1}BÀI TẬP KHÍ LÍ TƯỞNG}{4}{section.2.1}%
+\contentsline {section}{\numberline {1}ÁP SUẤT - ĐỘNG NĂNG CỦA CHẤT KHÍ THEO MÔ HÌNH ĐỘNG HỌC PHÂN TỬ}{4}{section.2.1}%
 \contentsline {subsection}{\numberline {A}LÝ THUYẾT TRỌNG TÂM}{4}{subsection.2.1.1}%
 \contentsline {subsubsection}{\numberline {1}Áp suất chất khí theo mô hình động học phân tử}{4}{subsubsection.2.1.1.1}%
 \contentsline {subsubsection}{\numberline {2}Động năng tịnh tiến trung bình của phân tử khí}{4}{subsubsection.2.1.1.2}%
 \contentsline {subsection}{\numberline {B}VÍ DỤ MINH HOẠ}{4}{subsection.2.1.2}%
 \contentsline {subsection}{\fontsize {11}{11}\selectfont \color {blue!80}\it \sffamily {{\FAtwo \symbol {124}}}\ Dạng\nobreakspace {}1.\nobreakspace {}Giải thích được chuyển động của các phân tử ảnh hưởng như thế nào đến áp suất tác dụng lên thành bình và từ đó rút ra được hệ thức $p=\dfrac {1}{3}\mu m\overline {v^2}$\nobreakspace {}}{4}{subsection.2.1.2}%
-\contentsline {subsection}{\fontsize {11}{11}\selectfont \color {blue!80}\it \sffamily {{\FAtwo \symbol {124}}}\ Dạng\nobreakspace {}2.\nobreakspace {}Vận dụng được biểu thức tính động năng tịnh tiến trung bình của phân tử khí\nobreakspace {}}{6}{equation.2.1.4}%
+\contentsline {subsection}{\fontsize {11}{11}\selectfont \color {blue!80}\it \sffamily {{\FAtwo \symbol {124}}}\ Dạng\nobreakspace {}2.\nobreakspace {}Vận dụng được biểu thức tính động năng tịnh tiến trung bình của phân tử khí\nobreakspace {}}{7}{equation.2.1.4}%
 \contentsline {subsection}{\fontsize {11}{11}\selectfont \color {blue!80}\it \sffamily {{\FAtwo \symbol {124}}}\ Dạng\nobreakspace {}3.\nobreakspace {}Nội năng khí lí tưởng \textit {(Đọc thêm)}\nobreakspace {}}{7}{vd.2}%
 \contentsline {subsubsection}{\numberline {1}Nội năng khí lí tưởng đơn nguyên tử}{7}{subsubsection.2.1.2.1}%
 \contentsline {subsubsection}{\numberline {2}Công của khí thực hiện trong các đẳng quá trình}{7}{subsubsection.2.1.2.2}%
 \contentsline {paragraph}{\numberline {2.1}Quá trình đẳng tích}{8}{paragraph.2.1.2.2.1}%
 \contentsline {paragraph}{\numberline {2.2}Quá trình đẳng áp}{8}{paragraph.2.1.2.2.2}%
-\contentsline {paragraph}{\numberline {2.3}Quá trình đẳng nhiệt}{8}{paragraph.2.1.2.2.3}%
-\contentsline {subsubsection}{\numberline {3}Định luật I nhiệt động lực học}{8}{subsubsection.2.1.2.3}%
-\contentsline {subsection}{\numberline {C}BÀI TẬP TRẮC NGHIỆM}{9}{subsection.2.1.3}%
+\contentsline {paragraph}{\numberline {2.3}Quá trình đẳng nhiệt}{9}{paragraph.2.1.2.2.3}%
+\contentsline {subsubsection}{\numberline {3}Định luật I nhiệt động lực học}{9}{subsubsection.2.1.2.3}%
+\contentsline {subsection}{\numberline {C}BÀI TẬP TRẮC NGHIỆM}{10}{subsection.2.1.3}%
 \contentsline {subsection}{\numberline {D}TRẮC NGHIỆM ĐÚNG/SAI}{14}{subsection.2.1.4}%
 \contentsline {subsection}{\numberline {E}BÀI TẬP TỰ LUẬN}{16}{subsection.2.1.5}%
 \contentsfinish 
