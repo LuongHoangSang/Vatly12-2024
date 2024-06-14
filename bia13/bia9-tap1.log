@@ -1,14 +1,14 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.9)  23 JAN 2024 23:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.8)  14 JUN 2024 07:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **bia9-tap1.tex
 (./bia9-tap1.tex
 LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2023-02-22>
-(c:/texlive/2023/texmf-dist/tex/latex/base/book.cls
+L3 programming layer <2023-02-02>
+(c:/texlive/2022/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2022/07/02 v1.4n Standard LaTeX document class
-(c:/texlive/2023/texmf-dist/tex/latex/base/bk12.clo
+(c:/texlive/2022/texmf-dist/tex/latex/base/bk12.clo
 File: bk12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
@@ -24,21 +24,21 @@ File: bk12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
 )
-(c:/texlive/2023/texmf-dist/tex/latex/vntex/vietnam.sty
+(c:/texlive/2022/texmf-dist/tex/latex/vntex/vietnam.sty
 Package: vietnam 2009/07/12 v1.3 support for Vietnamese
 
-(c:/texlive/2023/texmf-dist/tex/latex/base/ifthen.sty
+(c:/texlive/2022/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
-(c:/texlive/2023/texmf-dist/tex/latex/base/fontenc.sty
+(c:/texlive/2022/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 
-(c:/texlive/2023/texmf-dist/tex/latex/vntex/t5enc.def
+(c:/texlive/2022/texmf-dist/tex/latex/vntex/t5enc.def
 File: t5enc.def 2006/11/21 v1.4 Vietnamese T5 encoding
 Now handling font encoding T5 ...
 ... processing UTF-8 mapping file for font encoding T5
 
-(c:/texlive/2023/texmf-dist/tex/latex/vntex/t5enc.dfu
+(c:/texlive/2022/texmf-dist/tex/latex/vntex/t5enc.dfu
 File: t5enc.dfu 2006/08/19 v1.1 UTF8 support for Vietnamese
    defining Unicode char U+00AB (decimal 171)
    defining Unicode char U+00BB (decimal 187)
@@ -195,35 +195,35 @@ File: t5enc.dfu 2006/08/19 v1.1 UTF8 support for Vietnamese
 LaTeX Font Info:    Trying to load font information for T5+cmr on input line 11
 2.
 
-(c:/texlive/2023/texmf-dist/tex/latex/vntex/t5cmr.fd
+(c:/texlive/2022/texmf-dist/tex/latex/vntex/t5cmr.fd
 File: t5cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 ))
-(c:/texlive/2023/texmf-dist/tex/latex/base/inputenc.sty
+(c:/texlive/2022/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks16
 \inpenc@posthook=\toks17
 )
-(c:/texlive/2023/texmf-dist/tex/latex/vntex/vncaps.tex
+(c:/texlive/2022/texmf-dist/tex/latex/vntex/vncaps.tex
 File: vncaps.tex 2006/06/07 v1.1 Captions in Vietnamese
 ))
-(c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsmath.sty
+(c:/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2022/04/08 v2.17n AMS math features
 \@mathmargin=\skip50
 
 For additional information on amsmath, use the `?' option.
-(c:/texlive/2023/texmf-dist/tex/latex/amsmath/amstext.sty
+(c:/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
 
-(c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsgen.sty
+(c:/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks18
 \ex@=\dimen141
 ))
-(c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsbsy.sty
+(c:/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen142
 )
-(c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsopn.sty
+(c:/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count194
@@ -274,10 +274,10 @@ LaTeX Info: Redefining \Relbar on input line 971.
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 )
-(c:/texlive/2023/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(c:/texlive/2022/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(c:/texlive/2023/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+(c:/texlive/2022/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
@@ -285,57 +285,57 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-(c:/texlive/2023/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
-(c:/texlive/2023/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
-(c:/texlive/2023/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+(c:/texlive/2022/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(c:/texlive/2022/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(c:/texlive/2022/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
 \pgfutil@everybye=\toks23
 \pgfutil@tempdima=\dimen150
 \pgfutil@tempdimb=\dimen151
 )
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
 \pgfutil@abb=\box53
 )
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/pgf.revision.tex)
 Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
 ))
 Package: pgf 2023-01-15 v3.1.10 (3.1.10)
 
-(c:/texlive/2023/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
-(c:/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
+(c:/texlive/2022/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(c:/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
-(c:/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
+(c:/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks24
 )
-(c:/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
+(c:/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
 
-(c:/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty
+(c:/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
-(c:/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(c:/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 
-(c:/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def
+(c:/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen152
 \Gin@req@width=\dimen153
 )
-(c:/texlive/2023/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+(c:/texlive/2022/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks25
 \pgfkeys@temptoks=\toks26
 
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.co
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.co
 de.tex
 \pgfkeys@tmptoks=\toks27
 ))
@@ -359,33 +359,33 @@ de.tex
 \t@pgf@tokb=\toks29
 \t@pgf@tokc=\toks30
 \pgf@sys@id@count=\count276
- (c:/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+ (c:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
 )
 Driver file for pgf: pgfsys-pdftex.def
 
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
 File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
 
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
 )))
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfsyssoftpath@smallbuffer@items=\count277
 \pgfsyssoftpath@bigbuffer@items=\count278
 )
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)) (c:/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty
+)) (c:/texlive/2022/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
 
-(c:/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(c:/texlive/2022/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 227.
 
-(c:/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+(c:/texlive/2022/texmf-dist/tex/latex/graphics/mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
 Package xcolor Info: Model `RGB' extended on input line 1369.
@@ -396,12 +396,12 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
 )
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
 Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
 
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen164
 \pgfmath@count=\count279
 \pgfmath@box=\box54
@@ -409,29 +409,29 @@ Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
 \pgfmath@stack@operand=\toks32
 \pgfmath@stack@operation=\toks33
 )
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex)
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.te
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.te
 x)
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric
 .code.tex)
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.t
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.t
 ex)
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.co
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.co
 de.tex)
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex
 )
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.te
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.te
 x)
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex
 )
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithm
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithm
 etics.code.tex)
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex)
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count280
 ))
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@picminx=\dimen165
 \pgf@picmaxx=\dimen166
@@ -448,107 +448,107 @@ File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@zx=\dimen177
 \pgf@zy=\dimen178
 )
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.cod
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.cod
 e.tex
 File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@path@lastx=\dimen179
 \pgf@path@lasty=\dimen180
 )
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.te
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.te
 x
 File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@shorten@end@additional=\dimen181
 \pgf@shorten@start@additional=\dimen182
 )
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfpic=\box55
 \pgf@hbox=\box56
 \pgf@layerbox@main=\box57
 \pgf@picture@serial@count=\count281
 )
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code
 .tex
 File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgflinewidth=\dimen183
 )
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.c
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.c
 ode.tex
 File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@pt@x=\dimen184
 \pgf@pt@y=\dimen185
 \pgf@pt@temp=\dimen186
 )
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
 File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.co
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.co
 de.tex
 File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfarrowsep=\dimen187
 )
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@max=\dimen188
 \pgf@sys@shading@range@num=\count282
 \pgf@shadingcount=\count283
 )
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfexternal@startupbox=\box58
-) (c:/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code
 .tex
 File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
 File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (c:/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
 File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))) (c:/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.te
+))) (c:/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.te
 x
 File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfnodeparttextbox=\box59
 )
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(c:/texlive/2023/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.st
+(c:/texlive/2022/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.st
 y
 Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
 \pgf@nodesepstart=\dimen189
 \pgf@nodesepend=\dimen190
 )
-(c:/texlive/2023/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.st
+(c:/texlive/2022/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.st
 y
 Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
-)) (c:/texlive/2023/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
-(c:/texlive/2023/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
-(c:/texlive/2023/texmf-dist/tex/latex/pgf/math/pgfmath.sty
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+)) (c:/texlive/2022/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(c:/texlive/2022/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(c:/texlive/2022/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
 \pgffor@iter=\dimen191
 \pgffor@skip=\dimen192
 \pgffor@stack=\toks34
 \pgffor@toks=\toks35
 ))
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
 Package: tikz 2023-01-15 v3.1.10 (3.1.10)
 
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.co
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.co
 de.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@plot@mark@count=\count284
@@ -571,7 +571,7 @@ File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \tikznumberofcurrentchild=\count287
 \tikz@fig@count=\count288
 
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfmatrixcurrentrow=\count289
 \pgfmatrixcurrentcolumn=\count290
@@ -579,760 +579,289 @@ File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
 \tikz@expandcount=\count292
 
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
 brarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)))
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+))) (c:/texlive/2022/texmf-dist/tex/latex/mwe/mwe.sty
+Package: mwe 2018/03/30 v0.5 Package to support minimal working examples (MWE)
+
+(c:/texlive/2022/texmf-dist/tex/latex/lipsum/lipsum.sty
+(c:/texlive/2022/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+(c:/texlive/2022/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2023-02-02 L3 programming layer (loader) 
+
+(c:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count293
+\l__pdf_internal_box=\box64
+))
+Package: l3keys2e 2023-02-02 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count294
+\l__lipsum_a_int=\count295
+\l__lipsum_b_int=\count296
+
+(c:/texlive/2022/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex))
+(c:/texlive/2022/texmf-dist/tex/latex/blindtext/blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(c:/texlive/2022/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count297
+\c@Blindtext=\count298
+\c@blind@countparstart=\count299
+\blind@countxx=\count300
+\blindtext@numBlindtext=\count301
+\blind@countyy=\count302
+\c@blindlist=\count303
+\c@blindlistlevel=\count304
+\c@blindlist@level=\count305
+\blind@listitem=\count306
+\c@blind@listcount=\count307
+\c@blind@levelcount=\count308
+\blind@mathformula=\count309
+\blind@Mathformula=\count310
+\c@blind@randomcount=\count311
+\c@blind@randommax=\count312
+\c@blind@pangramcount=\count313
+\c@blind@pangrammax=\count314
+))
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
 braryshapes.code.tex
 File: tikzlibraryshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
 braryshapes.geometric.code.tex
 File: tikzlibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
 
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.g
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.g
 eometric.code.tex
 File: pgflibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
 braryshapes.misc.code.tex
 File: tikzlibraryshapes.misc.code.tex 2023-01-15 v3.1.10 (3.1.10)
 
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.m
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.m
 isc.code.tex
 File: pgflibraryshapes.misc.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
 braryshapes.symbols.code.tex
 File: tikzlibraryshapes.symbols.code.tex 2023-01-15 v3.1.10 (3.1.10)
 
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.s
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.s
 ymbols.code.tex
 File: pgflibraryshapes.symbols.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
 braryshapes.arrows.code.tex
 File: tikzlibraryshapes.arrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.a
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.a
 rrows.code.tex
 File: pgflibraryshapes.arrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
 braryshapes.callouts.code.tex
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.c
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.c
 allouts.code.tex))
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
 braryshapes.multipart.code.tex
 File: tikzlibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
 
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.m
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.m
 ultipart.code.tex
 File: pgflibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfnodepartlowerbox=\box64
-\pgfnodeparttwobox=\box65
-\pgfnodepartthreebox=\box66
-\pgfnodepartfourbox=\box67
-\pgfnodeparttwentybox=\box68
-\pgfnodepartnineteenbox=\box69
-\pgfnodeparteighteenbox=\box70
-\pgfnodepartseventeenbox=\box71
-\pgfnodepartsixteenbox=\box72
-\pgfnodepartfifteenbox=\box73
-\pgfnodepartfourteenbox=\box74
-\pgfnodepartthirteenbox=\box75
-\pgfnodeparttwelvebox=\box76
-\pgfnodepartelevenbox=\box77
-\pgfnodeparttenbox=\box78
-\pgfnodepartninebox=\box79
-\pgfnodeparteightbox=\box80
-\pgfnodepartsevenbox=\box81
-\pgfnodepartsixbox=\box82
-\pgfnodepartfivebox=\box83
+\pgfnodepartlowerbox=\box65
+\pgfnodeparttwobox=\box66
+\pgfnodepartthreebox=\box67
+\pgfnodepartfourbox=\box68
+\pgfnodeparttwentybox=\box69
+\pgfnodepartnineteenbox=\box70
+\pgfnodeparteighteenbox=\box71
+\pgfnodepartseventeenbox=\box72
+\pgfnodepartsixteenbox=\box73
+\pgfnodepartfifteenbox=\box74
+\pgfnodepartfourteenbox=\box75
+\pgfnodepartthirteenbox=\box76
+\pgfnodeparttwelvebox=\box77
+\pgfnodepartelevenbox=\box78
+\pgfnodeparttenbox=\box79
+\pgfnodepartninebox=\box80
+\pgfnodeparteightbox=\box81
+\pgfnodepartsevenbox=\box82
+\pgfnodepartsixbox=\box83
+\pgfnodepartfivebox=\box84
 )))
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
 brarypatterns.code.tex
 File: tikzlibrarypatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
 
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/libraries/pgflibrarypatterns.code.t
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/pgflibrarypatterns.code.t
 ex
 File: pgflibrarypatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
 brarycalc.code.tex
 File: tikzlibrarycalc.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
 braryshadings.code.tex
 File: tikzlibraryshadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
 
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/libraries/pgflibraryshadings.code.t
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/pgflibraryshadings.code.t
 ex
 File: pgflibraryshadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
 braryfadings.code.tex
 File: tikzlibraryfadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
 
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.code.te
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.code.te
 x
 File: pgflibraryfadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)) (c:/texlive/2023/texmf-dist/tex/latex/contour/contour.sty
+)) (c:/texlive/2022/texmf-dist/tex/latex/contour/contour.sty
 Package: contour 2004/11/18 v2.14 Print contoured text (HH, MH)
 \con@length=\skip53
 
 Loading configuration file `contour.cfg'.
-(c:/texlive/2023/texmf-dist/tex/latex/contour/contour.cfg
+(c:/texlive/2022/texmf-dist/tex/latex/contour/contour.cfg
 File: contour.cfg 2004/11/18 v2.14 Print contoured text (HH, MH)
 )
 contour: Using driver file `pdftex.cnt'.
-(c:/texlive/2023/texmf-dist/tex/latex/contour/pdftex.cnt
+(c:/texlive/2022/texmf-dist/tex/latex/contour/pdftex.cnt
 File: pdftex.cnt 2004/11/18 v2.14 Print contoured text (HH, MH)
 ))
-(c:/texlive/2023/texmf-dist/tex/generic/oberdiek/pdfrender.sty
+(c:/texlive/2022/texmf-dist/tex/generic/oberdiek/pdfrender.sty
 Package: pdfrender 2019/12/29 v1.6 Access to some PDF graphics parameters (HO)
 
-(c:/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
+(c:/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 )
-(c:/texlive/2023/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+(c:/texlive/2022/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
-(c:/texlive/2023/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+(c:/texlive/2022/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
-(c:/texlive/2023/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+(c:/texlive/2022/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )
 LaTeX Info: Redefining \pdfrender on input line 334.
 LaTeX Info: Redefining \textpdfrender on input line 351.
 )
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
 brarypositioning.code.tex
 File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
 brarydecorations.text.code.tex
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
 brarydecorations.code.tex
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.code.t
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.code.t
 ex
 \pgfdecoratedcompleteddistance=\dimen258
 \pgfdecoratedremainingdistance=\dimen259
 \pgfdecoratedinputsegmentcompleteddistance=\dimen260
 \pgfdecoratedinputsegmentremainingdistance=\dimen261
 \pgf@decorate@distancetomove=\dimen262
-\pgf@decorate@repeatstate=\count293
+\pgf@decorate@repeatstate=\count315
 \pgfdecorationsegmentamplitude=\dimen263
 \pgfdecorationsegmentlength=\dimen264
 )
-\tikz@lib@dec@box=\box84
+\tikz@lib@dec@box=\box85
 )
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydec
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydec
 orations.text.code.tex
-\pgf@lib@dec@text@box=\box85
+\pgf@lib@dec@text@box=\box86
 )
-\tikz@lib@dec@te@box=\box86
+\tikz@lib@dec@te@box=\box87
 )
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
 brarydecorations.pathmorphing.code.tex
-(c:/texlive/2023/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydec
-orations.pathmorphing.code.tex))
-(c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count294
-\l__pdf_internal_box=\box87
-)
-(./bia9-tap1.aux)
+(c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydec
+orations.pathmorphing.code.tex)) (./bia9-tap1.aux)
 \openout1 = `bia9-tap1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
 
-(c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(c:/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count295
+\scratchcounter=\count316
 \scratchdimen=\dimen265
 \scratchbox=\box88
-\nofMPsegments=\count296
-\nofMParguments=\count297
+\nofMPsegments=\count317
+\nofMParguments=\count318
 \everyMPshowfont=\toks36
-\MPscratchCnt=\count298
+\MPscratchCnt=\count319
 \MPscratchDim=\dimen266
-\MPnumerator=\count299
-\makeMPintoPDFobject=\count300
+\MPnumerator=\count320
+\makeMPintoPDFobject=\count321
 \everyMPtoPDFconversion=\toks37
-) (c:/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+) (c:/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(c:/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(c:/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Font Info:    Trying to load font information for T5+qag on input line 53
+LaTeX Font Info:    Trying to load font information for T5+qag on input line 55
 .
 
-(c:/texlive/2023/texmf-dist/tex/latex/tex-gyre/t5qag.fd
+(c:/texlive/2022/texmf-dist/tex/latex/tex-gyre/t5qag.fd
 File: t5qag.fd 2009/09/25 v1.2 font definition file for T5/qag
 )
-LaTeX Font Info:    Calculating math sizes for size <18.42125> on input line 83
-.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <18.42125> not available
-(Font)              size <17.28> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <12.8948> not available
-(Font)              size <12> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <18.42125> not available
-(Font)              size <17.28> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <12.8948> not available
-(Font)              size <12> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <18.42125> not available
-(Font)              size <17.28> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <12.8948> not available
-(Font)              size <12> substituted on input line 83.
-
-LaTeX Font Info:    Trying to load font information for U+msa on input line 83.
-
-(c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 83.
-
-
-(c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Calculating math sizes for size <2.06894> on input line 83.
-
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <2.06894> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <1.44824> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <1.03447> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <2.06894> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <1.44824> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <1.03447> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <2.06894> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <1.44824> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <1.03447> not available
-(Font)              size <5> substituted on input line 83.
-
-LaTeX Font Info:    Calculating math sizes for size <20.92331> on input line 83
-.
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <10.46165> not available
-(Font)              size <10> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <10.46165> not available
-(Font)              size <10> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <10.46165> not available
-(Font)              size <10> substituted on input line 83.
-
-LaTeX Font Info:    Calculating math sizes for size <12.47078> on input line 83
-.
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <12.47078> not available
-(Font)              size <12> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <12.47078> not available
-(Font)              size <12> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <12.47078> not available
-(Font)              size <12> substituted on input line 83.
-
-LaTeX Font Info:    Calculating math sizes for size <13.42033> on input line 83
-.
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <13.42033> not available
-(Font)              size <14.4> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <13.42033> not available
-(Font)              size <14.4> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <13.42033> not available
-(Font)              size <14.4> substituted on input line 83.
-
-LaTeX Font Info:    Calculating math sizes for size <20.3241> on input line 83.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <20.3241> not available
-(Font)              size <20.74> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <20.3241> not available
-(Font)              size <20.74> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <20.3241> not available
-(Font)              size <20.74> substituted on input line 83.
-
-LaTeX Font Info:    Calculating math sizes for size <23.75328> on input line 83
-.
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <23.75328> not available
-(Font)              size <24.88> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <16.62721> not available
-(Font)              size <17.28> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <23.75328> not available
-(Font)              size <24.88> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <16.62721> not available
-(Font)              size <17.28> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <23.75328> not available
-(Font)              size <24.88> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <16.62721> not available
-(Font)              size <17.28> substituted on input line 83.
-
-LaTeX Font Info:    Calculating math sizes for size <23.85529> on input line 83
-.
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <23.85529> not available
-(Font)              size <24.88> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <16.69862> not available
-(Font)              size <17.28> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <23.85529> not available
-(Font)              size <24.88> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <16.69862> not available
-(Font)              size <17.28> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <23.85529> not available
-(Font)              size <24.88> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <16.69862> not available
-(Font)              size <17.28> substituted on input line 83.
-
-LaTeX Font Info:    Calculating math sizes for size <15.52666> on input line 83
-.
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <15.52666> not available
-(Font)              size <14.4> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <15.52666> not available
-(Font)              size <14.4> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <15.52666> not available
-(Font)              size <14.4> substituted on input line 83.
-
-LaTeX Font Info:    Calculating math sizes for size <10.98663> on input line 83
-.
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.49332> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <5.49332> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.49332> not available
-(Font)              size <5> substituted on input line 83.
-
-LaTeX Font Info:    Calculating math sizes for size <5.43777> on input line 83.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.43777> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <3.80641> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <2.71889> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <5.43777> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <3.80641> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <2.71889> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.43777> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <3.80641> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <2.71889> not available
-(Font)              size <5> substituted on input line 83.
-
-LaTeX Font Info:    Calculating math sizes for size <2.31781> on input line 83.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <2.31781> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <1.62245> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <1.1589> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <2.31781> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <1.62245> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <1.1589> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <2.31781> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <1.62245> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <1.1589> not available
-(Font)              size <5> substituted on input line 83.
-
-LaTeX Font Info:    Calculating math sizes for size <21.62239> on input line 83
-.
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <21.62239> not available
-(Font)              size <20.74> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <15.1356> not available
-(Font)              size <14.4> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <21.62239> not available
-(Font)              size <20.74> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <15.1356> not available
-(Font)              size <14.4> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <21.62239> not available
-(Font)              size <20.74> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <15.1356> not available
-(Font)              size <14.4> substituted on input line 83.
-
-LaTeX Font Info:    Calculating math sizes for size <24.45236> on input line 83
-.
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <24.45236> not available
-(Font)              size <24.88> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <24.45236> not available
-(Font)              size <24.88> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <24.45236> not available
-(Font)              size <24.88> substituted on input line 83.
-
-LaTeX Font Info:    Calculating math sizes for size <8.9257> on input line 83.
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <4.46284> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <4.46284> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <4.46284> not available
-(Font)              size <5> substituted on input line 83.
-
-LaTeX Font Info:    Calculating math sizes for size <9.18365> on input line 83.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <6.42853> not available
-(Font)              size <6> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <4.59183> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <6.42853> not available
-(Font)              size <6> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <4.59183> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <6.42853> not available
-(Font)              size <6> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <4.59183> not available
-(Font)              size <5> substituted on input line 83.
-
-LaTeX Font Info:    Calculating math sizes for size <0.76584> on input line 83.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.76584> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.53607> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.38292> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.76584> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.53607> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.38292> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.76584> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.53607> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.38292> not available
-(Font)              size <5> substituted on input line 83.
-
-LaTeX Font Info:    Calculating math sizes for size <1.75171> on input line 83.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <1.75171> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <1.22618> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.87585> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <1.75171> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <1.22618> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.87585> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <1.75171> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <1.22618> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.87585> not available
-(Font)              size <5> substituted on input line 83.
-
-LaTeX Font Info:    Calculating math sizes for size <0.81123> on input line 83.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.81123> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.56786> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.40561> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.81123> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.56786> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.40561> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.81123> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.56786> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.40561> not available
-(Font)              size <5> substituted on input line 83.
-
-LaTeX Font Info:    Calculating math sizes for size <7.40044> on input line 83.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <7.40044> not available
-(Font)              size <7> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <3.70021> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <7.40044> not available
-(Font)              size <7> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <3.70021> not available
-(Font)              size <5> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <7.40044> not available
-(Font)              size <7> substituted on input line 83.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <3.70021> not available
-(Font)              size <5> substituted on input line 83.
-
-LaTeX Font Info:    Trying to load font information for T5+put on input line 15
-3.
-(c:/texlive/2023/texmf-dist/tex/latex/vntex/t5put.fd
+<nen.jpg, id=31, 1284.8pt x 722.7pt>
+File: nen.jpg Graphic file (type jpg)
+<use nen.jpg>
+Package pdftex.def Info: nen.jpg  used on input line 87.
+(pdftex.def)             Requested size: 625.96062pt x 352.10806pt.
+LaTeX Font Info:    Trying to load font information for T5+put on input line 13
+6.
+
+(c:/texlive/2022/texmf-dist/tex/latex/vntex/t5put.fd
 File: t5put.fd 2006/07/30 Fontinst v1.927 font definitions for T5/put.
 ) [1
 
-{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2023/
-texmf-dist/fonts/enc/dvips/tex-gyre/q-t5.enc}{c:/texlive/2023/texmf-dist/fonts/
-enc/dvips/vntex/t5.enc}] (./bia9-tap1.aux)
-
-LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 4.61708pt have occurred.
-
- ) 
+{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./nen.jpg>] (./
+bia9-tap1.aux) ) 
 Here is how much of TeX's memory you used:
- 18875 strings out of 476025
- 405681 string characters out of 5794015
- 1902382 words of memory out of 5000000
- 38959 multiletter control sequences out of 15000+600000
- 610209 words of font info for 283 fonts, out of 8000000 for 9000
+ 18828 strings out of 476064
+ 407859 string characters out of 5794900
+ 1892340 words of memory out of 5000000
+ 38871 multiletter control sequences out of 15000+600000
+ 537142 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,6n,104p,413b,786s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/tex
-live/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2023
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb><c:/texlive/2023/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2023/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmmi9.pfb><c:/texlive/2023/texmf-dist/fonts/type1/vntex/
-vntopia/putb8v.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/tex-gyre/qagb
-.pfb>
-Output written on bia9-tap1.pdf (1 page, 112169 bytes).
+ 102i,7n,104p,406b,700s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{c:/texlive/2022/texmf-dist/fonts/enc/dvips/tex-gyre/q-t5.enc}{
+c:/texlive/2022/texmf-dist/fonts/enc/dvips/vntex/t5.enc}<c:/texlive/2022/texmf-
+dist/fonts/type1/vntex/vntopia/putb8v.pfb><c:/texlive/2022/texmf-dist/fonts/typ
+e1/public/tex-gyre/qagb.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/tex-
+gyre/qagri.pfb>
+Output written on bia9-tap1.pdf (1 page, 138464 bytes).
 PDF statistics:
- 76 PDF objects out of 1000 (max. 8388607)
- 40 compressed objects within 1 object stream
+ 57 PDF objects out of 1000 (max. 8388607)
+ 28 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 121 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 126 words of extra memory for PDF output out of 10000 (max. 10000000)
 

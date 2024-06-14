@@ -1,48 +1,535 @@
 \contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{1}{}}{5}{vd.1}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{2}{}}{5}{vd.2}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{1}{}}{6}{vd.1}%
 \contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{2}{}}{6}{vd.2}%
-\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{3}{}}{6}{vd.3}%
-\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{1}{}}{7}{vd.1}%
-\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{2}{}}{7}{vd.2}%
-\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{1}{}}{9}{vd.1}%
-\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{2}{}}{9}{vd.2}%
-\contentsline {ex}{{\nameex }{1}{}}{10}{ex.1}%
-\contentsline {ex}{{\nameex }{2}{}}{10}{ex.2}%
-\contentsline {ex}{{\nameex }{3}{}}{10}{ex.3}%
-\contentsline {ex}{{\nameex }{4}{}}{10}{ex.4}%
-\contentsline {ex}{{\nameex }{5}{}}{10}{ex.5}%
-\contentsline {ex}{{\nameex }{6}{}}{10}{ex.6}%
-\contentsline {ex}{{\nameex }{7}{}}{11}{ex.7}%
-\contentsline {ex}{{\nameex }{8}{}}{11}{ex.8}%
-\contentsline {ex}{{\nameex }{9}{}}{11}{ex.9}%
-\contentsline {ex}{{\nameex }{10}{}}{11}{ex.10}%
-\contentsline {ex}{{\nameex }{11}{}}{11}{ex.11}%
-\contentsline {ex}{{\nameex }{12}{}}{11}{ex.12}%
-\contentsline {ex}{{\nameex }{13}{}}{11}{ex.13}%
-\contentsline {ex}{{\nameex }{14}{}}{11}{ex.14}%
-\contentsline {ex}{{\nameex }{15}{}}{12}{ex.15}%
-\contentsline {ex}{{\nameex }{16}{}}{12}{ex.16}%
-\contentsline {ex}{{\nameex }{17}{}}{12}{ex.17}%
-\contentsline {ex}{{\nameex }{18}{}}{12}{ex.18}%
-\contentsline {ex}{{\nameex }{19}{}}{12}{ex.19}%
-\contentsline {ex}{{\nameex }{20}{}}{12}{ex.20}%
-\contentsline {ex}{{\nameex }{21}{}}{12}{ex.21}%
-\contentsline {ex}{{\nameex }{22}{}}{13}{ex.22}%
-\contentsline {ex}{{\nameex }{23}{}}{13}{ex.23}%
-\contentsline {ex}{{\nameex }{24}{}}{13}{ex.24}%
-\contentsline {ex}{{\nameex }{25}{}}{14}{ex.25}%
-\contentsline {ex}{{\nameex }{1}{}}{14}{ex.1}%
+\contentsline {ex}{{\nameex }{1}{}}{7}{ex.1}%
+\contentsline {ex}{{\nameex }{2}{}}{7}{ex.2}%
+\contentsline {ex}{{\nameex }{3}{}}{7}{ex.3}%
+\contentsline {ex}{{\nameex }{4}{}}{7}{ex.4}%
+\contentsline {ex}{{\nameex }{5}{}}{7}{ex.5}%
+\contentsline {ex}{{\nameex }{6}{}}{7}{ex.6}%
+\contentsline {ex}{{\nameex }{7}{}}{7}{ex.7}%
+\contentsline {ex}{{\nameex }{8}{}}{7}{ex.8}%
+\contentsline {ex}{{\nameex }{9}{}}{7}{ex.9}%
+\contentsline {ex}{{\nameex }{10}{}}{7}{ex.10}%
+\contentsline {ex}{{\nameex }{11}{}}{7}{ex.11}%
+\contentsline {ex}{{\nameex }{12}{}}{8}{ex.12}%
+\contentsline {ex}{{\nameex }{13}{}}{8}{ex.13}%
+\contentsline {ex}{{\nameex }{14}{}}{8}{ex.14}%
+\contentsline {ex}{{\nameex }{15}{}}{8}{ex.15}%
+\contentsline {ex}{{\nameex }{16}{}}{8}{ex.16}%
+\contentsline {ex}{{\nameex }{17}{}}{8}{ex.17}%
+\contentsline {ex}{{\nameex }{18}{}}{8}{ex.18}%
+\contentsline {ex}{{\nameex }{19}{}}{8}{ex.19}%
+\contentsline {ex}{{\nameex }{20}{}}{8}{ex.20}%
+\contentsline {ex}{{\nameex }{21}{}}{8}{ex.21}%
+\contentsline {ex}{{\nameex }{22}{}}{9}{ex.22}%
+\contentsline {ex}{{\nameex }{23}{}}{9}{ex.23}%
+\contentsline {ex}{{\nameex }{24}{}}{9}{ex.24}%
+\contentsline {ex}{{\nameex }{25}{}}{9}{ex.25}%
+\contentsline {ex}{{\nameex }{26}{}}{9}{ex.26}%
+\contentsline {ex}{{\nameex }{27}{}}{9}{ex.27}%
+\contentsline {ex}{{\nameex }{28}{}}{9}{ex.28}%
+\contentsline {ex}{{\nameex }{29}{}}{9}{ex.29}%
+\contentsline {ex}{{\nameex }{30}{}}{9}{ex.30}%
+\contentsline {ex}{{\nameex }{31}{}}{9}{ex.31}%
+\contentsline {ex}{{\nameex }{32}{}}{10}{ex.32}%
+\contentsline {ex}{{\nameex }{33}{}}{10}{ex.33}%
+\contentsline {ex}{{\nameex }{34}{}}{10}{ex.34}%
+\contentsline {ex}{{\nameex }{35}{}}{10}{ex.35}%
+\contentsline {ex}{{\nameex }{36}{}}{10}{ex.36}%
+\contentsline {ex}{{\nameex }{37}{}}{10}{ex.37}%
+\contentsline {ex}{{\nameex }{38}{}}{10}{ex.38}%
+\contentsline {ex}{{\nameex }{39}{}}{10}{ex.39}%
+\contentsline {ex}{{\nameex }{40}{}}{10}{ex.40}%
+\contentsline {ex}{{\nameex }{1}{}}{11}{ex.1}%
+\contentsline {ex}{{\nameex }{2}{}}{11}{ex.2}%
+\contentsline {ex}{{\nameex }{3}{}}{11}{ex.3}%
+\contentsline {ex}{{\nameex }{4}{}}{11}{ex.4}%
+\contentsline {ex}{{\nameex }{5}{}}{11}{ex.5}%
+\contentsline {ex}{{\nameex }{1}{}}{12}{ex.1}%
+\contentsline {ex}{{\nameex }{2}{}}{12}{ex.2}%
+\contentsline {ex}{{\nameex }{3}{}}{12}{ex.3}%
+\contentsline {ex}{{\nameex }{4}{}}{12}{ex.4}%
+\contentsline {ex}{{\nameex }{5}{}}{12}{ex.5}%
+\contentsline {ex}{{\nameex }{6}{}}{12}{ex.6}%
+\contentsline {ex}{{\nameex }{7}{}}{12}{ex.7}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{1}{}}{14}{vd.1}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{2}{}}{14}{vd.2}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{3}{}}{15}{vd.3}%
+\contentsline {ex}{{\nameex }{1}{}}{15}{ex.1}%
 \contentsline {ex}{{\nameex }{2}{}}{15}{ex.2}%
 \contentsline {ex}{{\nameex }{3}{}}{15}{ex.3}%
 \contentsline {ex}{{\nameex }{4}{}}{15}{ex.4}%
 \contentsline {ex}{{\nameex }{5}{}}{16}{ex.5}%
-\contentsline {ex}{{\nameex }{1}{}}{16}{ex.1}%
-\contentsline {ex}{{\nameex }{2}{}}{16}{ex.2}%
-\contentsline {ex}{{\nameex }{3}{}}{16}{ex.3}%
-\contentsline {ex}{{\nameex }{4}{}}{17}{ex.4}%
-\contentsline {ex}{{\nameex }{5}{}}{17}{ex.5}%
-\contentsline {ex}{{\nameex }{6}{}}{17}{ex.6}%
-\contentsline {ex}{{\nameex }{7}{}}{17}{ex.7}%
-\contentsline {ex}{{\nameex }{8}{}}{17}{ex.8}%
-\contentsline {ex}{{\nameex }{9}{}}{17}{ex.9}%
-\contentsline {ex}{{\nameex }{10}{}}{18}{ex.10}%
-\contentsline {ex}{{\nameex }{11}{}}{18}{ex.11}%
+\contentsline {ex}{{\nameex }{6}{}}{16}{ex.6}%
+\contentsline {ex}{{\nameex }{7}{}}{16}{ex.7}%
+\contentsline {ex}{{\nameex }{8}{}}{16}{ex.8}%
+\contentsline {ex}{{\nameex }{9}{}}{16}{ex.9}%
+\contentsline {ex}{{\nameex }{10}{}}{16}{ex.10}%
+\contentsline {ex}{{\nameex }{11}{}}{16}{ex.11}%
+\contentsline {ex}{{\nameex }{12}{}}{16}{ex.12}%
+\contentsline {ex}{{\nameex }{13}{}}{16}{ex.13}%
+\contentsline {ex}{{\nameex }{14}{}}{16}{ex.14}%
+\contentsline {ex}{{\nameex }{15}{}}{16}{ex.15}%
+\contentsline {ex}{{\nameex }{16}{}}{16}{ex.16}%
+\contentsline {ex}{{\nameex }{17}{}}{17}{ex.17}%
+\contentsline {ex}{{\nameex }{18}{}}{17}{ex.18}%
+\contentsline {ex}{{\nameex }{19}{}}{17}{ex.19}%
+\contentsline {ex}{{\nameex }{20}{}}{17}{ex.20}%
+\contentsline {ex}{{\nameex }{21}{}}{17}{ex.21}%
+\contentsline {ex}{{\nameex }{22}{}}{17}{ex.22}%
+\contentsline {ex}{{\nameex }{23}{}}{17}{ex.23}%
+\contentsline {ex}{{\nameex }{1}{}}{17}{ex.1}%
+\contentsline {ex}{{\nameex }{2}{}}{18}{ex.2}%
+\contentsline {ex}{{\nameex }{3}{}}{18}{ex.3}%
+\contentsline {ex}{{\nameex }{1}{}}{18}{ex.1}%
+\contentsline {ex}{{\nameex }{2}{}}{18}{ex.2}%
+\contentsline {ex}{{\nameex }{3}{}}{18}{ex.3}%
+\contentsline {ex}{{\nameex }{4}{}}{18}{ex.4}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{1}{}}{20}{vd.1}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{2}{}}{21}{vd.2}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{1}{}}{21}{vd.1}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{2}{}}{21}{vd.2}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{3}{}}{21}{vd.3}%
+\contentsline {ex}{{\nameex }{1}{}}{22}{ex.1}%
+\contentsline {ex}{{\nameex }{2}{}}{22}{ex.2}%
+\contentsline {ex}{{\nameex }{3}{}}{22}{ex.3}%
+\contentsline {ex}{{\nameex }{4}{}}{22}{ex.4}%
+\contentsline {ex}{{\nameex }{5}{}}{22}{ex.5}%
+\contentsline {ex}{{\nameex }{6}{}}{22}{ex.6}%
+\contentsline {ex}{{\nameex }{7}{}}{22}{ex.7}%
+\contentsline {ex}{{\nameex }{8}{}}{22}{ex.8}%
+\contentsline {ex}{{\nameex }{9}{}}{22}{ex.9}%
+\contentsline {ex}{{\nameex }{10}{}}{23}{ex.10}%
+\contentsline {ex}{{\nameex }{11}{}}{23}{ex.11}%
+\contentsline {ex}{{\nameex }{12}{}}{23}{ex.12}%
+\contentsline {ex}{{\nameex }{13}{}}{23}{ex.13}%
+\contentsline {ex}{{\nameex }{14}{}}{23}{ex.14}%
+\contentsline {ex}{{\nameex }{15}{}}{23}{ex.15}%
+\contentsline {ex}{{\nameex }{1}{}}{23}{ex.1}%
+\contentsline {ex}{{\nameex }{2}{}}{23}{ex.2}%
+\contentsline {ex}{{\nameex }{3}{}}{24}{ex.3}%
+\contentsline {ex}{{\nameex }{4}{}}{24}{ex.4}%
+\contentsline {ex}{{\nameex }{5}{}}{25}{ex.5}%
+\contentsline {ex}{{\nameex }{1}{}}{25}{ex.1}%
+\contentsline {ex}{{\nameex }{2}{}}{25}{ex.2}%
+\contentsline {ex}{{\nameex }{3}{}}{25}{ex.3}%
+\contentsline {ex}{{\nameex }{4}{}}{25}{ex.4}%
+\contentsline {ex}{{\nameex }{5}{}}{25}{ex.5}%
+\contentsline {ex}{{\nameex }{6}{}}{26}{ex.6}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{1}{}}{27}{vd.1}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{2}{}}{27}{vd.2}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{1}{}}{28}{vd.1}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{2}{}}{28}{vd.2}%
+\contentsline {ex}{{\nameex }{1}{}}{29}{ex.1}%
+\contentsline {ex}{{\nameex }{2}{}}{29}{ex.2}%
+\contentsline {ex}{{\nameex }{3}{}}{29}{ex.3}%
+\contentsline {ex}{{\nameex }{4}{}}{29}{ex.4}%
+\contentsline {ex}{{\nameex }{5}{}}{29}{ex.5}%
+\contentsline {ex}{{\nameex }{6}{}}{29}{ex.6}%
+\contentsline {ex}{{\nameex }{7}{}}{29}{ex.7}%
+\contentsline {ex}{{\nameex }{8}{}}{30}{ex.8}%
+\contentsline {ex}{{\nameex }{9}{}}{30}{ex.9}%
+\contentsline {ex}{{\nameex }{10}{}}{30}{ex.10}%
+\contentsline {ex}{{\nameex }{11}{}}{30}{ex.11}%
+\contentsline {ex}{{\nameex }{12}{}}{30}{ex.12}%
+\contentsline {ex}{{\nameex }{13}{}}{30}{ex.13}%
+\contentsline {ex}{{\nameex }{14}{}}{30}{ex.14}%
+\contentsline {ex}{{\nameex }{15}{}}{30}{ex.15}%
+\contentsline {ex}{{\nameex }{16}{}}{30}{ex.16}%
+\contentsline {ex}{{\nameex }{17}{}}{30}{ex.17}%
+\contentsline {ex}{{\nameex }{18}{}}{30}{ex.18}%
+\contentsline {ex}{{\nameex }{19}{}}{30}{ex.19}%
+\contentsline {ex}{{\nameex }{20}{}}{31}{ex.20}%
+\contentsline {ex}{{\nameex }{21}{}}{31}{ex.21}%
+\contentsline {ex}{{\nameex }{1}{}}{31}{ex.1}%
+\contentsline {ex}{{\nameex }{2}{}}{31}{ex.2}%
+\contentsline {ex}{{\nameex }{1}{}}{31}{ex.1}%
+\contentsline {ex}{{\nameex }{2}{}}{31}{ex.2}%
+\contentsline {ex}{{\nameex }{3}{}}{31}{ex.3}%
+\contentsline {ex}{{\nameex }{4}{}}{31}{ex.4}%
+\contentsline {ex}{{\nameex }{5}{}}{31}{ex.5}%
+\contentsline {ex}{{\nameex }{6}{}}{32}{ex.6}%
+\contentsline {ex}{{\nameex }{7}{}}{32}{ex.7}%
+\contentsline {ex}{{\nameex }{8}{}}{32}{ex.8}%
+\contentsline {ex}{{\nameex }{9}{}}{32}{ex.9}%
+\contentsline {ex}{{\nameex }{10}{}}{32}{ex.10}%
+\contentsline {ex}{{\nameex }{11}{}}{32}{ex.11}%
+\contentsline {ex}{{\nameex }{12}{}}{32}{ex.12}%
+\contentsline {ex}{{\nameex }{13}{}}{32}{ex.13}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{1}{}}{33}{vd.1}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{2}{}}{34}{vd.2}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{1}{}}{34}{vd.1}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{2}{}}{34}{vd.2}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{1}{}}{35}{vd.1}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{2}{}}{36}{vd.2}%
+\contentsline {ex}{{\nameex }{1}{}}{36}{ex.1}%
+\contentsline {ex}{{\nameex }{2}{}}{36}{ex.2}%
+\contentsline {ex}{{\nameex }{3}{}}{37}{ex.3}%
+\contentsline {ex}{{\nameex }{4}{}}{37}{ex.4}%
+\contentsline {ex}{{\nameex }{5}{}}{37}{ex.5}%
+\contentsline {ex}{{\nameex }{6}{}}{37}{ex.6}%
+\contentsline {ex}{{\nameex }{7}{}}{37}{ex.7}%
+\contentsline {ex}{{\nameex }{8}{}}{37}{ex.8}%
+\contentsline {ex}{{\nameex }{9}{}}{37}{ex.9}%
+\contentsline {ex}{{\nameex }{10}{}}{37}{ex.10}%
+\contentsline {ex}{{\nameex }{11}{}}{37}{ex.11}%
+\contentsline {ex}{{\nameex }{12}{}}{37}{ex.12}%
+\contentsline {ex}{{\nameex }{13}{}}{37}{ex.13}%
+\contentsline {ex}{{\nameex }{14}{}}{37}{ex.14}%
+\contentsline {ex}{{\nameex }{15}{}}{38}{ex.15}%
+\contentsline {ex}{{\nameex }{16}{}}{38}{ex.16}%
+\contentsline {ex}{{\nameex }{17}{}}{38}{ex.17}%
+\contentsline {ex}{{\nameex }{18}{}}{38}{ex.18}%
+\contentsline {ex}{{\nameex }{19}{}}{38}{ex.19}%
+\contentsline {ex}{{\nameex }{20}{}}{38}{ex.20}%
+\contentsline {ex}{{\nameex }{21}{}}{38}{ex.21}%
+\contentsline {ex}{{\nameex }{22}{}}{38}{ex.22}%
+\contentsline {ex}{{\nameex }{23}{}}{38}{ex.23}%
+\contentsline {ex}{{\nameex }{1}{}}{39}{ex.1}%
+\contentsline {ex}{{\nameex }{2}{}}{39}{ex.2}%
+\contentsline {ex}{{\nameex }{1}{}}{39}{ex.1}%
+\contentsline {ex}{{\nameex }{2}{}}{39}{ex.2}%
+\contentsline {ex}{{\nameex }{3}{}}{40}{ex.3}%
+\contentsline {ex}{{\nameex }{4}{}}{40}{ex.4}%
+\contentsline {ex}{{\nameex }{5}{}}{40}{ex.5}%
+\contentsline {ex}{{\nameex }{6}{}}{40}{ex.6}%
+\contentsline {ex}{{\nameex }{7}{}}{40}{ex.7}%
+\contentsline {ex}{{\nameex }{8}{}}{40}{ex.8}%
+\contentsline {ex}{{\nameex }{9}{}}{40}{ex.9}%
+\contentsline {ex}{{\nameex }{10}{}}{40}{ex.10}%
+\contentsline {ex}{{\nameex }{11}{}}{40}{ex.11}%
+\contentsline {ex}{{\nameex }{12}{}}{40}{ex.12}%
+\contentsline {ex}{{\nameex }{13}{}}{40}{ex.13}%
+\contentsline {ex}{{\nameex }{14}{}}{41}{ex.14}%
+\contentsline {ex}{{\nameex }{15}{}}{41}{ex.15}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{1}{}}{42}{vd.1}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{1}{}}{43}{vd.1}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{2}{}}{44}{vd.2}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{1}{}}{45}{vd.1}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{2}{}}{45}{vd.2}%
+\contentsline {ex}{{\nameex }{1}{}}{46}{ex.1}%
+\contentsline {ex}{{\nameex }{2}{}}{46}{ex.2}%
+\contentsline {ex}{{\nameex }{3}{}}{46}{ex.3}%
+\contentsline {ex}{{\nameex }{4}{}}{46}{ex.4}%
+\contentsline {ex}{{\nameex }{5}{}}{46}{ex.5}%
+\contentsline {ex}{{\nameex }{6}{}}{46}{ex.6}%
+\contentsline {ex}{{\nameex }{7}{}}{46}{ex.7}%
+\contentsline {ex}{{\nameex }{8}{}}{46}{ex.8}%
+\contentsline {ex}{{\nameex }{9}{}}{46}{ex.9}%
+\contentsline {ex}{{\nameex }{10}{}}{46}{ex.10}%
+\contentsline {ex}{{\nameex }{11}{}}{46}{ex.11}%
+\contentsline {ex}{{\nameex }{12}{}}{46}{ex.12}%
+\contentsline {ex}{{\nameex }{13}{}}{47}{ex.13}%
+\contentsline {ex}{{\nameex }{14}{}}{47}{ex.14}%
+\contentsline {ex}{{\nameex }{15}{}}{47}{ex.15}%
+\contentsline {ex}{{\nameex }{16}{}}{47}{ex.16}%
+\contentsline {ex}{{\nameex }{1}{}}{47}{ex.1}%
+\contentsline {ex}{{\nameex }{1}{}}{47}{ex.1}%
+\contentsline {ex}{{\nameex }{2}{}}{47}{ex.2}%
+\contentsline {ex}{{\nameex }{3}{}}{47}{ex.3}%
+\contentsline {ex}{{\nameex }{4}{}}{47}{ex.4}%
+\contentsline {ex}{{\nameex }{5}{}}{48}{ex.5}%
+\contentsline {ex}{{\nameex }{6}{}}{48}{ex.6}%
+\contentsline {ex}{{\nameex }{1}{}}{49}{ex.1}%
+\contentsline {ex}{{\nameex }{2}{}}{49}{ex.2}%
+\contentsline {ex}{{\nameex }{3}{}}{49}{ex.3}%
+\contentsline {ex}{{\nameex }{4}{}}{49}{ex.4}%
+\contentsline {ex}{{\nameex }{5}{}}{49}{ex.5}%
+\contentsline {ex}{{\nameex }{6}{}}{49}{ex.6}%
+\contentsline {ex}{{\nameex }{7}{}}{49}{ex.7}%
+\contentsline {ex}{{\nameex }{8}{}}{49}{ex.8}%
+\contentsline {ex}{{\nameex }{9}{}}{49}{ex.9}%
+\contentsline {ex}{{\nameex }{10}{}}{49}{ex.10}%
+\contentsline {ex}{{\nameex }{11}{}}{49}{ex.11}%
+\contentsline {ex}{{\nameex }{12}{}}{50}{ex.12}%
+\contentsline {ex}{{\nameex }{13}{}}{50}{ex.13}%
+\contentsline {ex}{{\nameex }{14}{}}{50}{ex.14}%
+\contentsline {ex}{{\nameex }{15}{}}{50}{ex.15}%
+\contentsline {ex}{{\nameex }{16}{}}{50}{ex.16}%
+\contentsline {ex}{{\nameex }{17}{}}{50}{ex.17}%
+\contentsline {ex}{{\nameex }{18}{}}{50}{ex.18}%
+\contentsline {ex}{{\nameex }{1}{}}{50}{ex.1}%
+\contentsline {ex}{{\nameex }{2}{}}{50}{ex.2}%
+\contentsline {ex}{{\nameex }{3}{}}{50}{ex.3}%
+\contentsline {ex}{{\nameex }{4}{}}{50}{ex.4}%
+\contentsline {ex}{{\nameex }{1}{}}{51}{ex.1}%
+\contentsline {ex}{{\nameex }{2}{}}{51}{ex.2}%
+\contentsline {ex}{{\nameex }{3}{}}{51}{ex.3}%
+\contentsline {ex}{{\nameex }{4}{}}{51}{ex.4}%
+\contentsline {ex}{{\nameex }{5}{}}{51}{ex.5}%
+\contentsline {ex}{{\nameex }{6}{}}{51}{ex.6}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{1}{}}{53}{vd.1}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{1}{}}{53}{vd.1}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{2}{}}{54}{vd.2}%
+\contentsline {ex}{{\nameex }{1}{}}{54}{ex.1}%
+\contentsline {ex}{{\nameex }{2}{}}{54}{ex.2}%
+\contentsline {ex}{{\nameex }{3}{}}{54}{ex.3}%
+\contentsline {ex}{{\nameex }{4}{}}{54}{ex.4}%
+\contentsline {ex}{{\nameex }{5}{}}{54}{ex.5}%
+\contentsline {ex}{{\nameex }{6}{}}{55}{ex.6}%
+\contentsline {ex}{{\nameex }{7}{}}{55}{ex.7}%
+\contentsline {ex}{{\nameex }{8}{}}{55}{ex.8}%
+\contentsline {ex}{{\nameex }{1}{}}{55}{ex.1}%
+\contentsline {ex}{{\nameex }{2}{}}{55}{ex.2}%
+\contentsline {ex}{{\nameex }{3}{}}{55}{ex.3}%
+\contentsline {ex}{{\nameex }{4}{}}{55}{ex.4}%
+\contentsline {ex}{{\nameex }{1}{}}{55}{ex.1}%
+\contentsline {ex}{{\nameex }{2}{}}{55}{ex.2}%
+\contentsline {ex}{{\nameex }{3}{}}{55}{ex.3}%
+\contentsline {ex}{{\nameex }{4}{}}{55}{ex.4}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{1}{}}{57}{vd.1}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{2}{}}{57}{vd.2}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{1}{}}{58}{vd.1}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{2}{}}{58}{vd.2}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{3}{}}{58}{vd.3}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{1}{}}{59}{vd.1}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{2}{}}{60}{vd.2}%
+\contentsline {ex}{{\nameex }{1}{}}{61}{ex.1}%
+\contentsline {ex}{{\nameex }{2}{}}{61}{ex.2}%
+\contentsline {ex}{{\nameex }{3}{}}{61}{ex.3}%
+\contentsline {ex}{{\nameex }{4}{}}{61}{ex.4}%
+\contentsline {ex}{{\nameex }{5}{}}{61}{ex.5}%
+\contentsline {ex}{{\nameex }{6}{}}{61}{ex.6}%
+\contentsline {ex}{{\nameex }{7}{}}{61}{ex.7}%
+\contentsline {ex}{{\nameex }{8}{}}{61}{ex.8}%
+\contentsline {ex}{{\nameex }{9}{}}{61}{ex.9}%
+\contentsline {ex}{{\nameex }{10}{}}{61}{ex.10}%
+\contentsline {ex}{{\nameex }{11}{}}{61}{ex.11}%
+\contentsline {ex}{{\nameex }{12}{}}{61}{ex.12}%
+\contentsline {ex}{{\nameex }{13}{}}{62}{ex.13}%
+\contentsline {ex}{{\nameex }{14}{}}{62}{ex.14}%
+\contentsline {ex}{{\nameex }{15}{}}{62}{ex.15}%
+\contentsline {ex}{{\nameex }{16}{}}{62}{ex.16}%
+\contentsline {ex}{{\nameex }{17}{}}{62}{ex.17}%
+\contentsline {ex}{{\nameex }{18}{}}{62}{ex.18}%
+\contentsline {ex}{{\nameex }{19}{}}{62}{ex.19}%
+\contentsline {ex}{{\nameex }{20}{}}{62}{ex.20}%
+\contentsline {ex}{{\nameex }{21}{}}{62}{ex.21}%
+\contentsline {ex}{{\nameex }{22}{}}{62}{ex.22}%
+\contentsline {ex}{{\nameex }{23}{}}{62}{ex.23}%
+\contentsline {ex}{{\nameex }{24}{}}{63}{ex.24}%
+\contentsline {ex}{{\nameex }{25}{}}{63}{ex.25}%
+\contentsline {ex}{{\nameex }{26}{}}{63}{ex.26}%
+\contentsline {ex}{{\nameex }{27}{}}{63}{ex.27}%
+\contentsline {ex}{{\nameex }{28}{}}{63}{ex.28}%
+\contentsline {ex}{{\nameex }{29}{}}{63}{ex.29}%
+\contentsline {ex}{{\nameex }{30}{}}{63}{ex.30}%
+\contentsline {ex}{{\nameex }{31}{}}{63}{ex.31}%
+\contentsline {ex}{{\nameex }{32}{}}{63}{ex.32}%
+\contentsline {ex}{{\nameex }{1}{}}{64}{ex.1}%
+\contentsline {ex}{{\nameex }{2}{}}{64}{ex.2}%
+\contentsline {ex}{{\nameex }{3}{}}{64}{ex.3}%
+\contentsline {ex}{{\nameex }{1}{}}{64}{ex.1}%
+\contentsline {ex}{{\nameex }{2}{}}{64}{ex.2}%
+\contentsline {ex}{{\nameex }{3}{}}{65}{ex.3}%
+\contentsline {ex}{{\nameex }{4}{}}{65}{ex.4}%
+\contentsline {ex}{{\nameex }{5}{}}{65}{ex.5}%
+\contentsline {ex}{{\nameex }{6}{}}{65}{ex.6}%
+\contentsline {ex}{{\nameex }{7}{}}{65}{ex.7}%
+\contentsline {ex}{{\nameex }{8}{}}{65}{ex.8}%
+\contentsline {ex}{{\nameex }{9}{}}{65}{ex.9}%
+\contentsline {ex}{{\nameex }{10}{}}{65}{ex.10}%
+\contentsline {ex}{{\nameex }{11}{}}{65}{ex.11}%
+\contentsline {ex}{{\nameex }{12}{}}{65}{ex.12}%
+\contentsline {ex}{{\nameex }{13}{}}{65}{ex.13}%
+\contentsline {ex}{{\nameex }{14}{}}{66}{ex.14}%
+\contentsline {ex}{{\nameex }{15}{}}{66}{ex.15}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{1}{}}{68}{vd.1}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{2}{}}{68}{vd.2}%
+\contentsline {ex}{{\nameex }{1}{}}{69}{ex.1}%
+\contentsline {ex}{{\nameex }{2}{}}{69}{ex.2}%
+\contentsline {ex}{{\nameex }{3}{}}{69}{ex.3}%
+\contentsline {ex}{{\nameex }{4}{}}{69}{ex.4}%
+\contentsline {ex}{{\nameex }{5}{}}{69}{ex.5}%
+\contentsline {ex}{{\nameex }{6}{}}{69}{ex.6}%
+\contentsline {ex}{{\nameex }{7}{}}{69}{ex.7}%
+\contentsline {ex}{{\nameex }{8}{}}{69}{ex.8}%
+\contentsline {ex}{{\nameex }{9}{}}{69}{ex.9}%
+\contentsline {ex}{{\nameex }{10}{}}{69}{ex.10}%
+\contentsline {ex}{{\nameex }{11}{}}{69}{ex.11}%
+\contentsline {ex}{{\nameex }{12}{}}{70}{ex.12}%
+\contentsline {ex}{{\nameex }{13}{}}{70}{ex.13}%
+\contentsline {ex}{{\nameex }{14}{}}{70}{ex.14}%
+\contentsline {ex}{{\nameex }{1}{}}{70}{ex.1}%
+\contentsline {ex}{{\nameex }{1}{}}{70}{ex.1}%
+\contentsline {ex}{{\nameex }{2}{}}{70}{ex.2}%
+\contentsline {ex}{{\nameex }{3}{}}{70}{ex.3}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{1}{}}{71}{vd.1}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{1}{}}{73}{vd.1}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{2}{}}{73}{vd.2}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{3}{}}{73}{vd.3}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{1}{}}{74}{vd.1}%
+\contentsline {ex}{{\nameex }{1}{}}{75}{ex.1}%
+\contentsline {ex}{{\nameex }{2}{}}{75}{ex.2}%
+\contentsline {ex}{{\nameex }{3}{}}{75}{ex.3}%
+\contentsline {ex}{{\nameex }{4}{}}{76}{ex.4}%
+\contentsline {ex}{{\nameex }{5}{}}{76}{ex.5}%
+\contentsline {ex}{{\nameex }{6}{}}{76}{ex.6}%
+\contentsline {ex}{{\nameex }{7}{}}{76}{ex.7}%
+\contentsline {ex}{{\nameex }{8}{}}{76}{ex.8}%
+\contentsline {ex}{{\nameex }{9}{}}{76}{ex.9}%
+\contentsline {ex}{{\nameex }{10}{}}{76}{ex.10}%
+\contentsline {ex}{{\nameex }{11}{}}{76}{ex.11}%
+\contentsline {ex}{{\nameex }{12}{}}{76}{ex.12}%
+\contentsline {ex}{{\nameex }{13}{}}{76}{ex.13}%
+\contentsline {ex}{{\nameex }{14}{}}{77}{ex.14}%
+\contentsline {ex}{{\nameex }{15}{}}{77}{ex.15}%
+\contentsline {ex}{{\nameex }{16}{}}{77}{ex.16}%
+\contentsline {ex}{{\nameex }{17}{}}{77}{ex.17}%
+\contentsline {ex}{{\nameex }{18}{}}{77}{ex.18}%
+\contentsline {ex}{{\nameex }{19}{}}{77}{ex.19}%
+\contentsline {ex}{{\nameex }{20}{}}{77}{ex.20}%
+\contentsline {ex}{{\nameex }{1}{}}{78}{ex.1}%
+\contentsline {ex}{{\nameex }{2}{}}{78}{ex.2}%
+\contentsline {ex}{{\nameex }{3}{}}{78}{ex.3}%
+\contentsline {ex}{{\nameex }{4}{}}{78}{ex.4}%
+\contentsline {ex}{{\nameex }{1}{}}{79}{ex.1}%
+\contentsline {ex}{{\nameex }{2}{}}{79}{ex.2}%
+\contentsline {ex}{{\nameex }{3}{}}{79}{ex.3}%
+\contentsline {ex}{{\nameex }{4}{}}{79}{ex.4}%
+\contentsline {ex}{{\nameex }{5}{}}{79}{ex.5}%
+\contentsline {ex}{{\nameex }{6}{}}{79}{ex.6}%
+\contentsline {ex}{{\nameex }{7}{}}{79}{ex.7}%
+\contentsline {ex}{{\nameex }{8}{}}{79}{ex.8}%
+\contentsline {ex}{{\nameex }{9}{}}{79}{ex.9}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{1}{}}{80}{vd.1}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{2}{}}{80}{vd.2}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{3}{}}{81}{vd.3}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{1}{}}{82}{vd.1}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{2}{}}{82}{vd.2}%
+\contentsline {ex}{{\nameex }{1}{}}{83}{ex.1}%
+\contentsline {ex}{{\nameex }{2}{}}{83}{ex.2}%
+\contentsline {ex}{{\nameex }{3}{}}{83}{ex.3}%
+\contentsline {ex}{{\nameex }{4}{}}{83}{ex.4}%
+\contentsline {ex}{{\nameex }{5}{}}{83}{ex.5}%
+\contentsline {ex}{{\nameex }{6}{}}{83}{ex.6}%
+\contentsline {ex}{{\nameex }{7}{}}{83}{ex.7}%
+\contentsline {ex}{{\nameex }{8}{}}{83}{ex.8}%
+\contentsline {ex}{{\nameex }{9}{}}{83}{ex.9}%
+\contentsline {ex}{{\nameex }{10}{}}{83}{ex.10}%
+\contentsline {ex}{{\nameex }{11}{}}{83}{ex.11}%
+\contentsline {ex}{{\nameex }{12}{}}{84}{ex.12}%
+\contentsline {ex}{{\nameex }{13}{}}{84}{ex.13}%
+\contentsline {ex}{{\nameex }{14}{}}{84}{ex.14}%
+\contentsline {ex}{{\nameex }{15}{}}{84}{ex.15}%
+\contentsline {ex}{{\nameex }{16}{}}{84}{ex.16}%
+\contentsline {ex}{{\nameex }{17}{}}{84}{ex.17}%
+\contentsline {ex}{{\nameex }{18}{}}{84}{ex.18}%
+\contentsline {ex}{{\nameex }{19}{}}{84}{ex.19}%
+\contentsline {ex}{{\nameex }{20}{}}{84}{ex.20}%
+\contentsline {ex}{{\nameex }{21}{}}{84}{ex.21}%
+\contentsline {ex}{{\nameex }{22}{}}{84}{ex.22}%
+\contentsline {ex}{{\nameex }{23}{}}{85}{ex.23}%
+\contentsline {ex}{{\nameex }{24}{}}{85}{ex.24}%
+\contentsline {ex}{{\nameex }{1}{}}{85}{ex.1}%
+\contentsline {ex}{{\nameex }{2}{}}{85}{ex.2}%
+\contentsline {ex}{{\nameex }{3}{}}{85}{ex.3}%
+\contentsline {ex}{{\nameex }{1}{}}{86}{ex.1}%
+\contentsline {ex}{{\nameex }{2}{}}{86}{ex.2}%
+\contentsline {ex}{{\nameex }{3}{}}{86}{ex.3}%
+\contentsline {ex}{{\nameex }{4}{}}{86}{ex.4}%
+\contentsline {ex}{{\nameex }{5}{}}{86}{ex.5}%
+\contentsline {ex}{{\nameex }{6}{}}{86}{ex.6}%
+\contentsline {ex}{{\nameex }{7}{}}{86}{ex.7}%
+\contentsline {ex}{{\nameex }{8}{}}{86}{ex.8}%
+\contentsline {ex}{{\nameex }{9}{}}{86}{ex.9}%
+\contentsline {ex}{{\nameex }{10}{}}{86}{ex.10}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{1}{}}{88}{vd.1}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{1}{}}{89}{vd.1}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{2}{}}{90}{vd.2}%
+\contentsline {ex}{{\nameex }{1}{}}{91}{ex.1}%
+\contentsline {ex}{{\nameex }{2}{}}{91}{ex.2}%
+\contentsline {ex}{{\nameex }{3}{}}{91}{ex.3}%
+\contentsline {ex}{{\nameex }{4}{}}{91}{ex.4}%
+\contentsline {ex}{{\nameex }{5}{}}{92}{ex.5}%
+\contentsline {ex}{{\nameex }{6}{}}{92}{ex.6}%
+\contentsline {ex}{{\nameex }{7}{}}{92}{ex.7}%
+\contentsline {ex}{{\nameex }{8}{}}{92}{ex.8}%
+\contentsline {ex}{{\nameex }{9}{}}{93}{ex.9}%
+\contentsline {ex}{{\nameex }{10}{}}{93}{ex.10}%
+\contentsline {ex}{{\nameex }{1}{}}{93}{ex.1}%
+\contentsline {ex}{{\nameex }{2}{}}{94}{ex.2}%
+\contentsline {ex}{{\nameex }{3}{}}{94}{ex.3}%
+\contentsline {ex}{{\nameex }{4}{}}{94}{ex.4}%
+\contentsline {ex}{{\nameex }{1}{}}{94}{ex.1}%
+\contentsline {ex}{{\nameex }{2}{}}{95}{ex.2}%
+\contentsline {ex}{{\nameex }{3}{}}{95}{ex.3}%
+\contentsline {ex}{{\nameex }{4}{}}{95}{ex.4}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{1}{}}{97}{vd.1}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{2}{}}{98}{vd.2}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{3}{}}{98}{vd.3}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{1}{}}{99}{vd.1}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{2}{}}{99}{vd.2}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{1}{}}{101}{vd.1}%
+\contentsline {vd}{{\color {\mauVD }\damEX \iconVD \ Ví dụ}{2}{}}{101}{vd.2}%
+\contentsline {ex}{{\nameex }{1}{}}{102}{ex.1}%
+\contentsline {ex}{{\nameex }{2}{}}{102}{ex.2}%
+\contentsline {ex}{{\nameex }{3}{}}{102}{ex.3}%
+\contentsline {ex}{{\nameex }{4}{}}{102}{ex.4}%
+\contentsline {ex}{{\nameex }{5}{}}{102}{ex.5}%
+\contentsline {ex}{{\nameex }{6}{}}{102}{ex.6}%
+\contentsline {ex}{{\nameex }{7}{}}{102}{ex.7}%
+\contentsline {ex}{{\nameex }{8}{}}{102}{ex.8}%
+\contentsline {ex}{{\nameex }{9}{}}{102}{ex.9}%
+\contentsline {ex}{{\nameex }{10}{}}{103}{ex.10}%
+\contentsline {ex}{{\nameex }{11}{}}{103}{ex.11}%
+\contentsline {ex}{{\nameex }{12}{}}{103}{ex.12}%
+\contentsline {ex}{{\nameex }{13}{}}{103}{ex.13}%
+\contentsline {ex}{{\nameex }{14}{}}{103}{ex.14}%
+\contentsline {ex}{{\nameex }{15}{}}{103}{ex.15}%
+\contentsline {ex}{{\nameex }{16}{}}{103}{ex.16}%
+\contentsline {ex}{{\nameex }{17}{}}{103}{ex.17}%
+\contentsline {ex}{{\nameex }{18}{}}{103}{ex.18}%
+\contentsline {ex}{{\nameex }{19}{}}{103}{ex.19}%
+\contentsline {ex}{{\nameex }{20}{}}{103}{ex.20}%
+\contentsline {ex}{{\nameex }{21}{}}{103}{ex.21}%
+\contentsline {ex}{{\nameex }{22}{}}{103}{ex.22}%
+\contentsline {ex}{{\nameex }{23}{}}{104}{ex.23}%
+\contentsline {ex}{{\nameex }{24}{}}{104}{ex.24}%
+\contentsline {ex}{{\nameex }{25}{}}{104}{ex.25}%
+\contentsline {ex}{{\nameex }{1}{}}{104}{ex.1}%
+\contentsline {ex}{{\nameex }{2}{}}{104}{ex.2}%
+\contentsline {ex}{{\nameex }{3}{}}{105}{ex.3}%
+\contentsline {ex}{{\nameex }{4}{}}{105}{ex.4}%
+\contentsline {ex}{{\nameex }{5}{}}{105}{ex.5}%
+\contentsline {ex}{{\nameex }{1}{}}{105}{ex.1}%
+\contentsline {ex}{{\nameex }{2}{}}{105}{ex.2}%
+\contentsline {ex}{{\nameex }{3}{}}{105}{ex.3}%
+\contentsline {ex}{{\nameex }{4}{}}{105}{ex.4}%
+\contentsline {ex}{{\nameex }{5}{}}{105}{ex.5}%
+\contentsline {ex}{{\nameex }{6}{}}{105}{ex.6}%
+\contentsline {ex}{{\nameex }{7}{}}{105}{ex.7}%
+\contentsline {ex}{{\nameex }{8}{}}{105}{ex.8}%
+\contentsline {ex}{{\nameex }{9}{}}{105}{ex.9}%
+\contentsline {ex}{{\nameex }{10}{}}{106}{ex.10}%
+\contentsline {ex}{{\nameex }{11}{}}{106}{ex.11}%
+\contentsline {ex}{{\nameex }{1}{}}{107}{ex.1}%
+\contentsline {ex}{{\nameex }{2}{}}{107}{ex.2}%
+\contentsline {ex}{{\nameex }{3}{}}{107}{ex.3}%
+\contentsline {ex}{{\nameex }{4}{}}{107}{ex.4}%
+\contentsline {ex}{{\nameex }{5}{}}{107}{ex.5}%
+\contentsline {ex}{{\nameex }{6}{}}{107}{ex.6}%
+\contentsline {ex}{{\nameex }{7}{}}{107}{ex.7}%
+\contentsline {ex}{{\nameex }{8}{}}{107}{ex.8}%
+\contentsline {ex}{{\nameex }{9}{}}{108}{ex.9}%
+\contentsline {ex}{{\nameex }{10}{}}{108}{ex.10}%
+\contentsline {ex}{{\nameex }{11}{}}{108}{ex.11}%
+\contentsline {ex}{{\nameex }{12}{}}{108}{ex.12}%
+\contentsline {ex}{{\nameex }{13}{}}{108}{ex.13}%
+\contentsline {ex}{{\nameex }{14}{}}{108}{ex.14}%
+\contentsline {ex}{{\nameex }{15}{}}{108}{ex.15}%
+\contentsline {ex}{{\nameex }{16}{}}{108}{ex.16}%
+\contentsline {ex}{{\nameex }{17}{}}{108}{ex.17}%
+\contentsline {ex}{{\nameex }{18}{}}{109}{ex.18}%
+\contentsline {ex}{{\nameex }{1}{}}{109}{ex.1}%
+\contentsline {ex}{{\nameex }{2}{}}{110}{ex.2}%
+\contentsline {ex}{{\nameex }{3}{}}{110}{ex.3}%
+\contentsline {ex}{{\nameex }{4}{}}{110}{ex.4}%
+\contentsline {ex}{{\nameex }{1}{}}{111}{ex.1}%
+\contentsline {ex}{{\nameex }{2}{}}{111}{ex.2}%
+\contentsline {ex}{{\nameex }{3}{}}{111}{ex.3}%
+\contentsline {ex}{{\nameex }{4}{}}{111}{ex.4}%
+\contentsline {ex}{{\nameex }{5}{}}{111}{ex.5}%
+\contentsline {ex}{{\nameex }{6}{}}{111}{ex.6}%

@@ -1,21 +1,173 @@
 \contentsline {part}{I\hspace {1em}HỌC KÌ I}{1}{part.1}%
 \contentsline {chapter}{\numberline {1}VẬT LÝ NHIỆT}{2}{chapter.1}%
-\contentsline {chapter}{\numberline {2}KHÍ LÝ TƯỞNG}{3}{chapter.2}%
-\contentsline {section}{\numberline {1}ÁP SUẤT - ĐỘNG NĂNG CỦA CHẤT KHÍ THEO MÔ HÌNH ĐỘNG HỌC PHÂN TỬ}{4}{section.2.1}%
-\contentsline {subsection}{\numberline {A}LÝ THUYẾT TRỌNG TÂM}{4}{subsection.2.1.1}%
-\contentsline {subsubsection}{\numberline {1}Áp suất chất khí theo mô hình động học phân tử}{4}{subsubsection.2.1.1.1}%
-\contentsline {subsubsection}{\numberline {2}Động năng tịnh tiến trung bình của phân tử khí}{4}{subsubsection.2.1.1.2}%
-\contentsline {subsection}{\numberline {B}VÍ DỤ MINH HOẠ}{4}{subsection.2.1.2}%
-\contentsline {subsection}{\fontsize {11}{11}\selectfont \color {blue!80}\it \sffamily {{\FAtwo \symbol {124}}}\ Dạng\nobreakspace {}1.\nobreakspace {}Giải thích được chuyển động của các phân tử ảnh hưởng như thế nào đến áp suất tác dụng lên thành bình và từ đó rút ra được hệ thức $p=\dfrac {1}{3}\mu m\overline {v^2}$\nobreakspace {}}{4}{subsection.2.1.2}%
-\contentsline {subsection}{\fontsize {11}{11}\selectfont \color {blue!80}\it \sffamily {{\FAtwo \symbol {124}}}\ Dạng\nobreakspace {}2.\nobreakspace {}Vận dụng được biểu thức tính động năng tịnh tiến trung bình của phân tử khí\nobreakspace {}}{7}{equation.2.1.4}%
-\contentsline {subsection}{\fontsize {11}{11}\selectfont \color {blue!80}\it \sffamily {{\FAtwo \symbol {124}}}\ Dạng\nobreakspace {}3.\nobreakspace {}Nội năng khí lí tưởng \textit {(Đọc thêm)}\nobreakspace {}}{7}{vd.2}%
-\contentsline {subsubsection}{\numberline {1}Nội năng khí lí tưởng đơn nguyên tử}{7}{subsubsection.2.1.2.1}%
-\contentsline {subsubsection}{\numberline {2}Công của khí thực hiện trong các đẳng quá trình}{7}{subsubsection.2.1.2.2}%
-\contentsline {paragraph}{\numberline {2.1}Quá trình đẳng tích}{8}{paragraph.2.1.2.2.1}%
-\contentsline {paragraph}{\numberline {2.2}Quá trình đẳng áp}{8}{paragraph.2.1.2.2.2}%
-\contentsline {paragraph}{\numberline {2.3}Quá trình đẳng nhiệt}{9}{paragraph.2.1.2.2.3}%
-\contentsline {subsubsection}{\numberline {3}Định luật I nhiệt động lực học}{9}{subsubsection.2.1.2.3}%
-\contentsline {subsection}{\numberline {C}BÀI TẬP TRẮC NGHIỆM}{10}{subsection.2.1.3}%
-\contentsline {subsection}{\numberline {D}TRẮC NGHIỆM ĐÚNG/SAI}{14}{subsection.2.1.4}%
-\contentsline {subsection}{\numberline {E}BÀI TẬP TỰ LUẬN}{16}{subsection.2.1.5}%
+\contentsline {section}{\numberline {1}SỰ CHUYỂN THỂ}{2}{section.1.1}%
+\contentsline {subsection}{\numberline {A}LÝ THUYẾT TRỌNG TÂM}{2}{subsection.1.1.1}%
+\contentsline {subsubsection}{\numberline {1}Mô hình động học phân tử về cấu tạo chất}{2}{subsubsection.1.1.1.1}%
+\contentsline {subsubsection}{\numberline {2}Cấu trúc của chất rắn, lỏng, khí}{2}{subsubsection.1.1.1.2}%
+\contentsline {paragraph}{\numberline {2.1}Phân biệt cấu trúc của chất rắn, lỏng, khí}{2}{paragraph.1.1.1.2.1}%
+\contentsline {paragraph}{\numberline {2.2}Chất rắn kết tinh và chất rắn vô định hình}{2}{paragraph.1.1.1.2.2}%
+\contentsline {subsubsection}{\numberline {3}Sự chuyển thể}{3}{subsubsection.1.1.1.3}%
+\contentsline {paragraph}{\numberline {3.1}Sự nóng chảy}{4}{paragraph.1.1.1.3.1}%
+\contentsline {paragraph}{\numberline {3.2}Sự hoá hơi}{4}{paragraph.1.1.1.3.2}%
+\contentsline {subsection}{\numberline {B}VÍ DỤ MINH HOẠ}{5}{subsection.1.1.2}%
+\contentsline {subsection}{\fontsize {11}{11}\selectfont \color {blue!80}\it \sffamily {{\FAtwo \symbol {124}}}\ Dạng\nobreakspace {}1.\nobreakspace {}Sử dụng mô hình động học phân tử, nêu được sơ lược cấu trúc của chất rắn, chất lỏng, chất khí\nobreakspace {}}{5}{subsection.1.1.2}%
+\contentsline {subsection}{\fontsize {11}{11}\selectfont \color {blue!80}\it \sffamily {{\FAtwo \symbol {124}}}\ Dạng\nobreakspace {}2.\nobreakspace {}Giải thích được sơ lược một số hiện tượng vật lí liên quan đến sự chuyển thể: sự nóng chảy, sự hoá hơi\nobreakspace {}}{6}{Item.13}%
+\contentsline {subsection}{\numberline {C}BÀI TẬP TRẮC NGHIỆM}{7}{subsection.1.1.3}%
+\contentsline {subsection}{\numberline {D}TRẮC NGHIỆM ĐÚNG/SAI}{11}{subsection.1.1.4}%
+\contentsline {subsection}{\numberline {E}Bài tập tự luận}{12}{subsection.1.1.5}%
+\contentsline {section}{\numberline {2}NHIỆT ĐỘ - THANG NHIỆT ĐỘ}{13}{section.1.2}%
+\contentsline {subsection}{\numberline {A}LÝ THUYẾT TRỌNG TÂM}{13}{subsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1}Chiều truyền năng lượng nhiệt giữa hai vật chênh lệch nhiệt độ tiếp xúc nhau}{13}{subsubsection.1.2.1.1}%
+\contentsline {subsubsection}{\numberline {2}Nhiệt độ}{13}{subsubsection.1.2.1.2}%
+\contentsline {paragraph}{\numberline {2.1}Khái niệm về nhiệt độ}{13}{paragraph.1.2.1.2.1}%
+\contentsline {paragraph}{\numberline {2.2}Nhiệt kế}{13}{paragraph.1.2.1.2.2}%
+\contentsline {subsubsection}{\numberline {3}Thang nhiệt độ}{13}{subsubsection.1.2.1.3}%
+\contentsline {paragraph}{\numberline {3.1}Thang nhiệt độ Celsius}{14}{paragraph.1.2.1.3.1}%
+\contentsline {paragraph}{\numberline {3.2}Thang nhiệt độ Kelvin}{14}{paragraph.1.2.1.3.2}%
+\contentsline {paragraph}{\numberline {3.3}Chuyển đổi nhiệt độ đo theo thang Celsius sang nhiệt độ đo theo thang Kelvin}{14}{paragraph.1.2.1.3.3}%
+\contentsline {subsection}{\numberline {B}VÍ DỤ MINH HOẠ}{14}{subsection.1.2.2}%
+\contentsline {subsection}{\fontsize {11}{11}\selectfont \color {blue!80}\it \sffamily {{\FAtwo \symbol {124}}}\ Dạng\nobreakspace {}1.\nobreakspace {}Chuyển đổi được nhiệt độ đo theo thang Celsius sang nhiệt độ đo theo thang Kelvin và ngược lại\nobreakspace {}}{14}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {C}BÀI TẬP TRẮC NGHIỆM}{15}{subsection.1.2.3}%
+\contentsline {subsection}{\numberline {D}TRẮC NGHIỆM ĐÚNG/SAI}{17}{subsection.1.2.4}%
+\contentsline {subsection}{\numberline {E}BÀI TẬP TỰ LUẬN}{18}{subsection.1.2.5}%
+\contentsline {section}{\numberline {3}NỘI NĂNG - ĐỊNH LUẬT I NHIỆT ĐỘNG LỰC HỌC}{19}{section.1.3}%
+\contentsline {subsection}{\numberline {A}LÝ THUYẾT TRỌNG TÂM}{19}{subsection.1.3.1}%
+\contentsline {subsubsection}{\numberline {1}Nội năng}{19}{subsubsection.1.3.1.1}%
+\contentsline {paragraph}{\numberline {1.1}Khái niệm nội năng}{19}{paragraph.1.3.1.1.1}%
+\contentsline {paragraph}{\numberline {1.2}Mối liên hệ giữa nội năng và năng lượng của các phân tử cấu tạo nên vật}{19}{paragraph.1.3.1.1.2}%
+\contentsline {subsubsection}{\numberline {2}Các cách làm thay đổi nội năng}{19}{subsubsection.1.3.1.2}%
+\contentsline {paragraph}{\numberline {2.1}Thực hiện công}{19}{paragraph.1.3.1.2.1}%
+\contentsline {paragraph}{\numberline {2.2}Truyền nhiệt}{19}{paragraph.1.3.1.2.2}%
+\contentsline {subsubsection}{\numberline {3}Định luật I nhiệt động lực học}{20}{subsubsection.1.3.1.3}%
+\contentsline {subsection}{\numberline {B}VÍ DỤ MINH HOẠ}{20}{subsection.1.3.2}%
+\contentsline {subsection}{\fontsize {11}{11}\selectfont \color {blue!80}\it \sffamily {{\FAtwo \symbol {124}}}\ Dạng\nobreakspace {}1.\nobreakspace {}Trình bày được các cách làm thay đổi nội năng\nobreakspace {}}{20}{subsection.1.3.2}%
+\contentsline {subsection}{\fontsize {11}{11}\selectfont \color {blue!80}\it \sffamily {{\FAtwo \symbol {124}}}\ Dạng\nobreakspace {}2.\nobreakspace {}Vận dụng định luật I nhiệt động lực học\nobreakspace {}}{21}{vd.2}%
+\contentsline {subsection}{\numberline {C}BÀI TẬP TRẮC NGHIỆM}{22}{subsection.1.3.3}%
+\contentsline {subsection}{\numberline {D}TRẮC NGHIỆM ĐÚNG/SAI}{23}{subsection.1.3.4}%
+\contentsline {subsection}{\numberline {E}BÀI TẬP TỰ LUẬN}{25}{subsection.1.3.5}%
+\contentsline {section}{\numberline {4}NHIỆT DUNG RIÊNG}{27}{section.1.4}%
+\contentsline {subsection}{\numberline {A}LÝ THUYẾT TRỌNG TÂM}{27}{subsection.1.4.1}%
+\contentsline {subsubsection}{\numberline {1}Nhiệt dung riêng}{27}{subsubsection.1.4.1.1}%
+\contentsline {subsubsection}{\numberline {2}Nhiệt lượng trao đổi để khối chất thay đổi nhiệt độ}{27}{subsubsection.1.4.1.2}%
+\contentsline {subsubsection}{\numberline {3}Trạng thái cân bằng nhiệt của hệ nhiệt động}{27}{subsubsection.1.4.1.3}%
+\contentsline {subsection}{\numberline {B}VÍ DỤ MINH HOẠ}{27}{subsection.1.4.2}%
+\contentsline {subsection}{\fontsize {11}{11}\selectfont \color {blue!80}\it \sffamily {{\FAtwo \symbol {124}}}\ Dạng\nobreakspace {}1.\nobreakspace {}Xác định nhiệt lượng trao đổi để khối chất thay đổi nhiệt độ\nobreakspace {}}{27}{subsection.1.4.2}%
+\contentsline {subsection}{\fontsize {11}{11}\selectfont \color {blue!80}\it \sffamily {{\FAtwo \symbol {124}}}\ Dạng\nobreakspace {}2.\nobreakspace {}Vận dụng phương trình cân bằng nhiệt\nobreakspace {}}{28}{Item.92}%
+\contentsline {subsection}{\numberline {C}BÀI TẬP TRẮC NGHIỆM}{29}{subsection.1.4.3}%
+\contentsline {subsection}{\numberline {D}TRẮC NGHIỆM ĐÚNG/SAI}{31}{subsection.1.4.4}%
+\contentsline {subsection}{\numberline {E}BÀI TẬP TỰ LUẬN}{31}{subsection.1.4.5}%
+\contentsline {section}{\numberline {5}NHIỆT NÓNG CHẢY RIÊNG - NHIỆT HOÁ HƠI RIÊNG}{33}{section.1.5}%
+\contentsline {subsection}{\numberline {A}LÝ THUYẾT TRỌNG TÂM}{33}{subsection.1.5.1}%
+\contentsline {subsubsection}{\numberline {1}Nhiệt nóng chảy riêng}{33}{subsubsection.1.5.1.1}%
+\contentsline {subsubsection}{\numberline {2}Nhiệt hoá hơi riêng}{33}{subsubsection.1.5.1.2}%
+\contentsline {subsection}{\numberline {B}VÍ DỤ MINH HOẠ}{33}{subsection.1.5.2}%
+\contentsline {subsection}{\fontsize {11}{11}\selectfont \color {blue!80}\it \sffamily {{\FAtwo \symbol {124}}}\ Dạng\nobreakspace {}1.\nobreakspace {}Vận dụng biểu thức xác định nhiệt nóng chảy riêng\nobreakspace {}}{33}{subsection.1.5.2}%
+\contentsline {subsection}{\fontsize {11}{11}\selectfont \color {blue!80}\it \sffamily {{\FAtwo \symbol {124}}}\ Dạng\nobreakspace {}2.\nobreakspace {}Vận dụng biểu thức xác định nhiệt hoá hơi riêng\nobreakspace {}}{34}{vd.2}%
+\contentsline {subsection}{\fontsize {11}{11}\selectfont \color {blue!80}\it \sffamily {{\FAtwo \symbol {124}}}\ Dạng\nobreakspace {}3.\nobreakspace {}Áp dụng phương trình cân bằng nhiệt khi có sự chuyển thể\nobreakspace {}}{35}{Item.110}%
+\contentsline {subsection}{\numberline {C}BÀI TẬP TRẮC NGHIỆM}{36}{subsection.1.5.3}%
+\contentsline {subsection}{\numberline {D}TRẮC NGHIỆM ĐÚNG/SAI}{39}{subsection.1.5.4}%
+\contentsline {subsection}{\numberline {E}BÀI TẬP TỰ LUẬN}{39}{subsection.1.5.5}%
+\contentsline {section}{\numberline {6}BÀI TẬP VẬT LÝ NHIỆT}{42}{section.1.6}%
+\contentsline {subsection}{\numberline {A}ÔN TẬP LÝ THUYẾT}{42}{subsection.1.6.1}%
+\contentsline {subsubsection}{\numberline {1}Khi nội năng của vật biến đổi chỉ bằng cách truyền nhiệt}{42}{subsubsection.1.6.1.1}%
+\contentsline {subsubsection}{\numberline {2}Khi nội năng của vật biến đổi bằng cả hai cách truyền nhiệt và thực hiện công}{42}{subsubsection.1.6.1.2}%
+\contentsline {subsection}{\numberline {B}VÍ DỤ MINH HOẠ}{42}{subsection.1.6.2}%
+\contentsline {subsection}{\fontsize {11}{11}\selectfont \color {blue!80}\it \sffamily {{\FAtwo \symbol {124}}}\ Dạng\nobreakspace {}1.\nobreakspace {}Vận dụng định luật I nhiệt động lực học\nobreakspace {}}{42}{subsection.1.6.2}%
+\contentsline {subsection}{\fontsize {11}{11}\selectfont \color {blue!80}\it \sffamily {{\FAtwo \symbol {124}}}\ Dạng\nobreakspace {}2.\nobreakspace {}Bài toán về hiệu suất truyền nhiệt\nobreakspace {}}{43}{Item.138}%
+\contentsline {subsection}{\fontsize {11}{11}\selectfont \color {blue!80}\it \sffamily {{\FAtwo \symbol {124}}}\ Dạng\nobreakspace {}3.\nobreakspace {}Bài tập về động cơ nhiệt\nobreakspace {}}{45}{Item.142}%
+\contentsline {subsection}{\numberline {C}BÀI TẬP TRẮC NGHIỆM}{46}{subsection.1.6.3}%
+\contentsline {subsection}{\numberline {D}TRẮC NGHIỆM ĐÚNG/SAI}{47}{subsection.1.6.4}%
+\contentsline {subsection}{\numberline {E}BÀI TẬP TỰ LUẬN}{47}{subsection.1.6.5}%
+\contentsline {section}{\hspace *{-3.8pc}\fontsize {12.5pt}{13pt}\selectfont \sffamily \color {magenta} ÔN TẬP CHƯƠNG I}{49}{ex.6}%
+\contentsline {subsection}{\numberline {A}Câu trắc nghiệm nhiều phương án lựa chọn}{49}{subsection.1.6.1}%
+\contentsline {subsection}{\numberline {B}CÂU TRẮC NGHIỆM ĐÚNG/SAI}{50}{subsection.1.6.2}%
+\contentsline {subsection}{\numberline {C}CÂU TRẮC NGHIỆM TRẢ LỜI NGẮN}{51}{subsection.1.6.3}%
+\contentsline {chapter}{\numberline {2}KHÍ LÝ TƯỞNG}{52}{chapter.2}%
+\contentsline {section}{\numberline {1}MÔ HÌNH ĐỘNG HỌC PHÂN TỬ CHẤT KHÍ}{52}{section.2.1}%
+\contentsline {subsection}{\numberline {A}LÝ THUYẾT TRỌNG TÂM}{52}{subsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {1}Chuyển động Brown}{52}{subsubsection.2.1.1.1}%
+\contentsline {subsubsection}{\numberline {2}Chất khí}{52}{subsubsection.2.1.1.2}%
+\contentsline {paragraph}{\numberline {2.1}Tính chất của chất khí}{52}{paragraph.2.1.1.2.1}%
+\contentsline {paragraph}{\numberline {2.2}Lượng chất}{52}{paragraph.2.1.1.2.2}%
+\contentsline {subsubsection}{\numberline {3}Mô hình động học phân tử chất khí}{53}{subsubsection.2.1.1.3}%
+\contentsline {subsubsection}{\numberline {4}Khí lí tưởng}{53}{subsubsection.2.1.1.4}%
+\contentsline {subsection}{\numberline {B}VÍ DỤ MINH HOẠ}{53}{subsection.2.1.2}%
+\contentsline {subsection}{\fontsize {11}{11}\selectfont \color {blue!80}\it \sffamily {{\FAtwo \symbol {124}}}\ Dạng\nobreakspace {}1.\nobreakspace {}Phân tích mô hình Brown, nêu được các phân tử trong chất khí chuyển động hỗn loạn.\nobreakspace {}}{53}{subsection.2.1.2}%
+\contentsline {subsection}{\fontsize {11}{11}\selectfont \color {blue!80}\it \sffamily {{\FAtwo \symbol {124}}}\ Dạng\nobreakspace {}2.\nobreakspace {}Vận dụng được thuyết động học phân tử chất khí\nobreakspace {}}{53}{vd.1}%
+\contentsline {subsection}{\numberline {C}BÀI TẬP TRẮC NGHIỆM}{54}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {D}TRẮC NGHIỆM ĐÚNG/SAI}{55}{subsection.2.1.4}%
+\contentsline {subsection}{\numberline {E}BÀI TẬP TỰ LUẬN}{55}{subsection.2.1.5}%
+\contentsline {section}{\numberline {2}ĐỊNH LUẬT BOYLE}{56}{section.2.2}%
+\contentsline {subsection}{\numberline {A}LÝ THUYẾT TRỌNG TÂM}{56}{subsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {1}Trạng thái và quá trình biến đổi trạng thái}{56}{subsubsection.2.2.1.1}%
+\contentsline {subsubsection}{\numberline {2}Định luật Boyle}{56}{subsubsection.2.2.1.2}%
+\contentsline {subsection}{\numberline {B}VÍ DỤ MINH HOẠ}{57}{subsection.2.2.2}%
+\contentsline {subsection}{\fontsize {11}{11}\selectfont \color {blue!80}\it \sffamily {{\FAtwo \symbol {124}}}\ Dạng\nobreakspace {}1.\nobreakspace {}Vận dụng định luật Boyle giải thích được một số hiện tượng trong thực tế\nobreakspace {}}{57}{subsection.2.2.2}%
+\contentsline {subsection}{\fontsize {11}{11}\selectfont \color {blue!80}\it \sffamily {{\FAtwo \symbol {124}}}\ Dạng\nobreakspace {}2.\nobreakspace {}Giải được các bài toán liên quan quá trình đẳng nhiệt\nobreakspace {}}{57}{vd.2}%
+\contentsline {subsection}{\fontsize {11}{11}\selectfont \color {blue!80}\it \sffamily {{\FAtwo \symbol {124}}}\ Dạng\nobreakspace {}3.\nobreakspace {}Giải được bài toán piston cân bằng\nobreakspace {}}{59}{Item.195}%
+\contentsline {subsection}{\numberline {C}BÀI TẬP TRẮC NGHIỆM}{61}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {D}TRẮC NGHIỆM ĐÚNG/SAI}{64}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {E}BÀI TẬP TỰ LUẬN}{64}{subsection.2.2.5}%
+\contentsline {section}{\numberline {3}ĐỊNH LUẬT CHARLES}{67}{section.2.3}%
+\contentsline {subsection}{\numberline {A}LÝ THUYẾT TRỌNG TÂM}{67}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {B}VÍ DỤ MINH HOẠ}{67}{subsection.2.3.2}%
+\contentsline {subsection}{\fontsize {11}{11}\selectfont \color {blue!80}\it \sffamily {{\FAtwo \symbol {124}}}\ Dạng\nobreakspace {}1.\nobreakspace {}Vận dụng được định luật Charles\nobreakspace {}}{67}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {C}BÀI TẬP TRẮC NGHIỆM}{69}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {D}TRẮC NGHIỆM ĐÚNG/SAI}{70}{subsection.2.3.4}%
+\contentsline {subsection}{\numberline {E}BÀI TẬP TỰ LUẬN}{70}{subsection.2.3.5}%
+\contentsline {section}{\numberline {4}PHƯƠNG TRÌNH TRẠNG THÁI KHÍ LÍ TƯỞNG}{71}{section.2.4}%
+\contentsline {subsection}{\numberline {A}LÝ THUYẾT TRỌNG TÂM}{71}{subsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {1}Phương trình trạng thái của khí lí tưởng}{71}{subsubsection.2.4.1.1}%
+\contentsline {subsubsection}{\numberline {2}Quá trình đẳng tích}{71}{subsubsection.2.4.1.2}%
+\contentsline {subsection}{\numberline {B}VÍ DỤ MINH HOẠ}{71}{subsection.2.4.2}%
+\contentsline {subsection}{\fontsize {11}{11}\selectfont \color {blue!80}\it \sffamily {{\FAtwo \symbol {124}}}\ Dạng\nobreakspace {}1.\nobreakspace {}Sử dụng định luật Boyle và định luật Charles rút ra được phương trình trạng thái của khí lí tưởng\nobreakspace {}}{71}{subsection.2.4.2}%
+\contentsline {subsection}{\fontsize {11}{11}\selectfont \color {blue!80}\it \sffamily {{\FAtwo \symbol {124}}}\ Dạng\nobreakspace {}2.\nobreakspace {}Vận dụng được phương trình trạng thái của khí lí tưởng\nobreakspace {}}{73}{Item.215}%
+\contentsline {subsection}{\fontsize {11}{11}\selectfont \color {blue!80}\it \sffamily {{\FAtwo \symbol {124}}}\ Dạng\nobreakspace {}3.\nobreakspace {}Vận dụng được định luật Dalton \textit {(mở rộng)}\nobreakspace {}}{74}{vd.3}%
+\contentsline {subsection}{\numberline {C}BÀI TẬP TRẮC NGHIỆM}{75}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {D}TRẮC NGHIỆM ĐÚNG/SAI}{78}{subsection.2.4.4}%
+\contentsline {subsection}{\numberline {E}BÀI TẬP TỰ LUẬN}{79}{subsection.2.4.5}%
+\contentsline {section}{\numberline {5}PHƯƠNG TRÌNH CLAPEYRON - MENDELEEV}{80}{section.2.5}%
+\contentsline {subsection}{\numberline {A}LÝ THUYẾT TRỌNG TÂM}{80}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {B}VÍ DỤ MINH HOẠ}{80}{subsection.2.5.2}%
+\contentsline {subsection}{\fontsize {11}{11}\selectfont \color {blue!80}\it \sffamily {{\FAtwo \symbol {124}}}\ Dạng\nobreakspace {}1.\nobreakspace {}Xác định được mối liên hệ giữa các đại lượng $p$, $V$, $T$, $m$, $ M$\nobreakspace {}}{80}{subsection.2.5.2}%
+\contentsline {subsection}{\fontsize {11}{11}\selectfont \color {blue!80}\it \sffamily {{\FAtwo \symbol {124}}}\ Dạng\nobreakspace {}2.\nobreakspace {}Giải được bài toán thay đổi thông số trạng thái khi khối lượng khí thay đổi\nobreakspace {}}{81}{vd.3}%
+\contentsline {subsection}{\numberline {C}BÀI TẬP TRẮC NGHIỆM}{83}{subsection.2.5.3}%
+\contentsline {subsection}{\numberline {D}TRẮC NGHIỆM ĐÚNG/SAI}{85}{subsection.2.5.4}%
+\contentsline {subsection}{\numberline {E}BÀI TẬP TỰ LUẬN}{86}{subsection.2.5.5}%
+\contentsline {section}{\numberline {6}BÀI TẬP KHÍ LÍ TƯỞNG}{87}{section.2.6}%
+\contentsline {subsection}{\numberline {A}ÔN TẬP LÝ THUYẾT}{87}{subsection.2.6.1}%
+\contentsline {subsubsection}{\numberline {1}Phương trình trạng thái}{87}{subsubsection.2.6.1.1}%
+\contentsline {subsubsection}{\numberline {2}Phương trình Clapeyron - Mendeleev}{87}{subsubsection.2.6.1.2}%
+\contentsline {subsubsection}{\numberline {3}Các đẳng quá trình}{87}{subsubsection.2.6.1.3}%
+\contentsline {subsubsection}{\numberline {4}Đồ thị biểu diễn các đẳng quá trình trong các hệ toạ độ}{87}{subsubsection.2.6.1.4}%
+\contentsline {paragraph}{\numberline {4.1}Quá trình đẳng nhiệt}{87}{paragraph.2.6.1.4.1}%
+\contentsline {paragraph}{\numberline {4.2}Quá trình đẳng tích}{88}{paragraph.2.6.1.4.2}%
+\contentsline {paragraph}{\numberline {4.3}Quá trình đẳng áp}{88}{paragraph.2.6.1.4.3}%
+\contentsline {subsection}{\numberline {B}VÍ DỤ MINH HOẠ}{88}{subsection.2.6.2}%
+\contentsline {subsection}{\fontsize {11}{11}\selectfont \color {blue!80}\it \sffamily {{\FAtwo \symbol {124}}}\ Dạng\nobreakspace {}1.\nobreakspace {}Vẽ lại được đồ thị biến đổi trạng thái trong các hệ toạ độ\nobreakspace {}}{88}{subsection.2.6.2}%
+\contentsline {subsection}{\fontsize {11}{11}\selectfont \color {blue!80}\it \sffamily {{\FAtwo \symbol {124}}}\ Dạng\nobreakspace {}2.\nobreakspace {}Dựa vào đồ thị xác định được các thông số trạng thái của khối khí\nobreakspace {}}{89}{vd.1}%
+\contentsline {subsection}{\numberline {C}BÀI TẬP TRẮC NGHIỆM}{91}{subsection.2.6.3}%
+\contentsline {subsection}{\numberline {D}TRẮC NGHIỆM ĐÚNG/SAI}{93}{subsection.2.6.4}%
+\contentsline {subsection}{\numberline {E}BÀI TẬP TỰ LUẬN}{94}{subsection.2.6.5}%
+\contentsline {section}{\numberline {7}ÁP SUẤT - ĐỘNG NĂNG CỦA CHẤT KHÍ THEO MÔ HÌNH ĐỘNG HỌC PHÂN TỬ}{96}{section.2.7}%
+\contentsline {subsection}{\numberline {A}LÝ THUYẾT TRỌNG TÂM}{96}{subsection.2.7.1}%
+\contentsline {subsubsection}{\numberline {1}Áp suất chất khí theo mô hình động học phân tử}{96}{subsubsection.2.7.1.1}%
+\contentsline {subsubsection}{\numberline {2}Động năng tịnh tiến trung bình của phân tử khí}{96}{subsubsection.2.7.1.2}%
+\contentsline {subsection}{\numberline {B}VÍ DỤ MINH HOẠ}{96}{subsection.2.7.2}%
+\contentsline {subsection}{\fontsize {11}{11}\selectfont \color {blue!80}\it \sffamily {{\FAtwo \symbol {124}}}\ Dạng\nobreakspace {}1.\nobreakspace {}Giải thích được chuyển động của các phân tử ảnh hưởng như thế nào đến áp suất tác dụng lên thành bình và từ đó rút ra được hệ thức $p=\dfrac {1}{3}\mu m\overline {v^2}$\nobreakspace {}}{96}{subsection.2.7.2}%
+\contentsline {subsection}{\fontsize {11}{11}\selectfont \color {blue!80}\it \sffamily {{\FAtwo \symbol {124}}}\ Dạng\nobreakspace {}2.\nobreakspace {}Vận dụng được biểu thức tính động năng tịnh tiến trung bình của phân tử khí\nobreakspace {}}{99}{equation.2.7.14}%
+\contentsline {subsection}{\fontsize {11}{11}\selectfont \color {blue!80}\it \sffamily {{\FAtwo \symbol {124}}}\ Dạng\nobreakspace {}3.\nobreakspace {}Nội năng khí lí tưởng \textit {(Đọc thêm)}\nobreakspace {}}{99}{vd.2}%
+\contentsline {subsubsection}{\numberline {1}Nội năng khí lí tưởng đơn nguyên tử}{99}{subsubsection.2.7.2.1}%
+\contentsline {subsubsection}{\numberline {2}Công của khí thực hiện trong các đẳng quá trình}{99}{subsubsection.2.7.2.2}%
+\contentsline {paragraph}{\numberline {2.1}Quá trình đẳng tích}{100}{paragraph.2.7.2.2.1}%
+\contentsline {paragraph}{\numberline {2.2}Quá trình đẳng áp}{100}{paragraph.2.7.2.2.2}%
+\contentsline {paragraph}{\numberline {2.3}Quá trình đẳng nhiệt}{101}{paragraph.2.7.2.2.3}%
+\contentsline {subsubsection}{\numberline {3}Định luật I nhiệt động lực học}{101}{subsubsection.2.7.2.3}%
+\contentsline {subsection}{\numberline {C}BÀI TẬP TRẮC NGHIỆM}{102}{subsection.2.7.3}%
+\contentsline {subsection}{\numberline {D}TRẮC NGHIỆM ĐÚNG/SAI}{104}{subsection.2.7.4}%
+\contentsline {subsection}{\numberline {E}BÀI TẬP TỰ LUẬN}{105}{subsection.2.7.5}%
+\contentsline {section}{\hspace *{-3.8pc}\fontsize {12.5pt}{13pt}\selectfont \sffamily \color {magenta} ÔN TẬP CHƯƠNG II}{107}{ex.11}%
+\contentsline {subsection}{\numberline {A}CÂU TRẮC NGHIỆM NHIỀU PHƯƠNG ÁN LỰA CHỌN}{107}{subsection.2.7.1}%
+\contentsline {subsection}{\numberline {B}CÂU TRẮC NGHIỆM ĐÚNG/SAI}{109}{subsection.2.7.2}%
+\contentsline {subsection}{\numberline {C}CÂU TRẮC NGHIỆM TRẢ LỜI NGẮN}{110}{subsection.2.7.3}%
 \contentsfinish 
