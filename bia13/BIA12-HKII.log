@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.6)  8 NOV 2024 11:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.6)  8 NOV 2024 13:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**BIA12-HKI.tex
-(./BIA12-HKI.tex
+**BIA12-HKII.tex
+(./BIA12-HKII.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (c:/texlive/2024/texmf-dist/tex/latex/base/book.cls
@@ -783,8 +783,8 @@ orations.text.code.tex
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
 brarydecorations.pathmorphing.code.tex
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydec
-orations.pathmorphing.code.tex)) (./BIA12-HKI.aux)
-\openout1 = `BIA12-HKI.aux'.
+orations.pathmorphing.code.tex)) (./BIA12-HKII.aux)
+\openout1 = `BIA12-HKII.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
@@ -831,11 +831,11 @@ LaTeX Font Info:    Trying to load font information for T5+qag on input line 55
 (c:/texlive/2024/texmf-dist/tex/latex/tex-gyre/t5qag.fd
 File: t5qag.fd 2009/09/25 v1.2 font definition file for T5/qag
 )
-<nen.jpg, id=31, 1284.8pt x 722.7pt>
-File: nen.jpg Graphic file (type jpg)
-<use nen.jpg>
-Package pdftex.def Info: nen.jpg  used on input line 87.
-(pdftex.def)             Requested size: 625.96062pt x 352.10806pt.
+<nen12-sem2.jpg, id=31, 628.2672pt x 386.8854pt>
+File: nen12-sem2.jpg Graphic file (type jpg)
+<use nen12-sem2.jpg>
+Package pdftex.def Info: nen12-sem2.jpg  used on input line 87.
+(pdftex.def)             Requested size: 369.88582pt x 227.77634pt.
 LaTeX Font Info:    Trying to load font information for T5+put on input line 13
 6.
 
@@ -845,27 +845,27 @@ File: t5put.fd 2006/07/30 Fontinst v1.927 font definitions for T5/put.
 
 {c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/
 texmf-dist/fonts/enc/dvips/tex-gyre/q-t5.enc}{c:/texlive/2024/texmf-dist/fonts/
-enc/dvips/vntex/t5.enc} <./nen.jpg>] (./BIA12-HKI.aux)
+enc/dvips/vntex/t5.enc} <./nen12-sem2.jpg>] (./BIA12-HKII.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 18757 strings out of 474116
- 405162 string characters out of 5747718
- 1968190 words of memory out of 5000000
- 40749 multiletter control sequences out of 15000+600000
+ 18689 strings out of 474116
+ 403906 string characters out of 5747718
+ 1960190 words of memory out of 5000000
+ 40681 multiletter control sequences out of 15000+600000
  582924 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,7n,107p,406b,701s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,7n,107p,407b,701s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/vntex/vntopia/putb8v.pfb><c:/texlive/
 2024/texmf-dist/fonts/type1/public/tex-gyre/qagb.pfb><c:/texlive/2024/texmf-dis
 t/fonts/type1/public/tex-gyre/qagri.pfb>
-Output written on BIA12-HKI.pdf (1 page, 138599 bytes).
+Output written on BIA12-HKII.pdf (1 page, 155921 bytes).
 PDF statistics:
- 57 PDF objects out of 1000 (max. 8388607)
- 28 compressed objects within 1 object stream
+ 55 PDF objects out of 1000 (max. 8388607)
+ 27 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 126 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 120 words of extra memory for PDF output out of 10000 (max. 10000000)
 
